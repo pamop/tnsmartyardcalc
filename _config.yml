@@ -28,7 +28,8 @@ url: "https://pamop.github.io" # the base hostname & protocol for your site, e.g
 github_username:  pamop
 
 # Build settings
-theme: jekyll-theme-cayman
+# theme: jekyll-theme-cayman
+# theme: minima
 # plugins:
   # - jekyll-feed
 
