@@ -1,10 +1,15 @@
 <script setup>
-import HelloWorld from './components/HelloWorld.vue'
-import TheWelcome from './components/TheWelcome.vue'
+// import HelloWorld from './components/HelloWorld.vue'
+// import TheWelcome from './components/TheWelcome.vue'
+import CalculatorForm from './components/CalculatorForm.vue'
+
 </script>
 
 <template>
-  <header>
+  <CalculatorForm>
+
+  </CalculatorForm>
+  <!-- <header>
     <img alt="Vue logo" class="logo" src="./assets/logo.svg" width="125" height="125" />
 
     <div class="wrapper">
@@ -14,7 +19,7 @@ import TheWelcome from './components/TheWelcome.vue'
 
   <main>
     <TheWelcome />
-  </main>
+  </main> -->
 </template>
 
 <style scoped>

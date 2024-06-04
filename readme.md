@@ -1,6 +1,15 @@
 # tnsmartyardcalc
 
-This template should help get you started developing with Vue 3 in Vite.
+## references and links
+[Deploying a vite-vue3 app in github pages](https://mkay11.medium.com/how-to-deploy-your-vite-vue-3-application-in-github-pages-2023-2b842f50576a)
+
+To build and deploy:
+
+```sh
+npm run deploy
+```
+
+# From vue
 
 ## Recommended IDE Setup
 
