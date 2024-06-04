@@ -9,6 +9,9 @@ To build and deploy:
 npm run deploy
 ```
 
+Visit site:
+[https://pamop.github.io/tnsmartyardcalc/](https://pamop.github.io/tnsmartyardcalc/)
+
 # From vue
 
 ## Recommended IDE Setup
