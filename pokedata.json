@@ -1,0 +1,146 @@
+[
+    {
+        "generation": 1,
+        "region": "Kanto",
+        "type": "Grass",
+        "height": 0.7
+    },
+    {
+        "generation": 1,
+        "region": "Kanto",
+        "type": "Fire",
+        "height": 0.6
+    },
+    {
+        "generation": 1,
+        "region": "Kanto",
+        "type": "Water",
+        "height": 0.5
+    },
+    {
+        "generation": 2,
+        "region": "Johto",
+        "type": "Grass",
+        "height": 0.9
+    },
+    {
+        "generation": 2,
+        "region": "Johto",
+        "type": "Fire",
+        "height": 0.5
+    },
+    {
+        "generation": 2,
+        "region": "Johto",
+        "type": "Water",
+        "height": 0.6
+    },
+    {
+        "generation": 3,
+        "region": "Hoen",
+        "type": "Grass",
+        "height": 0.5
+    },
+    {
+        "generation": 3,
+        "region": "Hoen",
+        "type": "Fire",
+        "height": 0.4
+    },
+    {
+        "generation": 3,
+        "region": "Hoen",
+        "type": "Water",
+        "height": 0.4
+    },
+    {
+        "generation": 4,
+        "region": "Sinnoh",
+        "type": "Grass",
+        "height": 0.4
+    },
+    {
+        "generation": 4,
+        "region": "Sinnoh",
+        "type": "Fire",
+        "height": 0.5
+    },
+    {
+        "generation": 4,
+        "region": "Sinnoh",
+        "type": "Water",
+        "height": 0.4
+    },
+    {
+        "generation": 5,
+        "region": "Unova",
+        "type": "Grass",
+        "height": 0.6
+    },
+    {
+        "generation": 5,
+        "region": "Unova",
+        "type": "Fire",
+        "height": 0.5
+    },
+    {
+        "generation": 5,
+        "region": "Unova",
+        "type": "Water",
+        "height": 0.5
+    },
+    {
+        "generation": 6,
+        "region": "Kalos",
+        "type": "Grass",
+        "height": 0.4
+    },
+    {
+        "generation": 6,
+        "region": "Kalos",
+        "type": "Fire",
+        "height": 0.4
+    },
+    {
+        "generation": 6,
+        "region": "Kalos",
+        "type": "Water",
+        "height": 0.3
+    },
+    {
+        "generation": 7,
+        "region": "Alola",
+        "type": "Grass",
+        "height": 0.3
+    },
+    {
+        "generation": 7,
+        "region": "Alola",
+        "type": "Fire",
+        "height": 0.4
+    },
+    {
+        "generation": 7,
+        "region": "Alola",
+        "type": "Water",
+        "height": 0.4
+    },
+    {
+        "generation": 8,
+        "region": "Galar",
+        "type": "Grass",
+        "height": 0.3
+    },
+    {
+        "generation": 8,
+        "region": "Galar",
+        "type": "Fire",
+        "height": 0.3
+    },
+    {
+        "generation": 8,
+        "region": "Galar",
+        "type": "Water",
+        "height": 0.3
+    }
+]
