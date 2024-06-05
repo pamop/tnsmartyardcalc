@@ -3,6 +3,17 @@ import { ref, reactive, computed, onMounted, watch } from 'vue'
 import axios from 'axios'
 // import * as utils from '@/utils.js';
 // import { readCSV, DataFrame } from "danfojs"
+import { loadPyodide } from "pyodide";
+
+async function hello_python() {
+  let pyodide = await loadPyodide();
+  return pyodide.runPythonAsync("1+1");
+}
+
+hello_python().then((result) => {
+  console.log("Python says that 1+1 =", result);
+});
+
 
 // const dfd = require("danfojs")
 const default_region = "Kanto"
