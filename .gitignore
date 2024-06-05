@@ -1,6 +1,8 @@
 # python stuff
 .venv
-.DS_Store
+
+# public assets (pyodide install)
+/public/assets
 
 # Logs
 logs
