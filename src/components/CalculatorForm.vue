@@ -3,8 +3,8 @@ import { ref, reactive, computed, onMounted, watch } from 'vue'
 import axios from 'axios'
 // import * as utils from '@/utils.js';
 // import { readCSV, DataFrame } from "danfojs"
-// import { loadPyodide } from "pyodide";
-import { loadPyodide } from "../public/assets/pyodide.mjs";
+import { loadPyodide } from "pyodide";
+// import { loadPyodide } from "@/public/assets/pyodide.mjs";
 
 async function hello_python() {
   let pyodide = await loadPyodide();
