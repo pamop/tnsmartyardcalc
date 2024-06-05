@@ -158,7 +158,7 @@ function calculatePokeHeight() {
       <h3>Pokemon height calculator</h3>
       <br />
       <p class="is-size-6">
-        Select a region and a type and I'll tell you the average height of the pokemon. Is it real data? NO! It's made up! 
+        Select a region and a type and I'll tell you the average height of the pokemon. I think it's in meters. 
       </p>
       <div class="formstep">
         

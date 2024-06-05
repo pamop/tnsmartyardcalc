@@ -1,5 +1,6 @@
-# python env
+# python stuff
 .venv
+.DS_Store
 
 # Logs
 logs
