@@ -13,6 +13,10 @@ Visit site:
 [https://pamop.github.io/tnsmartyardcalc/](https://pamop.github.io/tnsmartyardcalc/)
 
 
+
+## zip code database from:
+https://www.unitedstateszipcodes.org/zip-code-database/
+
 ## Installing pyodide for github pages use with vue/vite
 after running npm install pyodide, follow the following guide: 
 [guide](https://pyodide.org/en/stable/usage/working-with-bundlers.html)

@@ -4,30 +4,30 @@ import axios from 'axios'
 // import * as utils from '@/utils.js';
 // import { readCSV, DataFrame } from "danfojs"
 import { loadPyodide } from "pyodide";
-// import { loadPyodide } from "@/public/assets/pyodide.mjs";
 
 async function hello_python() {
-  let pyodide = await loadPyodide();
-  return pyodide.runPythonAsync("1+1");
+    let pyodide = await loadPyodide();
+    // return pyodide.runPythonAsync(pyscript);
+    return pyodide;
 }
 
-hello_python().then((result) => {
-  console.log("Python says that 1+1 =", result);
-});
+const computedValue = ref(0); 
 
+// // Access computed value from Python
+// this.computedValue = pyodide.globals.get('computed_value');
 
-// const dfd = require("danfojs")
 const default_region = "Kanto"
 const default_type = "Grass"
 
 const result = ref("")
 const heightval = ref(0)
 
+let pyscript;
+
 const forminfo = reactive({
   region: default_region,
   type: default_type,
 })
-
 
 // Form values for dropdowns (non-reactive)
 const regions = [
@@ -52,19 +52,6 @@ const games = [...Array(12).keys()]
 /// /// /// /// /// /// /// /// /// /// /// /// /// ///
 // // // Form values (reactive)
 
-// get pokemon height from csv
-// const filepath = 'pokenmon_longformat.csv' // it's in public/
-// // import csv as dataframe using danfo.js
-// readCSV("/home/Desktop/titanic.csv")
-//   .then(df => {
-
-//    //do something with the CSV file
-//    df.head().print()
-
-//   }).catch(err=>{
-//      console.log(err);
-//   })
-
 // // // GET SESSION INDEX FROM JSON DATA
 const filepath = 'pokedata.json'
 const pokedata = ref({ dummy: 'nothing' })
@@ -88,27 +75,38 @@ const sessions = computed(() => {
 })
 
 onMounted(async () => {
-    // axios
-    //     .get('/pokemon_longformat.csv',{ responseType: 'blob',})
-    //     .then((response) => {
-    //     pokedata = response.data
-    //     })
-
-    //     pokedata.text().then((csvStr) => {
-    //         console.log(csvStr);
-    //     })
+    // in here, do the await data fetching
     const response = await fetch(filepath)
     pokedata.value = await response.json()
-    console.log(pokedata.value)
-    console.log(pokedata.value.filter(item => item.region == "Galar"))
+
+    // let pyodide = await loadPyodide();
+    pyscript = await fetch('example.py')
+        .then(response => response.text())
+
+    console.log(pyscript);
+
+    // pyodide.runPython(pyscript);
+    // // Access computed value from Python
+    // computedValue.value = pyodide.globals.get('computed_value');
+    
+    // // const pyscript = await fetch('/example.py')
+    // // fetch('/example.py')
+    // //     .then(response => response.text())
+    // //     .then(script => {
+    // //     pyodide.runPython(script);
+    // //     // Access computed value from Python
+    // //     computedValue.value = pyodide.globals.get('computed_value');
+    // //     })
+
     
 })
 
-// const result = computed((reg,typ) => {
-
-// })
 // in component
 function calculatePokeHeight() {
+    hello_python().then((mypyodide) => {
+        mypyodide.runPython(pyscript);
+        computedValue.value = mypyodide.globals.get('computed_value');
+    });
     console.log("Calculating...")
     // regionrows = pokedata.value.filter(item => item.region == forminfo.region) // Finds all rows that satisfy this condition
     // typeinregion = regionrows.value.find(item => item.type == forminfo.type) // Finds the first "row" that satisfies this condition
@@ -167,6 +165,9 @@ function calculatePokeHeight() {
 <template>
   <div class="page">
     <div class="formcontent">
+        <div>  
+        <p>Computed value from Python: {{ computedValue }}</p>
+        </div>
       <h3>Pokemon height calculator</h3>
       <br />
       <p class="is-size-6">
