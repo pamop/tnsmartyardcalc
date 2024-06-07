@@ -5,9 +5,11 @@ import os
 import js
 
 # to make sure we import the files from the correct directory
-dir_path  = os.path.dirname(os.path.realpath(__file__))
+dir_path  = '.' #os.path.dirname(os.path.realpath(__file__))
+print(os.getcwd())
 
 tnzips = pd.read_csv(dir_path + '/tn_zipcodes.csv') # zip codes and corresponding counties and lat/long coords
 lsdf = pd.read_csv(dir_path + '/ls_values.csv') # ls values given slope percent and length
 
 result = js.forminfo.zipcode.value + 5000
+print(result)
