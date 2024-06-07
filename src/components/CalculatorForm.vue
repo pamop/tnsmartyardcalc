@@ -1,31 +1,88 @@
 <script setup>
 import { ref, reactive, computed, onMounted, watch } from 'vue'
 import axios from 'axios'
+
+// const pyodide = ref(null)
+// const jsVariable = ref('Hello from JavaScript!')
+
+// const loadPyodide = async () => {
+//   try {
+//     // Load Pyodide
+//     pyodide.value = await loadPyodide({
+//       indexURL: "https://cdn.jsdelivr.net/pyodide/v0.21.0/full/"
+//     });
+//     console.log(pyodide)
+//     // Load required packages
+//     await pyodide.value.loadPackage(['numpy', 'pandas']);
+//     console.log('Packages loaded successfully');
+//   } catch (error) {
+//     console.error('Failed to load Pyodide or packages:', error);
+//   }
+// }
+
+// // onMounted(async () => {
+// //   await loadPyodide();
+// // });
+
+// const runPythonCode = async () => {
+//   // Ensure Pyodide is loaded
+//   if (!pyodide.value) {
+//     console.error('Pyodide is not loaded');
+//     return;
+//   }
+
+//   // Set JavaScript variable to be used in Python
+//   pyodide.value.globals.set('js_var', jsVariable.value);
+
+//   // Python code to use the JavaScript variable
+//   const pythonCode = `
+// import js
+// import numpy as np
+// import pandas as pd
+
+// js_var = js.js_var
+// print(js_var)
+
+// # Example usage of numpy and pandas
+// array = np.array([1, 2, 3])
+// df = pd.DataFrame({'A': [1, 2], 'B': [3, 4]})
+// print(array)
+// print(df)
+//   `;
+
+//   // Run the Python code
+//   try {
+//     await pyodide.value.runPythonAsync(pythonCode);
+//   } catch (error) {
+//     console.error('Error running Python code:', error);
+//   }
+// }
+
 // import * as utils from '@/utils.js';
 // import { readCSV, DataFrame } from "danfojs"
 // import { loadPyodide } from 'pyodide'
 // import { loadPyodide } from "@/../public/assets/pyodide.mjs";
 
-let pyodide
-async function startup_py() {
-    const pyodide = await loadPyodide({
-          indexURL : "https://cdn.jsdelivr.net/pyodide/v0.26.0/full/"
-    });
-  
-    // Load required packages
-    try {
-        await pyodide.loadPackage(['numpy', 'pandas']);
-        console.log('Packages loaded successfully');
-    } catch (error) {
-        console.error('Failed to load packages:', error);
-    }
+// let pyodide
+// async function startup_py() {
+//     const pyodide = await loadPyodide({
+//           indexURL : "https://cdn.jsdelivr.net/pyodide/v0.21.0/full/"
+//     });
+
+//     // Load required packages
+//     try {
+//         await pyodide.loadPackage(['numpy', 'pandas']);
+//         console.log('Packages loaded successfully');
+//     } catch (error) {
+//         console.error('Failed to load packages:', error);
+//     }
 //   pyodide = await loadPyodide({ packages: ["numpy"] })
 //   await pyodide.loadPackage('numpy', {
 //     checkIntegrity: false
 //   })
-  // const micropip = pyodide.pyimport("micropip");
-  // let micropip = pyodide.pyimport('numpy');
-}
+// const micropip = pyodide.pyimport("micropip");
+// let micropip = pyodide.pyimport('numpy');
+// }
 
 // async function hello_python() {
 //     // let pyodide = await loadPyodide();
@@ -111,19 +168,21 @@ onMounted(async () => {
   const response = await fetch(filepath)
   pokedata.value = await response.json()
 
+  //   await loadPyodide();
+
   // let pyodide = await loadPyodide();
   // pyscript = await fetch('example.py')
   //     .then(response => response.text())
 
-  startup_py().then(() => {
-    console.log('pyodide initiated')
-  })
+  //   startup_py().then(() => {
+  //     console.log('pyodide initiated')
+  //   })
 
-//   pyodide.runPython(`
-//         import sys
-//         sys.version
-//     `)
-//   console.log('i did it?')
+  //   pyodide.runPython(`
+  //         import sys
+  //         sys.version
+  //     `)
+  //   console.log('i did it?')
 
   ruslescript = await fetch('calculator_utils/calculator.py').then((response) => response.text())
 
@@ -148,7 +207,7 @@ function calculateRUSLEValues() {
   // use zipcode from form into python script
 
   console.log('Calculating...')
-
+  runPythonCode()
   // hello_python().then(() => {
   //     pyodide.runPython(ruslescript);
   //     computedValue.value = pyodide.globals.get('computed_value');
@@ -224,6 +283,9 @@ function calculatePokeHeight() {
 
 <template>
   <div class="page">
+    <div>
+      <button @click="runPythonCode">Run Python Code</button>
+    </div>
     <div class="formcontent">
       <div>
         <p>Computed value from Python: {{ computedValue }}</p>
