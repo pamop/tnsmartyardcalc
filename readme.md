@@ -20,6 +20,9 @@ https://www.unitedstateszipcodes.org/zip-code-database/
 ## Installing pyodide for github pages use with vue/vite
 after running npm install pyodide, follow the following guide: 
 [guide](https://pyodide.org/en/stable/usage/working-with-bundlers.html)
+also note issue [here](https://github.com/pyodide/pyodide/issues/4815)
+also used guidance from chatgpt to use cdn rather than npm 
+phew
 
 # From vue
 

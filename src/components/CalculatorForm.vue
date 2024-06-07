@@ -3,48 +3,80 @@ import { ref, reactive, computed, onMounted, watch } from 'vue'
 import axios from 'axios'
 // import * as utils from '@/utils.js';
 // import { readCSV, DataFrame } from "danfojs"
-import { loadPyodide } from "pyodide";
+// import { loadPyodide } from 'pyodide'
+// import { loadPyodide } from "@/../public/assets/pyodide.mjs";
 
-async function hello_python() {
-    let pyodide = await loadPyodide();
-    // return pyodide.runPythonAsync(pyscript);
-    return pyodide;
+let pyodide
+async function startup_py() {
+    const pyodide = await loadPyodide({
+          indexURL : "https://cdn.jsdelivr.net/pyodide/v0.26.0/full/"
+    });
+  
+    // Load required packages
+    try {
+        await pyodide.loadPackage(['numpy', 'pandas']);
+        console.log('Packages loaded successfully');
+    } catch (error) {
+        console.error('Failed to load packages:', error);
+    }
+//   pyodide = await loadPyodide({ packages: ["numpy"] })
+//   await pyodide.loadPackage('numpy', {
+//     checkIntegrity: false
+//   })
+  // const micropip = pyodide.pyimport("micropip");
+  // let micropip = pyodide.pyimport('numpy');
 }
 
-const computedValue = ref(0); 
+// async function hello_python() {
+//     // let pyodide = await loadPyodide();
+//     // // return pyodide.runPythonAsync(pyscript);
+//     // // await pyodide.loadPackage("micropip")
+//     pyodide = await loadPyodide()
+//     await pyodide.loadPackage(['micropip'])
+//     const namespace = pyodide.globals.get('dict')()
+
+//     // return pyodide;
+// }
+// const someoneelse = null;
+const computedValue = ref(0)
+
+let ruslescript
+let itreescript
+
+// pyodide.imready(instance){
+//   instance.runPython(`
+//     import sys
+//     sys.version
+//   `);
+//   console.log("i did it?");
+// };
+
+// hello_python().then((mypyodide) => {
+//     mypyodide.runPython(pyscript);
+//     computedValue.value = mypyodide.globals.get('computed_value');
+// });
 
 // // Access computed value from Python
 // this.computedValue = pyodide.globals.get('computed_value');
 
-const default_region = "Kanto"
-const default_type = "Grass"
+const default_region = 'Kanto'
+const default_type = 'Grass'
+const default_zip = 37000
 
-const result = ref("")
+const result = ref('')
 const heightval = ref(0)
 
-let pyscript;
+let pyscript
 
 const forminfo = reactive({
   region: default_region,
   type: default_type,
+  zipcode: default_zip
 })
 
 // Form values for dropdowns (non-reactive)
-const regions = [
-    'Kanto',
-    'Johto',
-    'Hoen',
-    'Sinnoh',
-    'Unova',
-    'Kalos',
-    'Alola',
-    'Galar'
-]
-const types = [
-    'Grass',
-    'Water',
-    'Fire'
-]
+const regions = ['Kanto', 'Johto', 'Hoen', 'Sinnoh', 'Unova', 'Kalos', 'Alola', 'Galar']
+const types = ['Grass', 'Water', 'Fire']
 
 // twelve games [0,1,2,3,...,11]
 const games = [...Array(12).keys()]
@@ -56,65 +88,94 @@ const games = [...Array(12).keys()]
 const filepath = 'pokedata.json'
 const pokedata = ref({ dummy: 'nothing' })
 
-const sessions = computed(() => {
-  const validsessions = ['any'] // append other sessions to this. if user picks "any", it selects a random environment
+// const sessions = computed(() => {
+//   const validsessions = ['any'] // append other sessions to this. if user picks "any", it selects a random environment
 
-  Object.keys(seshindex.value).forEach((x) => {
-    if (
-      (seshindex.value[x].costCond === forminfo.costCond ||
-        forminfo.costCond === 'any') &&
-      (seshindex.value[x].resourceCond === forminfo.resourceCond ||
-        forminfo.resourceCond === 'any') &&
-      (seshindex.value[x].visibilityCond === forminfo.visibilityCond ||
-        forminfo.visibilityCond === 'any')
-    ) {
-      validsessions.push(x)
-    }
-  })
-  return validsessions
-})
+//   Object.keys(seshindex.value).forEach((x) => {
+//     if (
+//       (seshindex.value[x].costCond === forminfo.costCond ||
+//         forminfo.costCond === 'any') &&
+//       (seshindex.value[x].resourceCond === forminfo.resourceCond ||
+//         forminfo.resourceCond === 'any') &&
+//       (seshindex.value[x].visibilityCond === forminfo.visibilityCond ||
+//         forminfo.visibilityCond === 'any')
+//     ) {
+//       validsessions.push(x)
+//     }
+//   })
+//   return validsessions
+// })
 
 onMounted(async () => {
-    // in here, do the await data fetching
-    const response = await fetch(filepath)
-    pokedata.value = await response.json()
+  // in here, do the await data fetching
+  const response = await fetch(filepath)
+  pokedata.value = await response.json()
 
-    // let pyodide = await loadPyodide();
-    pyscript = await fetch('example.py')
-        .then(response => response.text())
+  // let pyodide = await loadPyodide();
+  // pyscript = await fetch('example.py')
+  //     .then(response => response.text())
 
-    console.log(pyscript);
+  startup_py().then(() => {
+    console.log('pyodide initiated')
+  })
 
-    // pyodide.runPython(pyscript);
-    // // Access computed value from Python
-    // computedValue.value = pyodide.globals.get('computed_value');
-    
-    // // const pyscript = await fetch('/example.py')
-    // // fetch('/example.py')
-    // //     .then(response => response.text())
-    // //     .then(script => {
-    // //     pyodide.runPython(script);
-    // //     // Access computed value from Python
-    // //     computedValue.value = pyodide.globals.get('computed_value');
-    // //     })
+//   pyodide.runPython(`
+//         import sys
+//         sys.version
+//     `)
+//   console.log('i did it?')
 
-    
+  ruslescript = await fetch('calculator_utils/calculator.py').then((response) => response.text())
+
+  // console.log(ruslescript);
+
+  // pyodide.runPython(pyscript);
+  // // Access computed value from Python
+  // computedValue.value = pyodide.globals.get('computed_value');
+
+  // // const pyscript = await fetch('/example.py')
+  // // fetch('/example.py')
+  // //     .then(response => response.text())
+  // //     .then(script => {
+  // //     pyodide.runPython(script);
+  // //     // Access computed value from Python
+  // //     computedValue.value = pyodide.globals.get('computed_value');
+  // //     })
 })
 
 // in component
+function calculateRUSLEValues() {
+  // use zipcode from form into python script
+
+  console.log('Calculating...')
+
+  // hello_python().then(() => {
+  //     pyodide.runPython(ruslescript);
+  //     computedValue.value = pyodide.globals.get('computed_value');
+
+  // });
+  console.log(result)
+  return
+}
+
+// in component
 function calculatePokeHeight() {
-    hello_python().then((mypyodide) => {
-        mypyodide.runPython(pyscript);
-        computedValue.value = mypyodide.globals.get('computed_value');
-    });
-    console.log("Calculating...")
-    // regionrows = pokedata.value.filter(item => item.region == forminfo.region) // Finds all rows that satisfy this condition
-    // typeinregion = regionrows.value.find(item => item.type == forminfo.type) // Finds the first "row" that satisfies this condition
-    heightval.value = pokedata.value.filter(item => item.region == forminfo.region).find(item => item.type == forminfo.type)
-    console.log(heightval.value)
-    result.value = 'For a ' + forminfo.type + ' pokemon in ' + forminfo.region + ' region, the height is: ' + heightval.value.height
-    return
-  }
+  console.log('Calculating...')
+  // regionrows = pokedata.value.filter(item => item.region == forminfo.region) // Finds all rows that satisfy this condition
+  // typeinregion = regionrows.value.find(item => item.type == forminfo.type) // Finds the first "row" that satisfies this condition
+  heightval.value = pokedata.value
+    .filter((item) => item.region == forminfo.region)
+    .find((item) => item.type == forminfo.type)
+  console.log(heightval.value)
+  result.value =
+    'For a ' +
+    forminfo.type +
+    ' pokemon in ' +
+    forminfo.region +
+    ' region, the height is: ' +
+    heightval.value.height
+  return
+}
 // // default randomly select game from eligible list
 // const selectedgame = computed(() => {
 //   const seshlist = sessions.value
@@ -159,54 +220,55 @@ function calculatePokeHeight() {
 
 //   return whichgame
 // })
-
 </script>
 
 <template>
   <div class="page">
     <div class="formcontent">
-        <div>  
+      <div>
         <p>Computed value from Python: {{ computedValue }}</p>
-        </div>
+      </div>
       <h3>Pokemon height calculator</h3>
       <br />
       <p class="is-size-6">
-        Select a region and a type and I'll tell you the average height of the pokemon. I think it's in meters. 
+        Select a region and a type and I'll tell you the average height of the pokemon. I think it's
+        in meters.
       </p>
       <div class="formstep">
-        
         <FormKit
-        type="select"
-        label="Region"
-        name="region"
-        v-model="forminfo.region"
-        placeholder=default_region
-        :options="regions"
+          type="text"
+          label="Zip code (Tennessee only)"
+          number
+          name="zipcode"
+          help="My value will be a number if it can be parsed by parseFloat"
+          value="37000"
+        />
+        <FormKit
+          type="select"
+          label="Region"
+          name="region"
+          v-model="forminfo.region"
+          placeholder="default_region"
+          :options="regions"
         />
 
         <FormKit
-        type="select"
-        label="Type"
-        name="type"
-        v-model="forminfo.type"
-        placeholder=default_type
-        :options="types"
+          type="select"
+          label="Type"
+          name="type"
+          v-model="forminfo.type"
+          placeholder="default_type"
+          :options="types"
         />
-        <br>
+        <br />
         <hr />
-        <br>
-        <button
-            class="button"
-            id="calculate"
-            @click="calculatePokeHeight"
-        >
-            Calculate!
-        </button>
+        <br />
+        <button class="button" id="calculate" @click="calculatePokeHeight">Calculate!</button>
+        <button class="button" id="calculate" @click="calculateRUSLEValues">RUSLE!</button>
+        <br />
+        <br />
 
-        <br>
-        <br>
-
-        <p>{{result}}</p>
+        <p>{{ result }}</p>
       </div>
     </div>
   </div>

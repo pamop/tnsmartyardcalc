@@ -9,7 +9,7 @@ const loggerWarn = logger.warn;
 
 logger.warn = (msg, options) => {
   // Ignore warnings from pyodide distribution
-  if (msg.includes("/public/pyodide/")) return;
+  if (msg.includes("pyodide")) return;
   loggerWarn(msg, options);
 };
 

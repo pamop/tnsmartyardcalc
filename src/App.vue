@@ -1,14 +1,11 @@
 <script setup>
 // import HelloWorld from './components/HelloWorld.vue'
 // import TheWelcome from './components/TheWelcome.vue'
-import CalculatorForm from './components/CalculatorForm.vue'
-
+// import CalculatorForm from './components/CalculatorForm.vue'
 </script>
 
 <template>
-  <CalculatorForm>
-
-  </CalculatorForm>
+  <!-- <CalculatorForm> </CalculatorForm> -->
   <!-- <header>
     <img alt="Vue logo" class="logo" src="./assets/logo.svg" width="125" height="125" />
 
@@ -21,6 +18,70 @@ import CalculatorForm from './components/CalculatorForm.vue'
     <TheWelcome />
   </main> -->
 </template>
+
+<script>
+export default {
+  data() {
+    return {
+      pyodide: null,
+      jsVariable: 'Hello from JavaScript!'
+    };
+  },
+  async mounted() {
+    await this.loadPyodide();
+  },
+  methods: {
+    async loadPyodide() {
+      try {
+        // Load Pyodide
+        this.pyodide = await loadPyodide({
+          indexURL: "https://cdn.jsdelivr.net/pyodide/v0.21.0/full/"
+        });
+
+        // Load required packages
+        await this.pyodide.loadPackage(['numpy', 'pandas']);
+        console.log('Packages loaded successfully');
+      } catch (error) {
+        console.error('Failed to load Pyodide or packages:', error);
+      }
+    },
+    async runPythonCode() {
+      // Ensure Pyodide is loaded
+      if (!this.pyodide) {
+        console.error('Pyodide is not loaded');
+        return;
+      }
+
+      // Set JavaScript variable to be used in Python
+      this.pyodide.globals.set('js_var', this.jsVariable);
+
+      // Python code to use the JavaScript variable
+      const pythonCode = `
+import js
+import numpy as np
+import pandas as pd
+# import rasterio
+
+js_var = js.js_var
+print(js_var)
+
+# Example usage of numpy and pandas
+array = np.array([1, 2, 3])
+df = pd.DataFrame({'A': [1, 2], 'B': [3, 4]})
+print(array)
+print(df)
+      `;
+
+      // Run the Python code
+      try {
+        await this.pyodide.runPythonAsync(pythonCode);
+      } catch (error) {
+        console.error('Error running Python code:', error);
+      }
+    }
+  }
+};
+</script>
 
 <style scoped>
 header {

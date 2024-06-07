@@ -5,7 +5,7 @@ import App from './App.vue' // import the main app component
 import { plugin, defaultConfig } from '@formkit/vue'
 // import with an @ symbol are resolved by vite to ./src directory
 
-// Create the app 
+// Create the app
 const app = createApp(App)
 
 // register plugins

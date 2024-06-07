@@ -16,7 +16,6 @@
     "@formkit/vue": "^1.6.5",
     "axios": "^1.7.2",
     "isomorphic-fetch": "^3.0.0",
-    "pyodide": "^0.26.0",
     "vue": "^3.4.21"
   },
   "devDependencies": {

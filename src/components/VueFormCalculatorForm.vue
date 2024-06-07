@@ -6,8 +6,7 @@ import { useVueform, Vueform } from '@vueform/vueform'
 
 export default {
   mixins: [Vueform],
-  setup(props, context)
-  {
+  setup(props, context) {
     const form = useVueform(props, context)
 
     const vueform = ref({
@@ -18,11 +17,11 @@ export default {
         page_title: {
           type: 'static',
           content: 'Pokemon!',
-          tag: 'h1',
+          tag: 'h1'
         },
         divider: {
           type: 'static',
-          tag: 'hr',
+          tag: 'hr'
         },
         container: {
           type: 'group',
@@ -32,16 +31,13 @@ export default {
               placeholder: 'Address',
               columns: {
                 label: 12,
-                wrapper: 12,
+                wrapper: 12
               },
               fieldName: 'First name',
-              rules: [
-                'required',
-                'max:255',
-              ],
-            },
+              rules: ['required', 'max:255']
+            }
           },
-          description: 'Tennessee address',
+          description: 'Tennessee address'
         },
         region: {
           type: 'select',
@@ -53,38 +49,38 @@ export default {
           items: [
             {
               value: 'Kanto',
-              label: 'Kanto',
+              label: 'Kanto'
             },
             {
               value: 'Johto',
-              label: 'Johto',
+              label: 'Johto'
             },
             {
               value: 'Hoen',
-              label: 'Hoen',
+              label: 'Hoen'
             },
             {
               value: 'Sinnoh',
-              label: 'Sinnoh',
+              label: 'Sinnoh'
             },
             {
               value: 'Unova',
-              label: 'Unova',
+              label: 'Unova'
             },
             {
               value: 'Kalos',
-              label: 'Kalos',
+              label: 'Kalos'
             },
             {
               value: 'Alola',
-              label: 'Alola',
+              label: 'Alola'
             },
             {
               value: 'Galar',
-              label: 'Galar',
-            },
+              label: 'Galar'
+            }
           ],
-          default: 'Kanto',
+          default: 'Kanto'
         },
         type: {
           type: 'select',
@@ -96,41 +92,41 @@ export default {
           items: [
             {
               value: 'Grass',
-              label: 'Grass',
+              label: 'Grass'
             },
             {
               value: 'Fire',
-              label: 'Fire',
+              label: 'Fire'
             },
             {
               value: 'Water',
-              label: 'Water',
-            },
+              label: 'Water'
+            }
           ],
-          default: 'Grass',
+          default: 'Grass'
         },
         divider_1: {
           type: 'static',
-          tag: 'hr',
+          tag: 'hr'
         },
         'calc button': {
           type: 'button',
           submits: true,
           buttonLabel: 'Calculate',
           full: true,
-          size: 'lg',
+          size: 'lg'
         },
         result: {
           type: 'static',
           tag: 'p',
-          content: 'Lorem ipsum dolor',
-        },
-      },
+          content: 'Lorem ipsum dolor'
+        }
+      }
     })
 
     return {
       ...form,
-      vueform,
+      vueform
     }
   }
 }
@@ -158,10 +154,10 @@ export default {
   --vf-gray-700: #374151;
   --vf-gray-800: #1f2937;
   --vf-gray-900: #111827;
-  --vf-dark-50: #EFEFEF;
-  --vf-dark-100: #DCDCDC;
-  --vf-dark-200: #BDBDBD;
-  --vf-dark-300: #A0A0A0;
+  --vf-dark-50: #efefef;
+  --vf-dark-100: #dcdcdc;
+  --vf-dark-200: #bdbdbd;
+  --vf-dark-300: #a0a0a0;
   --vf-dark-400: #848484;
   --vf-dark-500: #737373;
   --vf-dark-600: #393939;
@@ -380,14 +376,14 @@ export default {
   --vf-border-width-toggle: 0.125rem;
   --vf-border-width-tag: 1px;
   --vf-border-width-blockquote: 3px;
-  --vf-shadow-input: 0px 0px 0px 0px rgba(0,0,0,0);
-  --vf-shadow-input-hover: 0px 0px 0px 0px rgba(0,0,0,0);
-  --vf-shadow-input-focus: 0px 0px 0px 0px rgba(0,0,0,0);
-  --vf-shadow-handles: 0px 0px 0px 0px rgba(0,0,0,0);
-  --vf-shadow-handles-hover: 0px 0px 0px 0px rgba(0,0,0,0);
-  --vf-shadow-handles-focus: 0px 0px 0px 0px rgba(0,0,0,0);
-  --vf-shadow-btn: 0px 0px 0px 0px rgba(0,0,0,0);
-  --vf-shadow-dropdown: 0px 0px 0px 0px rgba(0,0,0,0);
+  --vf-shadow-input: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  --vf-shadow-input-hover: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  --vf-shadow-input-focus: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  --vf-shadow-handles: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  --vf-shadow-handles-hover: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  --vf-shadow-handles-focus: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  --vf-shadow-btn: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  --vf-shadow-dropdown: 0px 0px 0px 0px rgba(0, 0, 0, 0);
   --vf-radius-input: 0.25rem;
   --vf-radius-input-sm: 0.25rem;
   --vf-radius-input-lg: 0.25rem;
