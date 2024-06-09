@@ -34,11 +34,12 @@ export default {
   },
   async mounted() {
     await this.loadPyodide();
+    // Access calculator utils
     let zipResponse = await fetch('https://pamop.github.io/tnsmartyardcalc/calculator_utils.zip');
     let zipBinary = await zipResponse.arrayBuffer();
-    pyodide.unpackArchive(zipBinary, "zip");
-    // this.ruslescript = await fetch('@/calculator_utils/calculator.py').then((response) => response.text());
-    // this.ruslescript = await fetch('@/calculator_utils/calculator.py').then((response) => response.text());
+    this.pyodide.unpackArchive(zipBinary, "zip");
+
+    this.pyscript = await fetch('@/calculator_utils/calculator.py').then((response) => response.text());
   },
   methods: {
     async loadPyodide() {
@@ -50,7 +51,9 @@ export default {
 
         // Load required packages
         await this.pyodide.loadPackage(['micropip']);
-        console.log('Packages loaded successfully');
+        const micropip = this.pyodide.pyimport('micropip');
+        // await micropip.install('/rasterio-1.3.10-cp312-cp312-manylinux2014_x86_64.whl')
+        // console.log('Packages loaded successfully');
       } catch (error) {
         console.error('Failed to load Pyodide or packages:', error);
       }
@@ -128,21 +131,25 @@ export default {
       const pythonCode = `
 import js
 import micropip
-await micropip.install("numpy")
+import sys
 await micropip.install("pandas")
-import numpy as np
 import pandas as pd
-# import rasterio
 import os
 
-print(os.listdir('/mount_dir'))
+print(os.listdir('/home/pyodide/calculator_utils'))
+dir_path = '/home/pyodide/calculator_utils'
 # js_var = js.js_var # Actually didn't need to do this explicitly
 print(js_var)
 
+tnzips = pd.read_csv(dir_path + '/tn_zipcodes.csv') # zip codes and corresponding counties and lat/long coords
+lsdf = pd.read_csv(dir_path + '/ls_values.csv') # ls values given slope percent and length
+
+# result = js.forminfo.zipcode.value + 5000
+# print(result)
+print(tnzips.loc[tnzips['zip']==37212,'county'].values[0])
+
 # Example usage of numpy and pandas
-array = np.array([1, 2, 3])
 df = pd.DataFrame({'A': [1, 2], 'B': [3, 4]})
-print(array)
 print(df)
       `;
 
@@ -150,6 +157,7 @@ print(df)
       try {
         // await this.pyodide.runPythonAsync(pythonCode);
         await this.pyodide.runPythonAsync(pythonCode);
+        // await this.pyodide.runPythonAsync(this.pyscript);
         // console.log(this.pyodide.globals.get('result').toJs());
       } catch (error) {
         console.error('Error running Python code:', error);
