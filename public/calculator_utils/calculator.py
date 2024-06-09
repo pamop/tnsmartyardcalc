@@ -15,11 +15,13 @@ print(js_var) # if js_var is set to pyodide in App.vue it will be here!
 # Zipcode # MAKE SURE TENNESSEE ONLY  TODO
 zipcode = 37212
 # area = float(input("Enter the area of the land in square feet: ")
-area = 10000
+area = 400
 #slope_percentage = float(input('what is your slope percentage in a number (ie: 40% = 40):'))
-slope_percentage = 40
+slope_percentage = 40 / 100
+#slope_length = float(input('whats your slope length in feet:'))
+slope_length = 30
 # percentNative = (float(input('Enter your percent of your yard that is native plants as a number (ie: 40% = 40): '))) / 100
-percentNative = 20
+percentNative = 20 / 100
 
 # Import csvs to dataframes using pandas
 dir_path = '/home/pyodide/calculator_utils' # calculator_utils is a zip unpacked by pyodide into its file system
@@ -40,9 +42,9 @@ def find_intersecting_length(slope_percentage, slope_length):
 
 percentNormal = 1 - percentNative
 
-if slope_percentage <= 0.16:
+if slope_percentage/100 <= 0.16:
   P = 0.1
-elif slope_percentage <= 0.25:
+elif slope_percentage/100 <= 0.25:
   P = 0.12
 else:
   P = 0.14

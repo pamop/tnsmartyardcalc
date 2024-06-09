@@ -1,26 +1,133 @@
 <script setup>
-// import HelloWorld from './components/HelloWorld.vue'
-// import TheWelcome from './components/TheWelcome.vue'
 // import CalculatorForm from './components/CalculatorForm.vue'
 import { get, set } from "https://unpkg.com/idb-keyval@5.0.2/dist/esm/index.js";
 </script>
 
 <template>
-  <div>
+  <div class="font-sans container mx-auto py-4">
+  <h1 class="text-3xl container">
+    Tennessee Smart Yards Calculator
+  </h1>
+  <h1 class="text-2xl container">
+    NOTE: Under construction!
+  </h1>
+  <br>
+  <div container mx-auto px-4>
+    <h2 class="text-2xl">
+      Erosion calculator
+    </h2>
+  <!-- <div>
     <button @click="runPythonCode">Run Python Code</button>
-  </div>
-  <!-- <CalculatorForm> </CalculatorForm> -->
-  <!-- <header>
-    <img alt="Vue logo" class="logo" src="./assets/logo.svg" width="125" height="125" />
-
-    <div class="wrapper">
-      <HelloWorld msg="Hello world!" />
+  </div> -->
+  <FormKit 
+    type="form"
+    submit-label="Calculate"
+    @submit = "runPythonCode"
+    :submit-attrs="{
+      inputClass: 'my-input-class',
+      wrapperClass: 'my-wrapper-class',
+      'data-theme': `dark`,
+      ignore: false
+    }"
+  >
+    <FormKit
+      type="text"
+      name="zipcode"
+      id="zipcode"
+      validation="required|not:Admin"
+      label="Zipcode"
+      help="Enter your Tennessee zipcode."
+      placeholder="37235"
+    />
+    <FormKit
+      type="number"
+      name="area"
+      id="area"
+      validation="required|not:Admin"
+      label="Area (sq ft)"
+      help="Enter the area of your land in square feet."
+      placeholder="2500"
+    />
+    <FormKit
+      type="number"
+      name="slopepercent"
+      id="slopepercent"
+      step="1"
+      validation="required|not:Admin"
+      label="Slope percentage"
+      help="Enter your slope percentage in a number (e.g., 40% = 40)."
+      placeholder="40"
+    />
+    <FormKit
+      type="number"
+      name="slopelength"
+      id="slopelength"
+      step="1"
+      validation="required|not:Admin"
+      label="Slope length (ft)"
+      help="Enter the length of your slope in feet."
+      placeholder="2500"
+    />
+    <FormKit
+      type="number"
+      name="nativeplants"
+      id="nativeplants"
+      step="1"
+      validation="required|not:Admin"
+      label="Percentage of land covered in native plants"
+      help="Enter the percentage of your land that has native plants growing on it."
+      placeholder="2500"
+    />
+    <!-- <FormKit
+      type="select"
+      label="Class"
+      name="class"
+      id="class"
+      placeholder="Select a class"
+      :options="['Warrior', 'Mage', 'Assassin']"
+    /> -->
+    </FormKit>
+    <div>
+      Result from calculation: Under Construction
     </div>
-  </header>
+  </div>
+  <br>
+  <hr>
+  <br>
+  <div container mx-auto px-4 py-4>
+    <h2 class="text-2xl">
+      Tree information calculator
+    </h2>
+  <!-- <div>
+    <button @click="runPythonCode">Run Python Code</button>
+  </div> -->
+  <FormKit 
+    type="form"
+    submit-label="Submit"
+    @submit = "runPythonCode"
+    :submit-attrs="{
+      inputClass: 'my-input-class',
+      wrapperClass: 'my-wrapper-class',
+      'data-theme': `dark`,
+      ignore: false
+    }"
+    >
+    <FormKit
+      type="text"
+      name="zipcode"
+      id="zipcode"
+      validation="required|not:Admin"
+      label="Zipcode"
+      help="Enter your Tennessee zipcode"
+      placeholder="37235"
+    />
+    </FormKit>
+    <div>
+      Result from calculation:
+    </div>
+  </div>
+  </div>
 
-  <main>
-    <TheWelcome />
-  </main> -->
 </template>
 
 <script>
@@ -39,7 +146,7 @@ export default {
     let zipBinary = await zipResponse.arrayBuffer();
     this.pyodide.unpackArchive(zipBinary, "zip");
 
-    this.pyscript = await fetch('@/calculator_utils/calculator.py').then((response) => response.text());
+    this.pyscript = await fetch('calculator_utils/calculator.py').then((response) => response.text());
   },
   methods: {
     async loadPyodide() {
@@ -52,7 +159,6 @@ export default {
         // Load required packages
         await this.pyodide.loadPackage(['micropip']);
         const micropip = this.pyodide.pyimport('micropip');
-        // await micropip.install('/rasterio-1.3.10-cp312-cp312-manylinux2014_x86_64.whl')
         // console.log('Packages loaded successfully');
       } catch (error) {
         console.error('Failed to load Pyodide or packages:', error);
@@ -107,26 +213,8 @@ export default {
         return;
       }
 
-      // // mount the calculator utils folder
-      // const dirHandle = await showDirectoryPicker();
-      // console.log(dirHandle)
-      // const permissionStatus = await dirHandle.requestPermission({
-      //   mode: "readwrite",
-      // });
-
-      // if (permissionStatus !== "granted") {
-      //   throw new Error("readwrite access to directory not granted");
-      // }
-
-      // const nativefs = await this.pyodide.mountNativeFS("/mount_dir", dirHandle);
-
-      // const nativefs = await this.mountDirectory(this.pyodide, "/mount_dir", this.directoryKey);
-
-      
-
       // Set JavaScript variable to be used in Python
       this.pyodide.globals.set('js_var', this.jsVariable);
-
       // Python code to use the JavaScript variable
       const pythonCode = `
 import js
@@ -156,8 +244,8 @@ print(df)
       // Run the Python code
       try {
         // await this.pyodide.runPythonAsync(pythonCode);
-        await this.pyodide.runPythonAsync(pythonCode);
-        // await this.pyodide.runPythonAsync(this.pyscript);
+        // await this.pyodide.runPythonAsync(pythonCode);
+        await this.pyodide.runPythonAsync(this.pyscript);
         // console.log(this.pyodide.globals.get('result').toJs());
       } catch (error) {
         console.error('Error running Python code:', error);

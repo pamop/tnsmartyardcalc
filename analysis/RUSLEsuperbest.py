@@ -32,9 +32,9 @@ as a number (ie: 40% = 40): '))) / 100
 percentNormal = 1 - percentNative
 
 
-if slope_percentage <= 0.16:
+if slope_percentage/100 <= 0.16:
   P = 0.1
-elif slope_percentage <= 0.25:
+elif slope_percentage/100 <= 0.25:
   P = 0.12
 else:
   P = 0.14
