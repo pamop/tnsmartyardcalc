@@ -5,15 +5,17 @@ import { ref, reactive } from 'vue';
 
 <template>
   <div class="font-sans container mx-auto py-4">
-    <h1 class="text-3xl container">
-      Tennessee Smart Yards Calculator
-    </h1>
+    <div class="flex">
+      <a href="https://tnyards.utk.edu/"><img src="/tnsy_logo.png" width="400" class="object-center" alt="Tennessee Smart Yard logo"/></a>
+    </div>
     <h1 class="text-2xl container">
-      Built by a student team at the School for Science and Math at Vanderbilt.
+      Calculate the value of native plants in your Tennessee yard.
     </h1>
     <br>
+    <div class="embed-container"><iframe width="500" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="TNSY x SSMV Actions Taken by Zip Code" src="//vanderbilt.maps.arcgis.com/apps/Embed/index.html?webmap=a613aebc697f49039ec2dc7aa3f8cac1&extent=-90.7103,33.9863,-80.9214,37.8029&zoom=true&previewImage=false&scale=true&details=true&legendlayers=true&active_panel=details&disable_scroll=true&theme=light"></iframe></div>
+    <br>
     <div container mx-auto px-4>
-      <h2 class="text-2xl">
+      <h2 class="text-3xl">
         Erosion calculator
       </h2>
       <FormKit 
@@ -92,12 +94,13 @@ import { ref, reactive } from 'vue';
       <div>
         <pre wrap>{{ erosion_response }}</pre>
       </div>
+      <div class="embed-container"><iframe width="500" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="Action Hot Spot Map" src="//vanderbilt.maps.arcgis.com/apps/Embed/index.html?webmap=7fbb73aadf754d0f98a63dc98fcd434d&extent=-90.7103,33.9863,-80.9214,37.8029&zoom=true&previewImage=false&scale=true&details=true&legendlayers=true&active_panel=details&disable_scroll=true&theme=light"></iframe></div>
     </div>
     <br>
     <hr>
     <br>
     <div container mx-auto px-4 py-4>
-      <h2 class="text-2xl">
+      <h2 class="text-3xl">
         Tree and Native Plants Information
       </h2>
       <p>Learn about the trends of trees and native plants in TN Smart Yards in your zipcode.</p>
@@ -132,8 +135,14 @@ import { ref, reactive } from 'vue';
   </div>
   <hr>
   <br>
-  <div class="flex justify-center items-center">
-    <img src="/ssmv_logo.png" width="400" class="object-center"/>
+  <h1 class="text-2xl container flex justify-center py-2">
+    Built by a student team at the School for Science and Math at Vanderbilt.
+  </h1>
+  <h1 class="text-1xl container flex justify-center">
+    <a href="https://github.com/pamop/tnsmartyardcalc">source code on github</a>
+  </h1>
+  <div class="container flex justify-center items-center py-4">
+    <a href="https://www.vanderbilt.edu/cseo-ssmv/"><img src="/ssmv_logo.png" width="400" alt="School for Science and Math at Vanderbilt logo"/></a>
   </div>
   <br>
 </template>
@@ -301,6 +310,27 @@ export default {
 
 
 <style scoped>
+a:link {
+  color: teal;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:visited {
+  color: darkslategray;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: goldenrod;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active {
+  color: gold;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
 header {
   line-height: 1.5;
 }
