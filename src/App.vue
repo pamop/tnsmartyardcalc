@@ -237,10 +237,10 @@ export default {
       this.pyodide.globals.set('js_var', this.jsVariable);
 
       this.pyodide.globals.set('zipcode', this.forminfo.zipcode);
-      this.pyodide.globals.set('area', this.forminfo.area);
-      this.pyodide.globals.set('slope_percentage', this.forminfo.slope_percentage);
-      this.pyodide.globals.set('slope_length', this.forminfo.slope_length);
-      this.pyodide.globals.set('percentNative', this.forminfo.nativeplants);
+      this.pyodide.globals.set('area', parseFloat(this.forminfo.area));
+      this.pyodide.globals.set('slope_percentage', parseFloat(this.forminfo.slope_percentage));
+      this.pyodide.globals.set('slope_length', parseFloat(this.forminfo.slope_length));
+      this.pyodide.globals.set('percentNative', parseFloat(this.forminfo.nativeplants));
 
       // this.pyodide.globals.set('erosion_response', this.erosion_response.value);
 
