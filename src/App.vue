@@ -9,7 +9,7 @@ import { ref, reactive } from 'vue';
       Tennessee Smart Yards Calculator
     </h1>
     <h1 class="text-2xl container">
-      NOTE: Under construction!
+      Built by a student team at the School for Science and Math at Vanderbilt.
     </h1>
     <br>
     <div container mx-auto px-4>
@@ -90,7 +90,7 @@ import { ref, reactive } from 'vue';
         /> -->
       </FormKit>
       <div>
-        {{ erosion_response }}
+        <pre wrap>{{ erosion_response }}</pre>
       </div>
     </div>
     <br>
@@ -118,17 +118,24 @@ import { ref, reactive } from 'vue';
           id="zipcode"
           validation="required|not:Admin"
           label="Zipcode"
+          v-model="treeforminfo.zipcode"
           help="Enter your Tennessee zipcode"
           placeholder="37027"
         />
       </FormKit>
       <div>
-        {{tree_response}}
+        <pre wrap>{{ tree_response }}</pre>
         <br>
-        {{nativeplant_response}}
+        <pre wrap>{{ nativeplant_response }}</pre>
       </div>
     </div>
   </div>
+  <hr>
+  <br>
+  <div class="flex justify-center items-center">
+    <img src="/ssmv_logo.png" width="400" class="object-center"/>
+  </div>
+  <br>
 </template>
 
 <script>
@@ -155,6 +162,10 @@ export default {
         slope_percentage: 40,
         slope_length: 300,
         nativeplants: 20
+      }),
+
+      treeforminfo: reactive({
+        zipcode: 37207,
       })
     };
   },
@@ -267,7 +278,7 @@ export default {
       }
 
       // Set JavaScript variable to be used in Python
-      this.pyodide.globals.set('zipcode', parseInt(this.forminfo.zipcode));
+      this.pyodide.globals.set('zipcode', parseInt(this.treeforminfo.zipcode));
 
       // Run the Python code
       try {
@@ -276,8 +287,7 @@ export default {
         await this.pyodide.runPythonAsync(this.treescript);
         // console.log(this.pyodide.globals.get('erosion_response').toJs());
         this.tree_response = this.pyodide.globals.get('tree_response');
-        this.nativeplant_response_response = this.pyodide.globals.get('nativeplant_response');
-
+        this.nativeplant_response = this.pyodide.globals.get('nativeplant_response');
 
       } catch (error) {
         console.error('Error running Python code:', error);

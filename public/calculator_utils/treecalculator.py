@@ -53,7 +53,7 @@ else: # else county is in database
     f"{countytrees['PollutionRemovalOZYR'].sum():.1f} ounces of pollution removed per year \n" +\
     f"{countytrees['OxygenProductionLBYR'].sum():.1f} pounds of oxygen produced per year \n" +\
     f"Total annual benefits of carbon sequestration, avoided runoff, and pollution removal amounts to ${countytrees['TotalAnnualBenefitsDYR'].sum():.2f} per year! \n" +\
-    "*pounds of carbon prevented from being released into the atmosphere"
+    "*Note: pounds of carbon prevented from being released into the atmosphere"
 
     tree_response = ntrees + " \n\n" + topthreespecies  + " \n\n" +  estbenefits
 #  *pounds of carbon prevented from being released into the atmosphere
@@ -61,6 +61,7 @@ else: # else county is in database
 
 # Native Plant Runoff
 # Data: Native Plant Improvement.csv
+
 
 # If zip code is not is database:
 if not zipcode in plantsdf['Zip_Code'].unique():
