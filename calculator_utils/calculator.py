@@ -48,8 +48,9 @@ def find_intersecting_length(slope_percentage, slope_length):
 # percentNative = (float(
 #     input('Enter your percent of your yard that is native plants \
 # as a number (ie: 40% = 40): '))) / 100
-# percentNormal = 1 - percentNative
 
+
+percentNormal = 1 - percentNative
 
 if slope_percentage/100 <= 0.16:
   P = 0.1
