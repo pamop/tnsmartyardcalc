@@ -236,7 +236,7 @@ export default {
       // Set JavaScript variable to be used in Python
       this.pyodide.globals.set('js_var', this.jsVariable);
 
-      this.pyodide.globals.set('zipcode', this.forminfo.zipcode);
+      this.pyodide.globals.set('zipcode', parseInt(this.forminfo.zipcode));
       this.pyodide.globals.set('area', parseFloat(this.forminfo.area));
       this.pyodide.globals.set('slope_percentage', parseFloat(this.forminfo.slope_percentage));
       this.pyodide.globals.set('slope_length', parseFloat(this.forminfo.slope_length));
@@ -255,6 +255,7 @@ export default {
 
       } catch (error) {
         console.error('Error running Python code:', error);
+        this.erosion_response = "Error: please check your inputs are valid!"
       }
     }
   }
