@@ -16,13 +16,10 @@ import { ref, reactive } from 'vue';
       <h2 class="text-2xl">
         Erosion calculator
       </h2>
-      <!-- <div>
-        <button @click="runPythonCode">Run Python Code</button>
-      </div> -->
       <FormKit 
         type="form"
         submit-label="Calculate"
-        @submit="runPythonCode"
+        @submit="runErosionCode"
         :submit-attrs="{
           inputClass: 'my-input-class',
           wrapperClass: 'my-wrapper-class',
@@ -101,15 +98,13 @@ import { ref, reactive } from 'vue';
     <br>
     <div container mx-auto px-4 py-4>
       <h2 class="text-2xl">
-        Tree information calculator
+        Tree and Native Plants Information
       </h2>
-      <!-- <div>
-        <button @click="runPythonCode">Run Python Code</button>
-      </div> -->
+      <p>Learn about the trends of trees and native plants in TN Smart Yards in your zipcode.</p>
       <FormKit 
         type="form"
         submit-label="Submit"
-        @submit="runPythonCode"
+        @submit="runTreeCode"
         :submit-attrs="{
           inputClass: 'my-input-class',
           wrapperClass: 'my-wrapper-class',
@@ -124,11 +119,13 @@ import { ref, reactive } from 'vue';
           validation="required|not:Admin"
           label="Zipcode"
           help="Enter your Tennessee zipcode"
-          placeholder="37235"
+          placeholder="37027"
         />
       </FormKit>
       <div>
-        Result from calculation:
+        {{tree_response}}
+        <br>
+        {{nativeplant_response}}
       </div>
     </div>
   </div>
@@ -143,6 +140,8 @@ export default {
       jsVariable: 'Hello from JavaScript!',
 
       erosion_response: ref(""),
+      tree_response: ref(""),
+      nativeplant_response: ref(""),
 
       default_zip: 37235,
       default_area: 2500,
@@ -166,7 +165,9 @@ export default {
     let zipBinary = await zipResponse.arrayBuffer();
     this.pyodide.unpackArchive(zipBinary, "zip");
 
-    this.pyscript = await fetch('calculator_utils/calculator.py').then((response) => response.text());
+    this.ruslescript = await fetch('calculator_utils/ruslecalculator.py').then((response) => response.text());
+    this.treescript = await fetch('calculator_utils/treecalculator.py').then((response) => response.text());
+
   },
   methods: {
     async loadPyodide() {
@@ -226,7 +227,7 @@ export default {
         throw error;
       }
     },
-    async runPythonCode() {
+    async runErosionCode() {
       // Ensure Pyodide is loaded
       if (!this.pyodide) {
         console.error('Pyodide is not loaded');
@@ -249,13 +250,38 @@ export default {
       try {
         // await this.pyodide.runPythonAsync(pythonCode);
         // await this.pyodide.runPythonAsync(pythonCode);
-        await this.pyodide.runPythonAsync(this.pyscript);
+        await this.pyodide.runPythonAsync(this.ruslescript);
         // console.log(this.pyodide.globals.get('erosion_response').toJs());
         this.erosion_response = this.pyodide.globals.get('erosion_response');
 
       } catch (error) {
         console.error('Error running Python code:', error);
         this.erosion_response = "Error: please check your inputs are valid!"
+      }
+    },
+    async runTreeCode() {
+      // Ensure Pyodide is loaded
+      if (!this.pyodide) {
+        console.error('Pyodide is not loaded');
+        return;
+      }
+
+      // Set JavaScript variable to be used in Python
+      this.pyodide.globals.set('zipcode', parseInt(this.forminfo.zipcode));
+
+      // Run the Python code
+      try {
+        // await this.pyodide.runPythonAsync(pythonCode);
+        // await this.pyodide.runPythonAsync(pythonCode);
+        await this.pyodide.runPythonAsync(this.treescript);
+        // console.log(this.pyodide.globals.get('erosion_response').toJs());
+        this.tree_response = this.pyodide.globals.get('tree_response');
+        this.nativeplant_response_response = this.pyodide.globals.get('nativeplant_response');
+
+
+      } catch (error) {
+        console.error('Error running Python code:', error);
+        this.tree_response = "Error: your zip code doesn't appear to be in Tennessee."
       }
     }
   }

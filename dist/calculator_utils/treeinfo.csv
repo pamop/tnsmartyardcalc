@@ -1,0 +1,900 @@
+﻿County,SpeciesName,CommonName,CarbonStoragelb,GrossCarbonSequestrationLBYR,AvoidedRunoffGYR,PollutionRemovalOZYR,OxygenProductionLBYR,TotalAnnualBenefitsDYR
+Anderson,Ilex cookii,Te,3,0.9,0.6,0.4,2.4,0.11
+Anderson,Ilex cookii,Te,3,0.9,0.6,0.4,2.4,0.11
+Anderson,Ilex cookii,Te,3,0.9,0.6,0.4,2.4,0.11
+Anderson,Ilex cookii,Te,3,0.9,0.6,0.4,2.4,0.11
+Anderson,Ilex cookii,Te,3,0.9,0.6,0.4,2.4,0.11
+Anderson,Ilex cookii,Te,3,0.9,0.6,0.4,2.4,0.11
+Anderson,Ilex cookii,Te,3,0.9,0.6,0.4,2.4,0.11
+Anderson,Ilex cookii,Te,3,0.9,0.6,0.4,2.4,0.11
+Anderson,Ilex cookii,Te,3,0.9,0.6,0.4,2.4,0.11
+Anderson,Ilex cookii,Te,3,0.9,0.6,0.4,2.4,0.11
+Anderson,Eucalyptus pachyphylla,Redbud Mallee,1.1,0.5,0.6,0.4,1.4,0.08
+Anderson,Eucalyptus pachyphylla,Redbud Mallee,1.1,0.5,0.6,0.4,1.4,0.08
+Anderson,Amelanchier,Serviceberry,0.3,0.4,0.3,0.2,1.1,0.05
+Anderson,Amelanchier,Serviceberry,0.3,0.4,0.3,0.2,1.1,0.05
+Anderson,Amelanchier,Serviceberry,0.3,0.4,0.3,0.2,1.1,0.05
+Anderson,Amelanchier,Serviceberry,0.3,0.4,0.3,0.2,1.1,0.05
+Anderson,Chionanthus virginicus,Fringe tree,0.7,0.5,0.6,0.4,1.3,0.08
+Anderson,Crataegus,Hawthorn,0.2,0.3,0.4,0.2,0.9,0.05
+Anderson,Diospyros virginiana,Common persimmon,0.1,0.1,0.4,0.2,0.3,0.03
+Anderson,Asimina triloba,Pawpaw,0.6,0.3,0.6,0.4,0.9,0.06
+Anderson,Aesculus pavia,Red buckeye,0.4,0.4,0.4,0.3,1.1,0.06
+Anderson,Prunus serotina,Black cherry,0.3,0.6,0.4,0.3,1.5,0.07
+Blount,Ilex cookii,Te,1,0.5,4.5,0.3,1.3,0.12
+Blount,Ilex cookii,Te,1,0.5,4.5,0.3,1.3,0.12
+Blount,Ilex opaca,American holly,1.1,0.4,6.3,0.4,1,0.15
+Blount,Ilex opaca,American holly,1.1,0.4,6.3,0.4,1,0.15
+Blount,Ilex opaca,American holly,1.1,0.4,6.3,0.4,1,0.15
+Blount,Sassafras,Sassafras,0.3,0.5,6.2,0.4,1.3,0.16
+Blount,Cercis,Redbud,0.7,0.6,4.6,0.3,1.5,0.13
+Blount,Cornus,Dogwood,0.3,0.4,3.1,0.2,1.1,0.09
+Blount,Hamamelis virginiana,Witch hazel,0.3,0.2,8.7,0.6,0.6,0.18
+Blount,Ptelea trifoliata,Common hoptree,0.8,0.9,6.4,0.4,2.4,0.2
+Blount,Asimina triloba,Pawpaw,0.6,0.3,6.1,0.4,0.9,0.14
+Blount,Asimina triloba,Pawpaw,0.6,0.3,6.1,0.4,0.9,0.14
+Blount,Asimina triloba,Pawpaw,0.6,0.3,6.1,0.4,0.9,0.14
+Blount,Ulmus americana,American elm,0.2,0.4,5.9,0.4,1.1,0.15
+Blount,Quercus,Oak,7.4,1.5,7.1,0.5,3.9,0.26
+Blount,Cornus,Dogwood,0.3,0.4,3.1,0.2,1.1,0.09
+Blount,Cornus,Dogwood,0.3,0.4,3.1,0.2,1.1,0.09
+Blount,Acer saccharum,Sugar maple,8.9,1.9,18.3,1.2,5,0.5
+Blount,Prunus,Plum,1.8,1.2,6.8,0.5,3.2,0.23
+Blount,Cercis,Redbud,2.1,1,6.6,0.4,2.5,0.2
+Blount,Corylus,Hazelnut,6.2,1.9,14.8,1,5,0.44
+Blount,Cotinus obovatus,American smoketree,0.7,0.9,3,0.2,2.4,0.13
+Blount,Cornus,Dogwood,0.5,0.6,3.6,0.2,1.5,0.12
+Blount,Cornus,Dogwood,0.5,0.6,3.6,0.2,1.5,0.12
+Blount,Cornus,Dogwood,0.5,0.6,3.6,0.2,1.5,0.12
+Blount,Cornus,Dogwood,0.5,0.6,3.6,0.2,1.5,0.12
+Blount,Cornus,Dogwood,0.5,0.6,3.6,0.2,1.5,0.12
+Blount,Ilex cookii,Te,1.5,0.6,5,0.3,1.6,0.14
+Blount,Ilex cookii,Te,1.5,0.6,5,0.3,1.6,0.14
+Blount,Ilex cookii,Te,1.5,0.6,5,0.3,1.6,0.14
+Blount,Lagerstroemia indica,Common crape myrtle,0.6,0.6,5.5,0.4,1.6,0.15
+Blount,Liquidambar styraciflua,Sweetgum,0.3,0.4,5.8,0.4,1,0.14
+Blount,Liriodendron tulipifera,Tulip tree,0.3,0.5,6.6,0.4,1.3,0.16
+Blount,Cercis,Redbud,1,0.7,5.2,0.4,1.8,0.15
+Blount,Cercis,Redbud,1,0.7,5.2,0.4,1.8,0.15
+Blount,Cercis,Redbud,1,0.7,5.2,0.4,1.8,0.15
+Blount,Cercis,Redbud,1,0.7,5.2,0.4,1.8,0.15
+Blount,Carya illinoinensis,Pecan,7.2,1.6,16.8,1.1,4.2,0.45
+Blount,Carya illinoinensis,Pecan,7.2,1.6,16.8,1.1,4.2,0.45
+Blount,Diospyros virginiana,Common persimmon,3.6,0.8,11.8,0.8,2.1,0.29
+Blount,Diospyros virginiana,Common persimmon,3.6,0.8,11.8,0.8,2.1,0.29
+Blount,Acer,Maple,0.9,0.8,8.4,0.6,2.1,0.22
+Blount,Quercus,Oak,8.2,1.8,8,0.5,4.8,0.3
+Blount,Aesculus,Buckeye,0.6,0.6,9,0.6,1.5,0.21
+Blount,Liriodendron tulipifera,Tulip tree,0.3,0.5,6.6,0.4,1.3,0.16
+Blount,Tsuga,Hemlock,0.4,0.2,4,0.3,0.6,0.09
+Blount,Betula,Birch,0.4,0.4,7.1,0.5,1.1,0.17
+Bradley,Carya illinoinensis,Pecan,0.4,0.3,7.7,0.3,0.8,0.12
+Bradley,Prunus domestica,Common plum,0.7,0.7,4.2,0.2,1.9,0.11
+Bradley,Ilex cookii,Te,1.5,0.6,4.9,0.2,1.6,0.11
+Bradley,Betula nigra,River birch,0.3,0.6,10.3,0.4,1.5,0.18
+Bradley,Pinus,Pine,0.7,0.3,4.1,0.2,0.7,0.08
+Bradley,Malus domestica,Common apple,0.5,0.5,5.2,0.2,1.4,0.11
+Bradley,Magnolia,Magnolia,1.2,0.9,10.8,0.5,2.4,0.22
+Bradley,Magnolia,Magnolia,1.2,0.9,10.8,0.5,2.4,0.22
+Bradley,Magnolia,Magnolia,1.2,0.9,10.8,0.5,2.4,0.22
+Bradley,Acer,Maple,2.1,1.2,10,0.4,3.2,0.23
+Bradley,Acer,Maple,2.1,1.2,10,0.4,3.2,0.23
+Bradley,Betula,Birch,1.1,0.8,9,0.4,2.1,0.18
+Bradley,Cedrus,Cedar,5.9,1.5,2.9,0.1,3.9,0.16
+Bradley,Cedrus,Cedar,5.9,1.5,2.9,0.1,3.9,0.16
+Bradley,Cedrus,Cedar,5.9,1.5,2.9,0.1,3.9,0.16
+Cumberland,Taxodium,Bald Cypress,5.2,0.9,7.3,0.4,2.4,0.19
+Cumberland,Taxodium,Bald Cypress,5.2,0.9,7.3,0.4,2.4,0.19
+Cumberland,Taxodium,Bald Cypress,5.2,0.9,7.3,0.4,2.4,0.19
+Cumberland,Taxodium,Bald Cypress,5.2,0.9,7.3,0.4,2.4,0.19
+Cumberland,Cephalanthus occidentalis,Buttonbush,12.4,3.1,12.8,0.7,8.2,0.46
+Cumberland,Cephalanthus occidentalis,Buttonbush,12.4,3.1,12.8,0.7,8.2,0.46
+Cumberland,Cephalanthus occidentalis,Buttonbush,12.4,3.1,12.8,0.7,8.2,0.46
+Cumberland,Cephalanthus occidentalis,Buttonbush,12.4,3.1,12.8,0.7,8.2,0.46
+Cumberland,Cephalanthus occidentalis,Buttonbush,12.4,3.1,12.8,0.7,8.2,0.46
+Cumberland,Cephalanthus occidentalis,Buttonbush,12.4,3.1,12.8,0.7,8.2,0.46
+Cumberland,Cephalanthus occidentalis,Buttonbush,12.4,3.1,12.8,0.7,8.2,0.46
+Cumberland,Cephalanthus occidentalis,Buttonbush,12.4,3.1,12.8,0.7,8.2,0.46
+Cumberland,Cephalanthus occidentalis,Buttonbush,12.4,3.1,12.8,0.7,8.2,0.46
+Cumberland,Cephalanthus occidentalis,Buttonbush,12.4,3.1,12.8,0.7,8.2,0.46
+Cumberland,Cephalanthus occidentalis,Buttonbush,12.4,3.1,12.8,0.7,8.2,0.46
+Cumberland,Cephalanthus occidentalis,Buttonbush,12.4,3.1,12.8,0.7,8.2,0.46
+Cumberland,Cephalanthus occidentalis,Buttonbush,12.4,3.1,12.8,0.7,8.2,0.46
+Cumberland,Cephalanthus occidentalis,Buttonbush,12.4,3.1,12.8,0.7,8.2,0.46
+Cumberland,Cephalanthus occidentalis,Buttonbush,12.4,3.1,12.8,0.7,8.2,0.46
+Cumberland,Cephalanthus occidentalis,Buttonbush,12.4,3.1,12.8,0.7,8.2,0.46
+Cumberland,Cephalanthus occidentalis,Buttonbush,12.4,3.1,12.8,0.7,8.2,0.46
+Cumberland,Cephalanthus occidentalis,Buttonbush,12.4,3.1,12.8,0.7,8.2,0.46
+Cumberland,Cephalanthus occidentalis,Buttonbush,12.4,3.1,12.8,0.7,8.2,0.46
+Cumberland,Cephalanthus occidentalis,Buttonbush,12.4,3.1,12.8,0.7,8.2,0.46
+Cumberland,Cephalanthus occidentalis,Buttonbush,12.4,3.1,12.8,0.7,8.2,0.46
+Cumberland,Cephalanthus occidentalis,Buttonbush,12.4,3.1,12.8,0.7,8.2,0.46
+Cumberland,Cephalanthus occidentalis,Buttonbush,12.4,3.1,12.8,0.7,8.2,0.46
+Cumberland,Cephalanthus occidentalis,Buttonbush,12.4,3.1,12.8,0.7,8.2,0.46
+Cumberland,Cephalanthus occidentalis,Buttonbush,12.4,3.1,12.8,0.7,8.2,0.46
+Cumberland,Cephalanthus occidentalis,Buttonbush,12.4,3.1,12.8,0.7,8.2,0.46
+Cumberland,Cephalanthus occidentalis,Buttonbush,12.4,3.1,12.8,0.7,8.2,0.46
+Cumberland,Cephalanthus occidentalis,Buttonbush,12.4,3.1,12.8,0.7,8.2,0.46
+Cumberland,Cephalanthus occidentalis,Buttonbush,12.4,3.1,12.8,0.7,8.2,0.46
+Cumberland,Cephalanthus occidentalis,Buttonbush,12.4,3.1,12.8,0.7,8.2,0.46
+Cumberland,Cephalanthus occidentalis,Buttonbush,12.4,3.1,12.8,0.7,8.2,0.46
+Cumberland,Cephalanthus occidentalis,Buttonbush,12.4,3.1,12.8,0.7,8.2,0.46
+Cumberland,Cephalanthus occidentalis,Buttonbush,12.4,3.1,12.8,0.7,8.2,0.46
+Cumberland,Cephalanthus occidentalis,Buttonbush,12.4,3.1,12.8,0.7,8.2,0.46
+Cumberland,Cephalanthus occidentalis,Buttonbush,12.4,3.1,12.8,0.7,8.2,0.46
+Cumberland,Cephalanthus occidentalis,Buttonbush,12.4,3.1,12.8,0.7,8.2,0.46
+Cumberland,Cephalanthus occidentalis,Buttonbush,12.4,3.1,12.8,0.7,8.2,0.46
+Cumberland,Cephalanthus occidentalis,Buttonbush,12.4,3.1,12.8,0.7,8.2,0.46
+Cumberland,Cephalanthus occidentalis,Buttonbush,12.4,3.1,12.8,0.7,8.2,0.46
+Cumberland,Cephalanthus occidentalis,Buttonbush,12.4,3.1,12.8,0.7,8.2,0.46
+Cumberland,Cephalanthus occidentalis,Buttonbush,12.4,3.1,12.8,0.7,8.2,0.46
+Cumberland,Cephalanthus occidentalis,Buttonbush,12.4,3.1,12.8,0.7,8.2,0.46
+Cumberland,Cephalanthus occidentalis,Buttonbush,12.4,3.1,12.8,0.7,8.2,0.46
+Cumberland,Cercis,Redbud,5.4,1.1,11,0.6,3,0.26
+Cumberland,Liriodendron tulipifera,Tulip tree,3.4,1.2,13.1,0.7,3.3,0.3
+Davidson,Asimina triloba,Pawpaw,0.9,0.6,7.8,0.5,1.5,0.17
+Davidson,Asimina triloba,Pawpaw,0.9,0.6,7.8,0.5,1.5,0.17
+Davidson,Asimina triloba,Pawpaw,0.9,0.6,7.8,0.5,1.5,0.17
+Davidson,Asimina triloba,Pawpaw,0.9,0.6,7.8,0.5,1.5,0.17
+Davidson,Asimina triloba,Pawpaw,0.9,0.6,7.8,0.5,1.5,0.17
+Davidson,Quercus alba,White oak,0.1,0.1,8.6,0.5,0.4,0.14
+Davidson,Quercus bicolor,Swamp white oak,7.7,2.3,7.7,0.5,6.2,0.31
+Davidson,Quercus bicolor,Swamp white oak,7.7,2.3,7.7,0.5,6.2,0.31
+Davidson,Cercis,Redbud,1,0.7,5.7,0.3,1.8,0.14
+Davidson,Juniperus virginiana,Eastern red cedar,1.5,0.4,4.8,0.3,1.1,0.11
+Davidson,Juniperus virginiana,Eastern red cedar,1.5,0.4,4.8,0.3,1.1,0.11
+Davidson,Juniperus virginiana,Eastern red cedar,1.5,0.4,4.8,0.3,1.1,0.11
+Davidson,Juniperus virginiana,Eastern red cedar,1.5,0.4,4.8,0.3,1.1,0.11
+Davidson,Juniperus virginiana,Eastern red cedar,1.5,0.4,4.8,0.3,1.1,0.11
+Davidson,Juniperus virginiana,Eastern red cedar,1.5,0.4,4.8,0.3,1.1,0.11
+Davidson,Ilex vomitoria,Yaupon,1.6,0.6,6.8,0.4,1.6,0.15
+Davidson,Ilex vomitoria,Yaupon,1.6,0.6,6.8,0.4,1.6,0.15
+Davidson,Ilex vomitoria,Yaupon,1.6,0.6,6.8,0.4,1.6,0.15
+Davidson,Ilex vomitoria,Yaupon,1.6,0.6,6.8,0.4,1.6,0.15
+Davidson,Ilex vomitoria,Yaupon,1.6,0.6,6.8,0.4,1.6,0.15
+Davidson,Ilex vomitoria,Yaupon,1.6,0.6,6.8,0.4,1.6,0.15
+Davidson,Ilex opaca,American holly,1.5,0.5,7.9,0.5,1.3,0.16
+Davidson,Ilex opaca,American holly,1.5,0.5,7.9,0.5,1.3,0.16
+Davidson,Ilex opaca,American holly,1.5,0.5,7.9,0.5,1.3,0.16
+Davidson,Oxydendrum arboreum,Sourwood,0.5,0.3,5.8,0.4,0.9,0.12
+Davidson,Oxydendrum arboreum,Sourwood,0.5,0.3,5.8,0.4,0.9,0.12
+Davidson,Cartrema americana,Devilwood,1.7,1.1,8,0.5,3.1,0.22
+Davidson,Franklinia alatamaha,Franklin tree,0.9,0.6,4.8,0.3,1.6,0.12
+Davidson,Franklinia alatamaha,Franklin tree,0.9,0.6,4.8,0.3,1.6,0.12
+Davidson,Rhus,Sumac,0.5,0.5,6,0.4,1.4,0.14
+Davidson,Pyrus communis,Common pear,0.5,0.8,7.1,0.4,2,0.17
+Davidson,Malus domestica,Common apple,0.5,0.5,5.9,0.4,1.4,0.13
+Davidson,Malus domestica,Common apple,0.5,0.5,5.9,0.4,1.4,0.13
+Davidson,Prunus persica,Peach,0.7,1,4.7,0.3,2.6,0.16
+Davidson,Ficus,Fig,0.7,0.5,5.9,0.4,1.3,0.13
+Davidson,Thuja occidentalis,Northern white cedar,2.9,1,5.5,0.3,2.7,0.17
+Davidson,Liriodendron tulipifera,Tulip tree,1.9,1.3,10.9,0.7,3.5,0.28
+Davidson,Amelanchier,Serviceberry,2.9,1.4,6.5,0.4,3.7,0.22
+Davidson,Quercus alba,White oak,1.6,0.7,13.4,0.8,1.9,0.26
+Davidson,Prunus subhirtella,Higan cherry,3.6,2.3,10.1,0.6,6.1,0.35
+Davidson,Taxodium,Bald Cypress,3.6,1,6.6,0.4,2.6,0.18
+Davidson,Quercus phellos,Willow oak,1.1,0.8,8.3,0.5,2,0.19
+Davidson,Ulmus americana,American elm,1,0.9,8.3,0.5,2.4,0.2
+Davidson,Ilex cookii,Te,3,0.9,6.6,0.4,2.4,0.18
+Davidson,Salix discolor,Pussy willow,0.9,0.8,7.8,0.5,2.2,0.19
+Davidson,Dirca palustris,Eastern leatherwood,0.4,0.3,4.8,0.3,0.7,0.1
+Davidson,Viburnum prunifolium,Black haw,0.7,0.5,6,0.4,1.5,0.14
+Davidson,Aronia melanocarpa,Black chokeberry,0.4,0.6,4.7,0.3,1.7,0.13
+Davidson,Aronia melanocarpa,Black chokeberry,0.4,0.6,4.7,0.3,1.7,0.13
+Davidson,Aronia melanocarpa,Black chokeberry,0.4,0.6,4.7,0.3,1.7,0.13
+Davidson,Cercis,Redbud,1,0.7,5.7,0.3,1.8,0.14
+Davidson,Cercis,Redbud,1,0.7,5.7,0.3,1.8,0.14
+Davidson,Franklinia alatamaha,Franklin tree,0.9,0.6,4.8,0.3,1.6,0.12
+Davidson,Franklinia alatamaha,Franklin tree,0.9,0.6,4.8,0.3,1.6,0.12
+Davidson,Franklinia alatamaha,Franklin tree,0.9,0.6,4.8,0.3,1.6,0.12
+Davidson,Franklinia alatamaha,Franklin tree,0.9,0.6,4.8,0.3,1.6,0.12
+Davidson,Franklinia alatamaha,Franklin tree,0.9,0.6,4.8,0.3,1.6,0.12
+Davidson,Cotinus coggygria,Smoke tree,1.2,1.2,6.5,0.4,3.1,0.2
+Davidson,Cotinus coggygria,Smoke tree,1.2,1.2,6.5,0.4,3.1,0.2
+Davidson,Cotinus coggygria,Smoke tree,1.2,1.2,6.5,0.4,3.1,0.2
+Davidson,Ilex cookii,Te,3,0.9,6.6,0.4,2.4,0.18
+Davidson,Amelanchier,Serviceberry,1.5,1,4.9,0.3,2.6,0.16
+Davidson,Amelanchier,Serviceberry,1.5,1,4.9,0.3,2.6,0.16
+Davidson,Cornus,Dogwood,1.4,1,5.2,0.3,2.7,0.17
+Davidson,Cornus,Dogwood,1.4,1,5.2,0.3,2.7,0.17
+Davidson,Diospyros virginiana,Common persimmon,0.6,0.3,5.7,0.3,0.7,0.11
+Davidson,Amelanchier,Serviceberry,0.3,0.4,3.2,0.2,1.1,0.08
+Davidson,Amelanchier,Serviceberry,0.3,0.4,3.2,0.2,1.1,0.08
+Davidson,Amelanchier,Serviceberry,0.3,0.4,3.2,0.2,1.1,0.08
+Davidson,Cercis,Redbud,0.7,0.6,5,0.3,1.5,0.12
+Davidson,Taxodium,Bald Cypress,1.8,0.5,5.2,0.3,1.2,0.12
+Davidson,Taxodium,Bald Cypress,1.8,0.5,5.2,0.3,1.2,0.12
+Davidson,Pinus taeda,Pinus taeda,0.5,0.4,1.5,0.1,1.1,0.06
+Davidson,Pinus taeda,Pinus taeda,0.5,0.4,1.5,0.1,1.1,0.06
+Davidson,Pinus virginiana,Virginia pine,0.6,0.4,3.7,0.2,1,0.09
+Davidson,Pinus virginiana,Virginia pine,0.6,0.4,3.7,0.2,1,0.09
+Davidson,Prunus domestica,Common plum,0.7,0.7,4.7,0.3,1.9,0.13
+Davidson,Cornus,Dogwood,0.5,0.6,4,0.2,1.5,0.11
+Davidson,Prunus Kanzan,Kwanzan cherry,0.7,0.7,5.5,0.3,1.9,0.14
+Davidson,Eucalyptus aggregata,Black gum,1.5,0.9,7.9,0.5,2.4,0.2
+Davidson,Cercis,Redbud,1,0.7,5.7,0.3,1.8,0.14
+Davidson,Quercus bicolor,Swamp white oak,10.4,3.3,9.4,0.6,8.7,0.42
+Davidson,Halesia carolina,Snowdrop tree,0.4,0.3,5.1,0.3,0.7,0.1
+Davidson,Pyrus communis,Common pear,1.4,1.3,8.7,0.5,3.3,0.24
+Davidson,Pyrus communis,Common pear,1.4,1.3,8.7,0.5,3.3,0.24
+Davidson,Malus domestica,Common apple,1.3,0.9,7.5,0.5,2.4,0.19
+Davidson,Prunus persica,Peach,1.8,1.6,6.3,0.4,4.3,0.23
+Davidson,Quercus,Oak,8.2,1.8,8.8,0.5,4.8,0.29
+Davidson,Frangula,Buckthorn,0.7,0.6,5.4,0.3,1.6,0.13
+Davidson,Quercus bicolor,Swamp white oak,18.6,5.1,14.7,0.9,13.6,0.66
+Davidson,Acer rubrum,Red maple,4.7,2.5,10.5,0.6,6.6,0.37
+Davidson,Taxodium,Bald Cypress,5.2,1.3,8.3,0.5,3.4,0.24
+Davidson,Cercis,Redbud,5.4,1.6,12.5,0.8,4.3,0.33
+Davidson,Prunus domestica,Common plum,0.4,0.5,4,0.2,1.4,0.11
+Davidson,Prunus domestica,Common plum,0.4,0.5,4,0.2,1.4,0.11
+Davidson,Cercis,Redbud,0.7,0.6,5,0.3,1.5,0.12
+Davidson,Cercis,Redbud,0.7,0.6,5,0.3,1.5,0.12
+Davidson,Cercis,Redbud,0.7,0.6,5,0.3,1.5,0.12
+Davidson,Betula nigra,River birch,0.2,0.4,10.7,0.6,1,0.19
+Davidson,Betula nigra,River birch,0.2,0.4,10.7,0.6,1,0.19
+Davidson,Amelanchier,Serviceberry,0.3,0.4,3.2,0.2,1.1,0.08
+Davidson,Amelanchier,Serviceberry,0.3,0.4,3.2,0.2,1.1,0.08
+Davidson,Amelanchier,Serviceberry,0.3,0.4,3.2,0.2,1.1,0.08
+Davidson,Cornus racemosa,Gray dogwood,0.3,0.4,3.4,0.2,1.1,0.08
+Davidson,Cornus racemosa,Gray dogwood,0.3,0.4,3.4,0.2,1.1,0.08
+Davidson,Callicarpa,Beautyberry,0.5,0.6,3.3,0.2,1.6,0.1
+Davidson,Callicarpa,Beautyberry,0.5,0.6,3.3,0.2,1.6,0.1
+Davidson,Callicarpa,Beautyberry,0.5,0.6,3.3,0.2,1.6,0.1
+Davidson,Callicarpa,Beautyberry,0.5,0.6,3.3,0.2,1.6,0.1
+Davidson,Callicarpa,Beautyberry,0.5,0.6,3.3,0.2,1.6,0.1
+Davidson,Callicarpa,Beautyberry,0.5,0.6,3.3,0.2,1.6,0.1
+Davidson,Amorpha,False Indigo,0.8,0.6,4.6,0.3,1.7,0.12
+Davidson,Amorpha,False Indigo,0.8,0.6,4.6,0.3,1.7,0.12
+Davidson,Amorpha,False Indigo,0.8,0.6,4.6,0.3,1.7,0.12
+Davidson,Amorpha,False Indigo,0.8,0.6,4.6,0.3,1.7,0.12
+Davidson,Amorpha,False Indigo,0.8,0.6,4.6,0.3,1.7,0.12
+Davidson,Amorpha,False Indigo,0.8,0.6,4.6,0.3,1.7,0.12
+Davidson,Amorpha,False Indigo,0.8,0.6,4.6,0.3,1.7,0.12
+Davidson,Amorpha,False Indigo,0.8,0.6,4.6,0.3,1.7,0.12
+Davidson,Amorpha,False Indigo,0.8,0.6,4.6,0.3,1.7,0.12
+Davidson,Amorpha,False Indigo,0.8,0.6,4.6,0.3,1.7,0.12
+Davidson,Amorpha,False Indigo,0.8,0.6,4.6,0.3,1.7,0.12
+Davidson,Amorpha,False Indigo,0.8,0.6,4.6,0.3,1.7,0.12
+Davidson,Amorpha,False Indigo,0.8,0.6,4.6,0.3,1.7,0.12
+Davidson,Amorpha,False Indigo,0.8,0.6,4.6,0.3,1.7,0.12
+Davidson,Amorpha,False Indigo,0.8,0.6,4.6,0.3,1.7,0.12
+Davidson,Cercis,Redbud,1,0.7,5.7,0.3,1.8,0.14
+Davidson,Quercus shumardii,Shumard oak,7.2,1.6,8.3,0.5,4.2,0.26
+Davidson,Taxodium,Bald Cypress,1.8,0.5,5.2,0.3,1.2,0.12
+Davidson,Chionanthus virginicus,Fringe tree,12.3,2.2,21.4,1.3,5.9,0.51
+Davidson,Cornus,Dogwood,0.3,0.4,3.4,0.2,1.1,0.08
+Davidson,Dirca,Leatherwood,0.4,0.4,4.8,0.3,1.1,0.11
+Davidson,Ilex cookii,Te,11.8,2,11.8,0.7,5.2,0.34
+Davidson,Cornus,Dogwood,8,2.4,11.2,0.7,6.4,0.37
+Davidson,Cercis,Redbud,5.4,1.6,12.5,0.8,4.3,0.33
+Davidson,Cercis,Redbud,5.4,1.6,12.5,0.8,4.3,0.33
+Davidson,Carpinus,Hornbeam,2.8,1.4,9.8,0.6,3.8,0.27
+Davidson,Carpinus,Hornbeam,2.8,1.4,9.8,0.6,3.8,0.27
+Davidson,Carpinus,Hornbeam,2.8,1.4,9.8,0.6,3.8,0.27
+Davidson,Quercus,Oak,8.2,1.8,8.8,0.5,4.8,0.29
+Davidson,Quercus,Oak,8.2,1.8,8.8,0.5,4.8,0.29
+Davidson,Quercus,Oak,8.2,1.8,8.8,0.5,4.8,0.29
+Davidson,Magnolia,Magnolia,0.4,0.5,10.4,0.6,1.3,0.2
+Davidson,Amelanchier,Serviceberry,0.5,0.6,3.7,0.2,1.5,0.11
+Davidson,Liriodendron tulipifera,Tulip tree,0.3,0.5,7.2,0.4,1.3,0.15
+Davidson,Acer,Maple,2.1,1.2,11.3,0.7,3.2,0.27
+Davidson,Acer,Maple,2.1,1.2,11.3,0.7,3.2,0.27
+Davidson,Acer,Maple,2.1,1.2,11.3,0.7,3.2,0.27
+Davidson,Juniperus virginiana,Eastern red cedar,2.7,0.7,5.8,0.4,1.8,0.14
+Davidson,Juniperus virginiana,Eastern red cedar,2.7,0.7,5.8,0.4,1.8,0.14
+Davidson,Juniperus virginiana,Eastern red cedar,2.7,0.7,5.8,0.4,1.8,0.14
+Davidson,Quercus,Oak,11,2.6,10.9,0.7,6.9,0.38
+Davidson,Eucalyptus aggregata,Black gum,3.1,1.5,9.6,0.6,4,0.27
+Davidson,Cornus,Dogwood,1.4,1,5.2,0.3,2.7,0.17
+Davidson,Cornus racemosa,Gray dogwood,1.4,1,5.2,0.3,2.7,0.17
+Davidson,Cercis,Redbud,2.1,1,7.3,0.4,2.5,0.19
+Davidson,Amelanchier,Serviceberry,1.5,1,4.9,0.3,2.6,0.16
+Davidson,Amelanchier,Serviceberry,1.5,1,4.9,0.3,2.6,0.16
+Davidson,Amelanchier,Serviceberry,1.5,1,4.9,0.3,2.6,0.16
+Davidson,Sambucus canadensis,Common elderberry,1.8,0.7,7.1,0.4,1.8,0.16
+Davidson,Sambucus canadensis,Common elderberry,1.8,0.7,7.1,0.4,1.8,0.16
+Davidson,Sambucus canadensis,Common elderberry,1.8,0.7,7.1,0.4,1.8,0.16
+Davidson,Cupressus arizonica,Arizona cypress,14.9,1.7,13.1,0.8,4.6,0.35
+Davidson,Taxodium,Bald Cypress,2.5,0.7,5.9,0.4,1.9,0.15
+Davidson,Prunus americana,American plum,1.8,1.2,6.3,0.4,3.2,0.2
+Davidson,Ilex opaca,American holly,2.8,0.7,9.8,0.6,1.9,0.21
+Davidson,Magnolia virginiana,Sweetbay,1,0.7,11,0.7,2,0.23
+Davidson,Magnolia virginiana,Sweetbay,1,0.7,11,0.7,2,0.23
+Davidson,Magnolia virginiana,Sweetbay,1,0.7,11,0.7,2,0.23
+Davidson,Prunus,Plum,1.8,1.2,7.4,0.4,3.2,0.21
+Davidson,Prunus,Plum,1.8,1.2,7.4,0.4,3.2,0.21
+Davidson,Quercus,Oak,8.2,1.8,8.8,0.5,4.8,0.29
+Davidson,Amelanchier,Serviceberry,0.5,0.6,3.7,0.2,1.5,0.11
+Davidson,Amelanchier,Serviceberry,0.5,0.6,3.7,0.2,1.5,0.11
+Davidson,Amelanchier,Serviceberry,0.5,0.6,3.7,0.2,1.5,0.11
+Davidson,Amelanchier,Serviceberry,0.5,0.6,3.7,0.2,1.5,0.11
+Davidson,Magnolia,Magnolia,0.4,0.5,10.4,0.6,1.3,0.2
+Davidson,Magnolia,Magnolia,0.4,0.5,10.4,0.6,1.3,0.2
+Davidson,Ilex cookii,Te,1.5,0.6,5.5,0.3,1.6,0.13
+Davidson,Gleditsia triacanthos,Honeylocust,1.1,0.9,7.3,0.4,2.5,0.19
+Davidson,Prunus x yedoensis,Yoshino flowering cherry,0.6,0.6,6.2,0.4,1.6,0.14
+Davidson,Amelanchier,Serviceberry,0.3,0.4,3.2,0.2,1.1,0.08
+Davidson,Amelanchier,Serviceberry,0.3,0.4,3.2,0.2,1.1,0.08
+Davidson,Amelanchier,Serviceberry,0.3,0.4,3.2,0.2,1.1,0.08
+Davidson,Amelanchier,Serviceberry,0.3,0.4,3.2,0.2,1.1,0.08
+Davidson,Amelanchier,Serviceberry,0.3,0.4,3.2,0.2,1.1,0.08
+Davidson,Asimina triloba,Pawpaw,0.6,0.3,6.7,0.4,0.9,0.13
+Davidson,Asimina triloba,Pawpaw,0.6,0.3,6.7,0.4,0.9,0.13
+Davidson,Asimina triloba,Pawpaw,0.6,0.3,6.7,0.4,0.9,0.13
+Davidson,Asimina triloba,Pawpaw,0.6,0.3,6.7,0.4,0.9,0.13
+Davidson,Asimina triloba,Pawpaw,0.6,0.3,6.7,0.4,0.9,0.13
+Davidson,Diospyros virginiana,Common persimmon,0.1,0.1,4,0.2,0.3,0.07
+Davidson,Diospyros virginiana,Common persimmon,0.1,0.1,4,0.2,0.3,0.07
+Davidson,Liriodendron tulipifera,Tulip tree,0.2,0.3,6.4,0.4,0.8,0.12
+Davidson,Magnolia x soulangeana,Saucer magnolia,0.3,0.3,6.3,0.4,0.8,0.12
+Davidson,Magnolia macrophylla,Bigleaf magnolia,0.3,0.3,6.3,0.4,0.8,0.12
+Davidson,Ilex cookii,Te,1.5,0.6,5.5,0.3,1.6,0.13
+Davidson,Cladrastis sinensis,Chinese yellow wood,1.8,1.1,5.1,0.3,3,0.17
+Davidson,Magnolia virginiana,Sweetbay,0.4,0.4,9.2,0.6,1,0.17
+Davidson,Quercus michauxii,Swamp chestnut oak,7.6,1.7,7.7,0.5,4.5,0.26
+Davidson,Amelanchier,Serviceberry,0.5,0.6,3.7,0.2,1.5,0.11
+Davidson,Amelanchier,Serviceberry,0.5,0.6,3.7,0.2,1.5,0.11
+Davidson,Amelanchier,Serviceberry,15.9,3.6,15.4,0.9,9.6,0.54
+Davidson,Amelanchier,Serviceberry,15.9,3.6,15.4,0.9,9.6,0.54
+Davidson,Amelanchier,Serviceberry,15.9,3.6,15.4,0.9,9.6,0.54
+Davidson,Amelanchier,Serviceberry,15.9,3.6,15.4,0.9,9.6,0.54
+Davidson,Cupressus,Cypress,38.5,4.9,21.3,1.3,13.2,0.74
+Davidson,Asimina triloba,Pawpaw,29.4,4.6,39.9,2.4,12.2,0.99
+Davidson,Asimina triloba,Pawpaw,29.4,4.6,39.9,2.4,12.2,0.99
+Davidson,Asimina triloba,Pawpaw,29.4,4.6,39.9,2.4,12.2,0.99
+Davidson,Asimina triloba,Pawpaw,29.4,4.6,39.9,2.4,12.2,0.99
+Davidson,Cornus,Dogwood,15.9,3.4,16.3,1,9.1,0.54
+Davidson,Acer,Maple,19.9,3.9,42.2,2.6,10.4,0.97
+Davidson,Chionanthus virginicus,Fringe tree,23.6,3.2,32.9,2,8.4,0.77
+Davidson,Carpinus caroliniana,American hornbeam,23.5,2.8,44.2,2.7,7.4,0.9
+Davidson,Quercus,Oak,41.2,6.4,34,2.1,17,1.06
+Davidson,Populus,Cottonwood,9.4,2.2,12.3,0.7,5.8,0.37
+Davidson,Cupressus,Cypress,38.5,4.9,21.3,1.3,13.2,0.74
+Davidson,Cercis,Redbud,0.7,0.6,5,0.3,1.5,0.12
+Davidson,Cercis,Redbud,0.7,0.6,5,0.3,1.5,0.12
+Davidson,Cercis,Redbud,0.7,0.6,5,0.3,1.5,0.12
+Davidson,Asimina triloba,Pawpaw,0.6,0.3,6.7,0.4,0.9,0.13
+Davidson,Diospyros virginiana,Common persimmon,0.1,0.1,4,0.2,0.3,0.07
+Davidson,Malus domestica,Common apple,0.3,0.4,5.1,0.3,1.1,0.11
+Davidson,Amelanchier,Serviceberry,0.5,0.6,3.7,0.2,1.5,0.11
+Davidson,Amelanchier,Serviceberry,0.5,0.6,3.7,0.2,1.5,0.11
+Davidson,Cercis,Redbud,1,0.7,5.7,0.3,1.8,0.14
+Davidson,Cercis,Redbud,1,0.7,5.7,0.3,1.8,0.14
+Davidson,Asimina triloba,Pawpaw,0.9,0.6,7.8,0.5,1.5,0.17
+Davidson,Asimina triloba,Pawpaw,0.9,0.6,7.8,0.5,1.5,0.17
+Davidson,Quercus,Oak,8.2,1.8,8.8,0.5,4.8,0.29
+Fayette,Cercis,Redbud,7.8,2,3.1,1,5.3,0.26
+Fentress,Asimina triloba,Pawpaw,9,1.7,16.9,0.8,4.5,0.35
+Fentress,Callicarpa,Beautyberry,5.9,1.3,6.2,0.3,3.5,0.19
+Fentress,Malus domestica,Common apple,4.6,1.2,10.5,0.5,3.2,0.23
+Fentress,Pyrus communis,Common pear,4.8,1.7,11.1,0.5,4.4,0.28
+Fentress,Prunus persica,Peach,6.1,2.1,9.5,0.5,5.7,0.3
+Fentress,Morus,Mulberry,5.2,1.3,12.3,0.6,3.6,0.27
+Fentress,Rubus,Blackberry,4.3,1.1,9.8,0.5,3,0.22
+Fentress,Jacksonia scoparia,Dogwood,9.7,1.9,9.4,0.5,5.1,0.28
+Fentress,Carya illinoinensis,Pecan,4.5,0.9,13.1,0.6,2.3,0.24
+Fentress,Cercis,Redbud,5.4,1.1,10.9,0.5,3,0.23
+Gibson,Syzygium myrtifolium,Redbud,2.7,0.8,11.5,0.3,2.2,0.2
+Gibson,Syzygium myrtifolium,Redbud,2.7,0.8,11.5,0.3,2.2,0.2
+Gibson,Jacksonia scoparia,Dogwood,3.8,1.6,7.4,0.2,4.3,0.22
+Gibson,Sambucus,Elderberry,1.8,1,8.4,0.2,2.6,0.17
+Gibson,Sambucus,Elderberry,1.8,1,8.4,0.2,2.6,0.17
+Gibson,Callicarpa,Beautyberry,2,1.1,5.4,0.1,3,0.15
+Gibson,Callicarpa,Beautyberry,2,1.1,5.4,0.1,3,0.15
+Gibson,Liriodendron tulipifera,Tulip tree,0.9,0.9,10.7,0.3,2.4,0.19
+Gibson,Liriodendron tulipifera,Tulip tree,0.9,0.9,10.7,0.3,2.4,0.19
+Gibson,Liriodendron tulipifera,Tulip tree,0.9,0.9,10.7,0.3,2.4,0.19
+Gibson,Quercus alba,White oak,0.6,0.4,12.6,0.3,1.1,0.17
+Gibson,Quercus alba,White oak,0.6,0.4,12.6,0.3,1.1,0.17
+Gibson,Malus,Apple,0.3,0.4,7.3,0.2,1.1,0.11
+Gibson,Asimina triloba,Pawpaw,0.6,0.3,7.9,0.2,0.9,0.11
+Gibson,Jacksonia scoparia,Dogwood,2,1.1,6.1,0.2,3,0.16
+Gibson,Rhododendron azalea,Azalea,1.3,0.3,10.2,0.3,0.9,0.14
+Gibson,Rhododendron azalea,Azalea,1.3,0.3,10.2,0.3,0.9,0.14
+Gibson,Rhododendron azalea,Azalea,1.3,0.3,10.2,0.3,0.9,0.14
+Gibson,Rhododendron azalea,Azalea,1.3,0.3,10.2,0.3,0.9,0.14
+Gibson,Acer,Maple,0.9,0.8,11,0.3,2.1,0.18
+Gibson,Sassafras albidum,Sassafras,0.6,0.6,8.8,0.2,1.7,0.15
+Hamblen,Cornus,Dogwood,0.3,0.3,2,0.2,0.7,0.05
+Hamblen,Cornus,Dogwood,0.3,0.3,2,0.2,0.7,0.05
+Hamblen,Cornus,Dogwood,0.3,0.3,2,0.2,0.7,0.05
+Hamblen,Chionanthus virginicus,Fringe tree,0.7,0.3,4.2,0.4,0.9,0.1
+Hamblen,Pinus taeda,Loblolly pine,0.4,0.2,0.7,0.1,0.5,0.03
+Hamblen,Pinus taeda,Loblolly pine,0.4,0.2,0.7,0.1,0.5,0.03
+Hamblen,Pinus taeda,Loblolly pine,0.4,0.2,0.7,0.1,0.5,0.03
+Hamilton,Quercus,Oak,11,2.6,10.1,0.5,6.9,0.35
+Hamilton,Quercus,Oak,11,2.6,10.1,0.5,6.9,0.35
+Hamilton,Cercis,Redbud,2.1,1,6.7,0.3,2.5,0.17
+Hamilton,Cercis,Redbud,2.1,1,6.7,0.3,2.5,0.17
+Hamilton,Cornus,Dogwood,1.4,1,4.8,0.2,2.7,0.15
+Hamilton,Cornus,Dogwood,1.4,1,4.8,0.2,2.7,0.15
+Hamilton,Cornus,Dogwood,1.4,1,4.8,0.2,2.7,0.15
+Hamilton,Cornus,Dogwood,1.4,1,4.8,0.2,2.7,0.15
+Hamilton,Cornus,Dogwood,1.4,1,4.8,0.2,2.7,0.15
+Hamilton,Amelanchier,Serviceberry,1.5,1,4.5,0.2,2.6,0.14
+Hamilton,Pinus,Pine,1.1,0.5,4.9,0.2,1.2,0.1
+Hamilton,Malus domestica,Common apple,1.3,0.9,6.9,0.3,2.4,0.16
+Hamilton,Malus domestica,Common apple,1.3,0.9,6.9,0.3,2.4,0.16
+Hamilton,Prunus,Plum,1.8,1.2,6.8,0.3,3.2,0.19
+Hamilton,Prunus,Plum,1.8,1.2,6.8,0.3,3.2,0.19
+Hamilton,Asimina triloba,Pawpaw,0.6,0.3,6.1,0.3,0.9,0.11
+Hamilton,Asimina triloba,Pawpaw,0.6,0.3,6.1,0.3,0.9,0.11
+Hamilton,Ilex cookii,Te,1,0.5,4.6,0.2,1.3,0.1
+Hamilton,Liriodendron tulipifera,Tulip tree,0.2,0.3,5.9,0.3,0.8,0.1
+Hamilton,Betula nigra,River birch,0.2,0.4,9.8,0.5,1,0.16
+Hamilton,Betula nigra,River birch,0.2,0.4,9.8,0.5,1,0.16
+Hamilton,Cercis,Redbud,0.7,0.6,4.6,0.2,1.5,0.11
+Hamilton,Quercus,Oak,8.2,1.8,8.1,0.4,4.8,0.26
+Hamilton,Aesculus flava,Yellow buckeye,0.4,0.4,5.3,0.2,1.1,0.1
+Hamilton,Sideroxylon lycioides,Buckthorn bully,0.3,0.4,3.6,0.2,1.2,0.08
+Hamilton,Chionanthus virginicus,Fringe tree,1.1,0.6,7.3,0.3,1.7,0.15
+Hamilton,Ulmus americana,American elm,0.4,0.6,6.5,0.3,1.5,0.13
+Hamilton,Crataegus phaenopyrum,Washington hawthorn,0.4,0.5,2.8,0.1,1.2,0.07
+Hamilton,Tsuga,Hemlock,0.4,0.2,4.1,0.2,0.6,0.07
+Hamilton,Carya x ludoviciana,Hickory,0.4,0.3,5.1,0.2,0.8,0.09
+Hamilton,Gleditsia triacanthos,Honeylocust,1.1,0.9,6.7,0.3,2.5,0.16
+Hamilton,Magnolia virginiana,Sweetbay,0.4,0.4,8.4,0.4,1,0.14
+Hamilton,Asimina triloba,Pawpaw,0.9,0.6,7.2,0.3,1.5,0.14
+Hamilton,Pinus,Pine,0.7,0.3,4.2,0.2,0.7,0.08
+Hamilton,Diospyros virginiana,Common persimmon,0.2,0.2,4.2,0.2,0.4,0.07
+Hamilton,Prunus domestica,Common plum,0.7,0.7,4.3,0.2,1.9,0.12
+Hamilton,Amelanchier,Serviceberry,0.5,0.6,3.4,0.2,1.5,0.09
+Hamilton,Cercis,Redbud,0.7,0.6,4.6,0.2,1.5,0.11
+Hamilton,Cercis,Redbud,0.7,0.6,4.6,0.2,1.5,0.11
+Hamilton,Cercis,Redbud,0.7,0.6,4.6,0.2,1.5,0.11
+Hamilton,Crataegus phaenopyrum,Washington hawthorn,0.2,0.3,2.4,0.1,0.9,0.06
+Hamilton,Crataegus phaenopyrum,Washington hawthorn,0.2,0.3,2.4,0.1,0.9,0.06
+Hamilton,Cornus florida,Flowering dogwood,0.3,0.4,4.1,0.2,1.1,0.09
+Henderson,Malus domestica,Common apple,0.3,0.4,4.6,0,1.1,0.08
+Henderson,Malus domestica,Common apple,0.3,0.4,4.6,0,1.1,0.08
+Henderson,Malus domestica,Common apple,0.3,0.4,4.6,0,1.1,0.08
+Henderson,Malus domestica,Common apple,0.3,0.4,4.6,0,1.1,0.08
+Henderson,Malus domestica,Common apple,0.3,0.4,4.6,0,1.1,0.08
+Henderson,Malus domestica,Common apple,0.3,0.4,4.6,0,1.1,0.08
+Henderson,Malus domestica,Common apple,0.3,0.4,4.6,0,1.1,0.08
+Henderson,Malus domestica,Common apple,0.3,0.4,4.6,0,1.1,0.08
+Henderson,Malus domestica,Common apple,0.3,0.4,4.6,0,1.1,0.08
+Henderson,Malus domestica,Common apple,0.3,0.4,4.6,0,1.1,0.08
+Henderson,Malus domestica,Common apple,0.3,0.4,4.6,0,1.1,0.08
+Henderson,Malus domestica,Common apple,0.3,0.4,4.6,0,1.1,0.08
+Henderson,Malus domestica,Common apple,0.3,0.4,4.6,0,1.1,0.08
+Henderson,Malus domestica,Common apple,0.3,0.4,4.6,0,1.1,0.08
+Henderson,Malus domestica,Common apple,0.3,0.4,4.6,0,1.1,0.08
+Henderson,Prunus persica,Peach,0.4,0.7,3.6,0,2,0.1
+Henderson,Prunus persica,Peach,0.4,0.7,3.6,0,2,0.1
+Henderson,Prunus persica,Peach,0.4,0.7,3.6,0,2,0.1
+Henderson,Prunus persica,Peach,0.4,0.7,3.6,0,2,0.1
+Henderson,Pyrus communis,Common pear,0.3,0.6,5.7,0,1.5,0.1
+Henderson,Pyrus communis,Common pear,0.3,0.6,5.7,0,1.5,0.1
+Henderson,Pyrus communis,Common pear,0.3,0.6,5.7,0,1.5,0.1
+Henderson,Pyrus communis,Common pear,0.3,0.6,5.7,0,1.5,0.1
+Henderson,Pyrus communis,Common pear,0.3,0.6,5.7,0,1.5,0.1
+Henderson,Diospyros virginiana,Common persimmon,0.1,0.1,3.6,0,0.3,0.04
+Henderson,Diospyros virginiana,Common persimmon,0.1,0.1,3.6,0,0.3,0.04
+Henderson,Diospyros virginiana,Common persimmon,0.1,0.1,3.6,0,0.3,0.04
+Henderson,Diospyros kaki,Japanese persimmon,0.1,0.2,2.6,0,0.4,0.04
+Henderson,Prunus,Plum,0.4,0.5,4.3,0,1.4,0.08
+Henderson,Prunus americana,American plum,0.4,0.5,3.6,0,1.4,0.08
+Henderson,Prunus americana,American plum,0.4,0.5,3.6,0,1.4,0.08
+Henderson,Prunus americana,American plum,0.4,0.5,3.6,0,1.4,0.08
+Henderson,Prunus americana,American plum,0.4,0.5,3.6,0,1.4,0.08
+Henderson,Prunus americana,American plum,0.4,0.5,3.6,0,1.4,0.08
+Henderson,Betula nigra,River birch,0.2,0.4,9.6,0,1,0.12
+Henderson,Betula nigra,River birch,0.2,0.4,9.6,0,1,0.12
+Henderson,Betula nigra,River birch,0.2,0.4,9.6,0,1,0.12
+Henderson,Cercis,Redbud,0.7,0.6,4.5,0,1.5,0.09
+Henderson,Cercis,Redbud,0.7,0.6,4.5,0,1.5,0.09
+Henderson,Cercis,Redbud,0.7,0.6,4.5,0,1.5,0.09
+Henderson,Cornus,Dogwood,0.3,0.4,3,0,1.1,0.06
+Henderson,Cornus,Dogwood,0.3,0.4,3,0,1.1,0.06
+Henderson,Cornus,Dogwood,0.3,0.4,3,0,1.1,0.06
+Henderson,Cornus,Dogwood,0.3,0.4,3,0,1.1,0.06
+Henderson,Cornus,Dogwood,0.3,0.4,3,0,1.1,0.06
+Knox,Taxodium,Bald Cypress,1.6,0.3,2.9,0.2,0.9,0.08
+Knox,Taxodium,Bald Cypress,1.6,0.3,2.9,0.2,0.9,0.08
+Knox,Taxodium,Bald Cypress,1.6,0.3,2.9,0.2,0.9,0.08
+Knox,Taxodium,Bald Cypress,1.6,0.3,2.9,0.2,0.9,0.08
+Knox,Taxodium,Bald Cypress,1.6,0.3,2.9,0.2,0.9,0.08
+Knox,Taxodium,Bald Cypress,1.6,0.3,2.9,0.2,0.9,0.08
+Knox,Taxodium,Bald Cypress,1.6,0.3,2.9,0.2,0.9,0.08
+Knox,Asimina triloba,Pawpaw,0.6,0.3,4,0.3,0.9,0.1
+Knox,Asimina triloba,Pawpaw,0.6,0.3,4,0.3,0.9,0.1
+Knox,Betula nigra,River birch,0.2,0.4,6.5,0.5,1,0.15
+Knox,Betula nigra,River birch,0.2,0.4,6.5,0.5,1,0.15
+Knox,Betula nigra,River birch,0.2,0.4,6.5,0.5,1,0.15
+Knox,Betula nigra,River birch,0.2,0.4,6.5,0.5,1,0.15
+Knox,Prunus americana,American plum,0.4,0.5,2.4,0.2,1.4,0.09
+Knox,Acer rubrum,Red maple,0.2,0.5,2.6,0.2,1.2,0.09
+Knox,Acer rubrum,Red maple,0.2,0.5,2.6,0.2,1.2,0.09
+Knox,Acer rubrum,Red maple,0.2,0.5,2.6,0.2,1.2,0.09
+Knox,Magnolia virginiana,Sweetbay,0.2,0.2,5,0.4,0.6,0.11
+Knox,Magnolia virginiana,Sweetbay,0.2,0.2,5,0.4,0.6,0.11
+Knox,Eucalyptus aggregata,Black gum,1.1,0.7,4.3,0.3,1.8,0.13
+Knox,Cornus florida,Flowering dogwood,0.3,0.4,2.7,0.2,1.1,0.08
+Knox,Cornus florida,Flowering dogwood,0.3,0.4,2.7,0.2,1.1,0.08
+Knox,Lagerstroemia indica,Common crape myrtle,0.3,0.4,3.3,0.3,1.2,0.1
+Knox,Acer palmatum,Japanese maple,0.4,0.3,3.4,0.3,0.7,0.08
+Knox,Acer palmatum,Japanese maple,0.4,0.3,3.4,0.3,0.7,0.08
+Knox,Acer palmatum,Japanese maple,0.4,0.3,3.4,0.3,0.7,0.08
+Knox,Prunus subhirtella,Higan cherry,0.4,0.7,3.5,0.3,2,0.12
+Knox,Magnolia grandiflora,Southern  magnolia,1.1,0.4,5.1,0.4,1,0.12
+Knox,Prunus americana,American plum,0.7,0.7,2.9,0.2,1.9,0.11
+Knox,Prunus americana,American plum,0.7,0.7,2.9,0.2,1.9,0.11
+Knox,Morus rubra,Red mulberry,0.6,0.6,3.9,0.3,1.6,0.12
+Knox,Morus rubra,Red mulberry,0.6,0.6,3.9,0.3,1.6,0.12
+Knox,Photinia,Chokeberry,0.6,0.7,3.9,0.3,1.8,0.13
+Knox,Photinia,Chokeberry,0.6,0.7,3.9,0.3,1.8,0.13
+Knox,Photinia,Chokeberry,0.6,0.7,3.9,0.3,1.8,0.13
+Knox,Photinia,Chokeberry,0.6,0.7,3.9,0.3,1.8,0.13
+Knox,Photinia,Chokeberry,0.6,0.7,3.9,0.3,1.8,0.13
+Knox,Photinia,Chokeberry,0.6,0.7,3.9,0.3,1.8,0.13
+Knox,Quercus,Oak,7.4,1.5,4.7,0.4,3.9,0.21
+Knox,Diospyros virginiana,Common persimmon,0.1,0.1,2.4,0.2,0.3,0.05
+Knox,Prunus virginiana,Common chokecherry,0.4,0.7,2.4,0.2,2,0.11
+Knox,Quercus x columnaris,Column oak,7.4,1.5,3.8,0.3,3.9,0.19
+Knox,Quercus x columnaris,Column oak,7.4,1.5,3.8,0.3,3.9,0.19
+Knox,Chionanthus virginicus,Fringe tree,0.7,0.5,4.4,0.4,1.3,0.12
+Knox,Chionanthus virginicus,Fringe tree,0.7,0.5,4.4,0.4,1.3,0.12
+Knox,Chionanthus virginicus,Fringe tree,0.7,0.5,4.4,0.4,1.3,0.12
+Knox,Liriodendron tulipifera,Tulip tree,3.4,1.8,9.1,0.7,4.8,0.31
+Knox,Cercis,Redbud,5.4,1.6,7.6,0.6,4.3,0.27
+Knox,Cornus,Dogwood,5.1,1.9,5.5,0.4,5.1,0.26
+Knox,Ilex cookii,Te,8.1,1.6,6,0.5,4.2,0.24
+Knox,Cornus,Dogwood,1.4,1,3.2,0.3,2.7,0.14
+Knox,Cornus,Dogwood,1.4,1,3.2,0.3,2.7,0.14
+Knox,Cornus,Dogwood,1.4,1,3.2,0.3,2.7,0.14
+Knox,Ilex cookii,Te,3,0.9,4,0.3,2.4,0.15
+Knox,Cornus,Dogwood,0.3,0.4,2,0.2,1.1,0.07
+Knox,Celtis,Hackberry,0.6,0.5,4.3,0.3,1.3,0.12
+Knox,Chionanthus virginicus,Fringe tree,2.6,1,5.8,0.5,2.6,0.18
+Knox,Cornus,Dogwood,1.4,1,3.2,0.3,2.7,0.14
+Knox,Liriodendron tulipifera,Tulip tree,0.2,0.3,3.9,0.3,0.8,0.09
+Knox,Cornus,Dogwood,0.3,0.4,2,0.2,1.1,0.07
+Knox,Cornus,Dogwood,0.3,0.4,2,0.2,1.1,0.07
+Knox,Cornus,Dogwood,0.3,0.4,2,0.2,1.1,0.07
+Knox,Ilex cookii,Te,1,0.5,3,0.2,1.3,0.09
+Knox,Asimina triloba,Pawpaw,0.9,0.6,4.7,0.4,1.5,0.13
+Knox,Diospyros virginiana,Common persimmon,0.2,0.2,2.8,0.2,0.4,0.06
+Knox,Pinus,Pine,0.7,0.3,2.8,0.2,0.7,0.07
+Knox,Juniperus virginiana,Eastern red cedar,1.5,0.4,2.9,0.2,1.1,0.09
+Knox,Prunus armeniaca,Apricot,0.4,0.6,2.9,0.2,1.7,0.11
+Knox,Punica granatum,Pomegrante,0.9,1,2.9,0.2,2.6,0.14
+Knox,Asimina triloba,Pawpaw,0.6,0.3,4,0.3,0.9,0.1
+Knox,Asimina triloba,Pawpaw,0.6,0.3,4,0.3,0.9,0.1
+Knox,Asimina triloba,Pawpaw,0.6,0.3,4,0.3,0.9,0.1
+Knox,Cercis,Redbud,1,0.7,3.5,0.3,1.8,0.12
+Knox,Cercis,Redbud,1,0.7,3.5,0.3,1.8,0.12
+Knox,Cercis,Redbud,1,0.7,3.5,0.3,1.8,0.12
+Knox,Cercis,Redbud,1,0.7,3.5,0.3,1.8,0.12
+Knox,Amelanchier,Serviceberry,0.5,0.6,2.3,0.2,1.5,0.09
+Knox,Aesculus pavia,Red buckeye,0.6,0.6,3.5,0.3,1.5,0.11
+Knox,Quercus,Oak,11,2.6,6.6,0.5,6.9,0.34
+Knox,Ilex opaca,American holly,2.8,0.7,6,0.5,1.9,0.17
+Knox,Ilex opaca,American holly,2.8,0.7,6,0.5,1.9,0.17
+Knox,Ilex opaca,American holly,2.8,0.7,6,0.5,1.9,0.17
+Knox,Ilex opaca,American holly,2.8,0.7,6,0.5,1.9,0.17
+Knox,Ilex opaca,American holly,2.8,0.7,6,0.5,1.9,0.17
+Knox,Cornus,Dogwood,1.4,1,3.2,0.3,2.7,0.14
+Knox,Cedrus,Redbud,5.9,1.5,2,0.2,3.9,0.16
+Knox,Pyrus,Pear,0.3,0.4,4.6,0.4,1,0.11
+Knox,Pyrus,Pear,0.3,0.4,4.6,0.4,1,0.11
+Knox,Prunus persica,Peach,0.4,0.7,2.4,0.2,2,0.11
+Knox,Prunus persica,Peach,0.4,0.7,2.4,0.2,2,0.11
+Knox,Spondias mombin,Yellow mombim,0.3,0.3,3.1,0.2,0.9,0.08
+Knox,Prunus serotina,Black cherry,0.3,0.6,2.8,0.2,1.5,0.1
+Knox,Prunus serotina,Black cherry,0.3,0.6,2.8,0.2,1.5,0.1
+Knox,Prunus serotina,Black cherry,0.3,0.6,2.8,0.2,1.5,0.1
+Knox,Prunus serotina,Black cherry,0.3,0.6,2.8,0.2,1.5,0.1
+Knox,Prunus serotina,Black cherry,0.3,0.6,2.8,0.2,1.5,0.1
+Knox,Prunus serotina,Black cherry,0.3,0.6,2.8,0.2,1.5,0.1
+Knox,Prunus serotina,Black cherry,0.3,0.6,2.8,0.2,1.5,0.1
+Knox,Cercis,Redbud,0.7,0.6,3,0.2,1.5,0.1
+Knox,Cercis,Redbud,0.7,0.6,3,0.2,1.5,0.1
+Knox,Cercis,Redbud,0.7,0.6,3,0.2,1.5,0.1
+Knox,Cercis,Redbud,0.7,0.6,3,0.2,1.5,0.1
+Knox,Cercis,Redbud,0.7,0.6,3,0.2,1.5,0.1
+Knox,Frangula caroliniana,California buckthorn,0.4,0.5,2.9,0.2,1.2,0.09
+Knox,Chionanthus virginicus,Fringe tree,0.7,0.5,4.4,0.4,1.3,0.12
+Knox,Diospyros virginiana,Common persimmon,0.1,0.1,2.4,0.2,0.3,0.05
+Knox,Diospyros virginiana,Common persimmon,0.1,0.1,2.4,0.2,0.3,0.05
+Knox,Fraxinus pennsylvanica,Green ash,0.7,0.8,4.3,0.3,2.1,0.14
+Knox,Fraxinus pennsylvanica,Green ash,0.7,0.8,4.3,0.3,2.1,0.14
+Knox,Fraxinus pennsylvanica,Green ash,0.7,0.8,4.3,0.3,2.1,0.14
+Knox,Pinus echinata,Shortleaf pine,0.3,0.1,2.3,0.2,0.3,0.05
+Knox,Pinus echinata,Shortleaf pine,0.3,0.1,2.3,0.2,0.3,0.05
+Knox,Pinus echinata,Shortleaf pine,0.3,0.1,2.3,0.2,0.3,0.05
+Knox,Prunus caroliniana,Carolina laurelcherry,0.7,0.5,3.8,0.3,1.4,0.11
+Knox,Liriodendron tulipifera,Tulip tree,0.2,0.3,3.9,0.3,0.8,0.09
+Knox,Liriodendron tulipifera,Tulip tree,0.2,0.3,3.9,0.3,0.8,0.09
+Knox,Cornus,Dogwood,0.3,0.4,2,0.2,1.1,0.07
+Knox,Cornus,Dogwood,0.3,0.4,2,0.2,1.1,0.07
+Knox,Cornus,Dogwood,0.3,0.4,2,0.2,1.1,0.07
+Knox,Amelanchier,Serviceberry,0.3,0.4,1.9,0.2,1.1,0.07
+Knox,Amelanchier,Serviceberry,0.3,0.4,1.9,0.2,1.1,0.07
+Knox,Amelanchier,Serviceberry,0.3,0.4,1.9,0.2,1.1,0.07
+Lawrence,Lagerstroemia indica,Common crape myrtle,0.3,0.3,3.3,0.3,0.8,0.07
+Lawrence,Lagerstroemia indica,Common crape myrtle,0.3,0.3,3.3,0.3,0.8,0.07
+Lawrence,Lagerstroemia indica,Common crape myrtle,0.3,0.3,3.3,0.3,0.8,0.07
+Lawrence,Lagerstroemia indica,Common crape myrtle,0.3,0.3,3.3,0.3,0.8,0.07
+Lawrence,Lagerstroemia indica,Common crape myrtle,0.3,0.3,3.3,0.3,0.8,0.07
+Lawrence,Lagerstroemia indica,Common crape myrtle,0.3,0.3,3.3,0.3,0.8,0.07
+Lawrence,Lagerstroemia indica,Common crape myrtle,0.3,0.3,3.3,0.3,0.8,0.07
+Lawrence,Lagerstroemia indica,Common crape myrtle,0.3,0.3,3.3,0.3,0.8,0.07
+Lawrence,Lagerstroemia indica,Common crape myrtle,0.3,0.3,3.3,0.3,0.8,0.07
+Lawrence,Lagerstroemia indica,Common crape myrtle,0.3,0.3,3.3,0.3,0.8,0.07
+Lawrence,Lagerstroemia indica,Common crape myrtle,0.3,0.3,3.3,0.3,0.8,0.07
+Lawrence,Lagerstroemia indica,Common crape myrtle,0.3,0.3,3.3,0.3,0.8,0.07
+Lawrence,Lagerstroemia indica,Common crape myrtle,0.3,0.3,3.3,0.3,0.8,0.07
+Lawrence,Lagerstroemia indica,Common crape myrtle,0.3,0.3,3.3,0.3,0.8,0.07
+Lawrence,Lagerstroemia indica,Common crape myrtle,0.3,0.3,3.3,0.3,0.8,0.07
+Lawrence,Lagerstroemia indica,Common crape myrtle,0.3,0.3,3.3,0.3,0.8,0.07
+Lawrence,Lagerstroemia indica,Common crape myrtle,0.3,0.3,3.3,0.3,0.8,0.07
+Lawrence,Lagerstroemia indica,Common crape myrtle,0.3,0.3,3.3,0.3,0.8,0.07
+Lawrence,Lagerstroemia indica,Common crape myrtle,0.3,0.3,3.3,0.3,0.8,0.07
+Lawrence,Lagerstroemia indica,Common crape myrtle,0.3,0.3,3.3,0.3,0.8,0.07
+Lawrence,Lagerstroemia indica,Common crape myrtle,0.3,0.3,3.3,0.3,0.8,0.07
+Lawrence,Lagerstroemia indica,Common crape myrtle,0.3,0.3,3.3,0.3,0.8,0.07
+Lawrence,Lagerstroemia indica,Common crape myrtle,0.3,0.3,3.3,0.3,0.8,0.07
+Lawrence,Lagerstroemia indica,Common crape myrtle,0.3,0.3,3.3,0.3,0.8,0.07
+Lawrence,Cornus,Dogwood,0.3,0.3,2,0.2,0.7,0.05
+Lawrence,Cornus,Dogwood,0.3,0.3,2,0.2,0.7,0.05
+Lawrence,Cornus,Dogwood,0.3,0.3,2,0.2,0.7,0.05
+Lawrence,Cornus,Dogwood,0.3,0.3,2,0.2,0.7,0.05
+Lawrence,Cornus,Dogwood,0.3,0.3,2,0.2,0.7,0.05
+Lawrence,Liriodendron tulipifera,Tulip tree,0.2,0.2,3.8,0.3,0.5,0.07
+Lawrence,Liriodendron tulipifera,Tulip tree,0.2,0.2,3.8,0.3,0.5,0.07
+Lawrence,Liriodendron tulipifera,Tulip tree,0.2,0.2,3.8,0.3,0.5,0.07
+Lawrence,Cercis,Redbud,0.7,0.4,3,0.2,1,0.08
+Lawrence,Cercis,Redbud,0.7,0.4,3,0.2,1,0.08
+Lawrence,Cercis,Redbud,0.7,0.4,3,0.2,1,0.08
+Lewis,Pinus,Pine,1.1,0.3,3.4,0.3,0.8,0.07
+Lewis,Cercis,Redbud,2.1,0.7,4.6,0.4,1.8,0.12
+Lewis,Cornus,Dogwood,1.4,0.7,3.3,0.3,1.8,0.1
+Lewis,Liriodendron tulipifera,Tulip tree,0.9,0.6,5.7,0.5,1.6,0.13
+Lewis,Hamamelis virginiana,Witch hazel,0.9,0.4,8.2,0.7,1,0.14
+Loudon,Cornus amomum ssp. obliqua,Knob styled dogwood,0.5,0.6,0.2,0.2,1.5,0.07
+Loudon,Cornus amomum ssp. obliqua,Knob styled dogwood,0.5,0.6,0.2,0.2,1.5,0.07
+Loudon,Cornus amomum ssp. obliqua,Knob styled dogwood,0.5,0.6,0.2,0.2,1.5,0.07
+Loudon,Cornus florida,Flowering dogwood,0.5,0.6,0.3,0.2,1.6,0.07
+Loudon,Ilex cookii,Te,1.5,0.6,0.3,0.3,1.6,0.08
+Loudon,Magnolia virginiana,Sweetbay,2.1,1.1,0.8,0.7,2.9,0.16
+Loudon,Cornus alternifolia,Alternateleaf dogwood,3,1.4,0.4,0.3,3.9,0.16
+Loudon,Cornus alternifolia,Alternateleaf dogwood,3,1.4,0.4,0.3,3.9,0.16
+Loudon,Amelanchier,Serviceberry,2.9,1.4,0.3,0.3,3.7,0.15
+Loudon,Chionanthus virginicus,Fringe tree,4.9,1.3,0.7,0.6,3.6,0.17
+Loudon,Chionanthus virginicus,Fringe tree,4.9,1.3,0.7,0.6,3.6,0.17
+Loudon,Frangula caroliniana,California buckthorn,2.9,1.2,0.4,0.4,3.3,0.14
+Loudon,Frangula caroliniana,California buckthorn,2.9,1.2,0.4,0.4,3.3,0.14
+Loudon,Frangula caroliniana,California buckthorn,2.9,1.2,0.4,0.4,3.3,0.14
+Loudon,Frangula caroliniana,California buckthorn,2.9,1.2,0.4,0.4,3.3,0.14
+Loudon,Quercus macrocarpa,Bur oak,1.9,0.6,0.7,0.6,1.7,0.11
+Loudon,Acer leucoderme,Chalk maple,4,1.1,0.4,0.4,3,0.13
+Loudon,Thuja plicata,Western red cedar,10.5,0.5,1.8,1.6,1.3,0.19
+Loudon,Thuja plicata,Western red cedar,10.5,0.5,1.8,1.6,1.3,0.19
+Loudon,Thuja plicata,Western red cedar,10.5,0.5,1.8,1.6,1.3,0.19
+Loudon,Thuja plicata,Western red cedar,10.5,0.5,1.8,1.6,1.3,0.19
+Loudon,Thuja plicata,Western red cedar,10.5,0.5,1.8,1.6,1.3,0.19
+Loudon,Acer,Maple,10.2,2.7,1.4,1.2,7.3,0.36
+Loudon,Quercus,Oak,25.8,4.8,1.2,1,12.9,0.51
+Loudon,Magnolia,Magnolia,7.4,2.4,1.3,1.1,6.3,0.31
+Madison,Sambucus canadensis,Common elderberry,0.5,0.3,4.7,0.2,0.9,0.09
+Madison,Sambucus canadensis,Common elderberry,0.5,0.3,4.7,0.2,0.9,0.09
+Madison,Sambucus canadensis,Common elderberry,0.5,0.3,4.7,0.2,0.9,0.09
+Madison,Amelanchier,Serviceberry,0.3,0.4,2.9,0.1,1.1,0.07
+Madison,Amelanchier,Serviceberry,0.3,0.4,2.9,0.1,1.1,0.07
+Madison,Ilex cookii,Te,1,0.5,4.5,0.2,1.3,0.1
+Madison,Cercis,Redbud,0.7,0.6,4.5,0.2,1.5,0.1
+Madison,Cercis,Redbud,0.7,0.6,4.5,0.2,1.5,0.1
+Madison,Cercis,Redbud,0.7,0.6,4.5,0.2,1.5,0.1
+Madison,Cercis,Redbud,0.7,0.6,4.5,0.2,1.5,0.1
+Madison,Cercis,Redbud,0.7,0.6,4.5,0.2,1.5,0.1
+Madison,Cornus,Dogwood,11.6,2.9,12.4,0.6,7.8,0.4
+Madison,Betula nigra,River birch,8.9,3.2,32,1.6,8.6,0.67
+Madison,Viburnum plicatum,Japanese snowball,17.2,2.7,14.8,0.7,7.1,0.41
+Madison,Acer,Maple,0.5,0.6,7.5,0.4,1.6,0.14
+Madison,Ginkgo,Ginkgo,0.1,0.1,4.8,0.2,0.3,0.07
+Maury,Sambucus canadensis,Common elderberry,5.2,1.1,6.4,0.6,3,0.22
+Maury,Sambucus canadensis,Common elderberry,5.2,1.1,6.4,0.6,3,0.22
+Maury,Sambucus canadensis,Common elderberry,5.2,1.1,6.4,0.6,3,0.22
+Maury,Sambucus canadensis,Common elderberry,5.2,1.1,6.4,0.6,3,0.22
+Maury,Prunus domestica,Common plum,6.1,2.3,6.6,0.7,6.1,0.32
+Maury,Prunus domestica,Common plum,6.1,2.3,6.6,0.7,6.1,0.32
+Maury,Prunus,Plum,6.1,2.3,7.8,0.8,6.1,0.34
+Maury,Prunus,Plum,6.1,2.3,7.8,0.8,6.1,0.34
+Maury,Prunus,Plum,6.1,2.3,7.8,0.8,6.1,0.34
+Maury,Prunus,Plum,6.1,2.3,7.8,0.8,6.1,0.34
+Maury,Carya illinoinensis,Pecan,4.5,1.2,9.1,0.9,3.3,0.27
+Maury,Carya illinoinensis,Pecan,4.5,1.2,9.1,0.9,3.3,0.27
+Maury,Cupressus,Cypress,21.4,3,9.8,1,8,0.44
+Maury,Morella,Bayberry,7.2,2.3,9.4,1,6,0.37
+McMinn,Halesia tetraptera,Mountain silverbell,0.8,0.4,9,0.3,1.1,0.14
+McMinn,Quercus phellos,Willow oak,2,1,13.3,0.4,2.7,0.25
+McMinn,Amelanchier,Serviceberry,2.9,1.4,8.5,0.3,3.7,0.22
+McMinn,Cercis canadensis,Eastern redbud,3.4,1.3,11.5,0.4,3.3,0.25
+McMinn,Cercis canadensis,Eastern redbud,3.4,1.3,11.5,0.4,3.3,0.25
+McMinn,Cercis canadensis,Eastern redbud,3.4,1.3,11.5,0.4,3.3,0.25
+Monroe,Taxodium,Bald Cypress,2.5,0.7,6.8,0.3,1.9,0.16
+Robertson,Pinus,Pine,0.7,0.3,0.4,0.3,0.7,0.04
+Robertson,Pinus,Pine,0.7,0.3,0.4,0.3,0.7,0.04
+Robertson,Quercus,Oak,8.2,1.8,0.7,0.6,4.8,0.19
+Robertson,Fraxinus,Ash,0.7,0.6,0.6,0.5,1.6,0.08
+Rutherford,Cercis,Redbud,7.8,2,0.7,0.9,5.3,0.21
+Rutherford,Cercis,Redbud,7.8,2,0.7,0.9,5.3,0.21
+Rutherford,Cercis,Redbud,7.8,2,0.7,0.9,5.3,0.21
+Rutherford,Cercis,Redbud,7.8,2,0.7,0.9,5.3,0.21
+Rutherford,Juniperus virginiana,Eastern red cedar,10.1,1.5,0.6,0.7,4,0.16
+Rutherford,Juniperus virginiana,Eastern red cedar,10.1,1.5,0.6,0.7,4,0.16
+Rutherford,Juniperus virginiana,Eastern red cedar,10.1,1.5,0.6,0.7,4,0.16
+Rutherford,Pinus strobus,Eastern white pine,3.5,1.2,0.5,0.6,3.3,0.13
+Rutherford,Acer rubrum,Red maple,7.5,3.2,0.6,0.8,8.4,0.31
+Shelby,Amelanchier,Serviceberry,42.7,6.3,27.8,2,16.8,1.08
+Shelby,Prunus,Plum,51.9,7.6,46.7,3.4,20.3,1.57
+Shelby,Magnolia grandiflora,Southern  magnolia,8,1.9,23,1.7,5,0.61
+Shelby,Sassafras,Sassafras,0.3,0.5,6.4,0.5,1.3,0.17
+Shelby,Liriodendron tulipifera,Tulip tree,0.2,0.3,6,0.4,0.8,0.14
+Shelby,Sambucus canadensis,Common elderberry,0.5,0.3,4.9,0.4,0.9,0.13
+Shelby,Acer negundo,Boxelder,0.4,0.6,7.5,0.6,1.7,0.2
+Shelby,Acer rubrum,Red maple,0.2,0.5,4,0.3,1.2,0.12
+Shelby,Acer saccharum,Sugar maple,0.3,0.2,3.1,0.2,0.6,0.08
+Shelby,Morus nigra,Black mulberry,0.3,0.6,4.4,0.3,1.7,0.14
+Shelby,Morus nigra,Black mulberry,0.3,0.6,4.4,0.3,1.7,0.14
+Shelby,Prunus,Plum,0.4,0.5,4.5,0.3,1.4,0.13
+Shelby,Prunus,Plum,0.4,0.5,4.5,0.3,1.4,0.13
+Shelby,Acer palmatum,Japanese maple,0.4,0.3,5.3,0.4,0.7,0.13
+Shelby,Acer palmatum,Japanese maple,0.4,0.3,5.3,0.4,0.7,0.13
+Shelby,Acer palmatum,Japanese maple,0.4,0.3,5.3,0.4,0.7,0.13
+Shelby,Acer palmatum,Japanese maple,0.4,0.3,5.3,0.4,0.7,0.13
+Shelby,Platanus,Sycamore,0.2,0.2,7.7,0.6,0.5,0.17
+Shelby,Taxodium,Bald Cypress,1.6,0.3,4.5,0.3,0.9,0.12
+Shelby,Magnolia,Magnolia,0.3,0.3,9,0.7,0.8,0.2
+Shelby,Magnolia,Magnolia,0.3,0.3,9,0.7,0.8,0.2
+Shelby,Nyssa sylvatica,Black tupelo,0.2,0.3,2.4,0.2,0.7,0.07
+Shelby,Cornus,Dogwood,0.3,0.4,3.2,0.2,1.1,0.1
+Shelby,Cornus,Dogwood,0.3,0.4,3.2,0.2,1.1,0.1
+Shelby,Cornus,Dogwood,0.3,0.4,3.2,0.2,1.1,0.1
+Shelby,Cornus,Dogwood,0.3,0.4,3.2,0.2,1.1,0.1
+Shelby,Cornus,Dogwood,0.3,0.4,3.2,0.2,1.1,0.1
+Shelby,Prunus domestica,Common plum,0.4,0.5,3.8,0.3,1.4,0.12
+Shelby,Magnolia,Magnolia,0.3,0.3,9,0.7,0.8,0.2
+Shelby,Amelanchier,Serviceberry,0.3,0.4,3,0.2,1.1,0.09
+Shelby,Morus,Mulberry,0.3,0.5,5.6,0.4,1.2,0.15
+Shelby,Morus,Mulberry,0.3,0.5,5.6,0.4,1.2,0.15
+Shelby,Cartrema americana,Devilwood,1.2,0.9,6.7,0.5,2.4,0.21
+Sumner,Chionanthus virginicus,Fringe tree,0.7,0.5,6.5,0.5,1.3,0.15
+Sumner,Amelanchier,Serviceberry,0.3,0.4,2.9,0.2,1.1,0.09
+Williamson,Quercus,Oak,7.4,1.5,10.2,0.6,3.9,0.26
+Williamson,Cephalanthus,Buttonbush,0.6,0.8,8.9,0.5,2.3,0.19
+Williamson,Cephalanthus,Buttonbush,0.6,0.8,8.9,0.5,2.3,0.19
+Williamson,Cephalanthus,Buttonbush,0.6,0.8,8.9,0.5,2.3,0.19
+Williamson,Cephalanthus,Buttonbush,0.6,0.8,8.9,0.5,2.3,0.19
+Williamson,Cephalanthus,Buttonbush,0.6,0.8,8.9,0.5,2.3,0.19
+Williamson,Cephalanthus,Buttonbush,0.6,0.8,8.9,0.5,2.3,0.19
+Williamson,Callicarpa,Beautyberry,0.5,0.6,4.3,0.2,1.6,0.11
+Williamson,Cercis,Redbud,0.7,0.6,6.6,0.4,1.5,0.14
+Williamson,Sambucus canadensis,Common elderberry,0.5,0.3,6.9,0.4,0.9,0.12
+Williamson,Ilex cookii,Te,1,0.5,6.5,0.4,1.3,0.13
+Williamson,Liriodendron tulipifera,Tulip tree,0.2,0.3,8.4,0.5,0.8,0.14
+Williamson,Liriodendron tulipifera,Tulip tree,0.2,0.3,8.4,0.5,0.8,0.14
+Williamson,Liriodendron tulipifera,Tulip tree,0.2,0.3,8.4,0.5,0.8,0.14
+Williamson,Liriodendron tulipifera,Tulip tree,0.2,0.3,8.4,0.5,0.8,0.14
+Williamson,Cornus,Dogwood,0.3,0.4,4.4,0.3,1.1,0.09
+Williamson,Cornus,Dogwood,0.3,0.4,4.4,0.3,1.1,0.09
+Williamson,Cornus,Dogwood,0.3,0.4,4.4,0.3,1.1,0.09
+Williamson,Pinus strobus,Eastern white pine,0.3,0.2,6.8,0.4,0.6,0.11
+Williamson,Pinus strobus,Eastern white pine,0.3,0.2,6.8,0.4,0.6,0.11
+Williamson,Ficus carica,Common fig,0.3,0.5,6.9,0.4,1.3,0.14
+Williamson,Betula nigra,River birch,0.2,0.4,14,0.8,1,0.22
+Williamson,Amelanchier,Serviceberry,1.5,1,6.4,0.4,2.6,0.17
+Williamson,Amelanchier,Serviceberry,1.5,1,6.4,0.4,2.6,0.17
+Williamson,Juniperus virginiana,Eastern red cedar,2.7,0.7,7.6,0.4,1.8,0.16
+Williamson,Juniperus virginiana,Eastern red cedar,2.7,0.7,7.6,0.4,1.8,0.16
+Williamson,Juniperus virginiana,Eastern red cedar,2.7,0.7,7.6,0.4,1.8,0.16
+Williamson,Ilex cookii,Te,3,0.9,8.6,0.5,2.4,0.19
+Williamson,Carya ovata,Shagbark hickory,1.2,0.6,8.3,0.5,1.7,0.16
+Williamson,Rhododendron,Rhododendron,1,0.4,10.1,0.6,1.1,0.17
+Williamson,Rhododendron,Rhododendron,1,0.4,10.1,0.6,1.1,0.17
+Williamson,Rhododendron,Rhododendron,1,0.4,10.1,0.6,1.1,0.17
+Williamson,Rhododendron,Rhododendron,1,0.4,10.1,0.6,1.1,0.17
+Williamson,Rhododendron,Rhododendron,1,0.4,10.1,0.6,1.1,0.17
+Williamson,Rhododendron,Rhododendron,1,0.4,10.1,0.6,1.1,0.17
+Williamson,Rhododendron,Rhododendron,1,0.4,10.1,0.6,1.1,0.17
+Williamson,Rhododendron,Rhododendron,1,0.4,10.1,0.6,1.1,0.17
+Williamson,Rhododendron,Rhododendron,1,0.4,10.1,0.6,1.1,0.17
+Williamson,Rhododendron,Rhododendron,1,0.4,10.1,0.6,1.1,0.17
+Williamson,Rhododendron,Rhododendron,1,0.4,10.1,0.6,1.1,0.17
+Williamson,Rhododendron,Rhododendron,1,0.4,10.1,0.6,1.1,0.17
+Williamson,Rhododendron,Rhododendron,1,0.4,10.1,0.6,1.1,0.17
+Williamson,Rhododendron,Rhododendron,1,0.4,10.1,0.6,1.1,0.17
+Williamson,Rhododendron,Rhododendron,1,0.4,10.1,0.6,1.1,0.17
+Williamson,Rhododendron,Rhododendron,1,0.4,10.1,0.6,1.1,0.17
+Williamson,Rhododendron,Rhododendron,1,0.4,10.1,0.6,1.1,0.17
+Williamson,Rhododendron,Rhododendron,1,0.4,10.1,0.6,1.1,0.17
+Williamson,Rhododendron,Rhododendron,1,0.4,10.1,0.6,1.1,0.17
+Williamson,Rhododendron,Rhododendron,1,0.4,10.1,0.6,1.1,0.17
+Williamson,Rhododendron,Rhododendron,1,0.4,10.1,0.6,1.1,0.17
+Williamson,Rhododendron,Rhododendron,1,0.4,10.1,0.6,1.1,0.17
+Williamson,Rhododendron,Rhododendron,1,0.4,10.1,0.6,1.1,0.17
+Williamson,Rhododendron,Rhododendron,1,0.4,10.1,0.6,1.1,0.17
+Williamson,Rhododendron,Rhododendron,1,0.4,10.1,0.6,1.1,0.17
+Williamson,Rhododendron,Rhododendron,1,0.4,10.1,0.6,1.1,0.17
+Williamson,Rhododendron,Rhododendron,1,0.4,10.1,0.6,1.1,0.17
+Williamson,Rhododendron,Rhododendron,1,0.4,10.1,0.6,1.1,0.17
+Williamson,Rhododendron,Rhododendron,1,0.4,10.1,0.6,1.1,0.17
+Williamson,Rhododendron,Rhododendron,1,0.4,10.1,0.6,1.1,0.17
+Williamson,Rhododendron,Rhododendron,1,0.4,10.1,0.6,1.1,0.17
+Williamson,Rhododendron,Rhododendron,1,0.4,10.1,0.6,1.1,0.17
+Williamson,Rhododendron,Rhododendron,1,0.4,10.1,0.6,1.1,0.17
+Williamson,Rhododendron,Rhododendron,1,0.4,10.1,0.6,1.1,0.17
+Williamson,Rhododendron,Rhododendron,1,0.4,10.1,0.6,1.1,0.17
+Williamson,Rhododendron,Rhododendron,1,0.4,10.1,0.6,1.1,0.17
+Williamson,Rhododendron,Rhododendron,1,0.4,10.1,0.6,1.1,0.17
+Williamson,Rhododendron,Rhododendron,1,0.4,10.1,0.6,1.1,0.17
+Williamson,Rhododendron,Rhododendron,1,0.4,10.1,0.6,1.1,0.17
+Williamson,Rhododendron,Rhododendron,1,0.4,10.1,0.6,1.1,0.17
+Williamson,Rhododendron,Rhododendron,1,0.4,10.1,0.6,1.1,0.17
+Williamson,Rhododendron,Rhododendron,1,0.4,10.1,0.6,1.1,0.17
+Williamson,Rhododendron,Rhododendron,1,0.4,10.1,0.6,1.1,0.17
+Williamson,Rhododendron,Rhododendron,1,0.4,10.1,0.6,1.1,0.17
+Williamson,Rhododendron,Rhododendron,1,0.4,10.1,0.6,1.1,0.17
+Williamson,Rhododendron,Rhododendron,1,0.4,10.1,0.6,1.1,0.17
+Williamson,Rhododendron,Rhododendron,1,0.4,10.1,0.6,1.1,0.17
+Williamson,Rhododendron,Rhododendron,1,0.4,10.1,0.6,1.1,0.17
+Williamson,Rhododendron,Rhododendron,1,0.4,10.1,0.6,1.1,0.17
+Williamson,Rhododendron,Rhododendron,1,0.4,10.1,0.6,1.1,0.17
+Williamson,Amelanchier,Serviceberry,0.3,0.4,4.1,0.2,1.1,0.09
+Williamson,Amelanchier,Serviceberry,0.3,0.4,4.1,0.2,1.1,0.09
+Williamson,Cladrastis sinensis,Chinese yellow wood,1.2,0.9,6,0.3,2.5,0.16
+Williamson,Acer,Maple,19.9,3.9,55.2,3.2,10.4,1.08
+Williamson,Thuja occidentalis,Northern white cedar,28.9,3.2,18.1,1,8.6,0.52
+Williamson,Thuja occidentalis,Northern white cedar,28.9,3.2,18.1,1,8.6,0.52
+Williamson,Thuja occidentalis,Northern white cedar,28.9,3.2,18.1,1,8.6,0.52
+Williamson,Thuja occidentalis,Northern white cedar,28.9,3.2,18.1,1,8.6,0.52
+Williamson,Thuja occidentalis,Northern white cedar,28.9,3.2,18.1,1,8.6,0.52
+Williamson,Thuja occidentalis,Northern white cedar,28.9,3.2,18.1,1,8.6,0.52
+Williamson,Juniperus chinensis,Chinese juniper,21.1,4.8,25.4,1.5,12.9,0.75
+Williamson,Juniperus chinensis,Chinese juniper,21.1,4.8,25.4,1.5,12.9,0.75
+Williamson,Juniperus chinensis,Chinese juniper,21.1,4.8,25.4,1.5,12.9,0.75
+Williamson,Juniperus chinensis,Chinese juniper,21.1,4.8,25.4,1.5,12.9,0.75
+Williamson,Juniperus chinensis,Chinese juniper,21.1,4.8,25.4,1.5,12.9,0.75
+Williamson,Juniperus chinensis,Chinese juniper,21.1,4.8,25.4,1.5,12.9,0.75
+Williamson,Acer palmatum,Japanese maple,14.6,2.1,26.1,1.5,5.5,0.53
+Williamson,Acer palmatum,Japanese maple,14.6,2.1,26.1,1.5,5.5,0.53
+Williamson,Quercus,Oak,7.4,1.5,10.2,0.6,3.9,0.26
+Williamson,Quercus,Oak,7.4,1.5,10.2,0.6,3.9,0.26
+Williamson,Fagus,Beech,0.3,0.5,11.5,0.7,1.2,0.19
+Williamson,Cornus,Dogwood,0.3,0.4,4.4,0.3,1.1,0.09
+Williamson,Magnolia virginiana,Sweetbay,0.2,0.2,10.8,0.6,0.6,0.17
+Williamson,Cornus,Dogwood,0.3,0.4,4.4,0.3,1.1,0.09
+Williamson,Cornus,Dogwood,0.3,0.4,4.4,0.3,1.1,0.09
+Williamson,Acer,Maple,0.5,0.6,10.8,0.6,1.6,0.2
+Wilson,Quercus,Oak,14.7,3.3,12.5,1,8.8,0.46
+Wilson,Carya illinoinensis,Pecan,2.4,0.9,11.1,0.9,2.4,0.24
+Wilson,Prunus domestica,Common plum,3.6,1.7,7.3,0.6,4.5,0.25
+Wilson,Diospyros virginiana,Common persimmon,1.2,0.4,6.7,0.6,1.1,0.13
+Wilson,Cornus florida,Flowering dogwood,0.3,0.4,4,0.3,1.1,0.09
+Wilson,Cornus florida,Flowering dogwood,0.3,0.4,4,0.3,1.1,0.09
+Wilson,Cornus florida,Flowering dogwood,0.3,0.4,4,0.3,1.1,0.09
+Wilson,Cornus florida,Flowering dogwood,0.3,0.4,4,0.3,1.1,0.09
+Wilson,Cornus florida,Flowering dogwood,0.3,0.4,4,0.3,1.1,0.09
+Wilson,Cornus florida,Flowering dogwood,0.3,0.4,4,0.3,1.1,0.09
+Wilson,Cornus florida,Flowering dogwood,0.3,0.4,4,0.3,1.1,0.09
+Wilson,Cornus florida,Flowering dogwood,0.3,0.4,4,0.3,1.1,0.09
+Wilson,Cornus florida,Flowering dogwood,0.3,0.4,4,0.3,1.1,0.09
+Wilson,Cornus florida,Flowering dogwood,0.3,0.4,4,0.3,1.1,0.09
+Wilson,Diospyros virginiana,Common persimmon,0.1,0.1,3.5,0.3,0.3,0.06
+Wilson,Diospyros virginiana,Common persimmon,0.1,0.1,3.5,0.3,0.3,0.06
+Wilson,Diospyros virginiana,Common persimmon,0.1,0.1,3.5,0.3,0.3,0.06
+Wilson,Diospyros virginiana,Common persimmon,0.1,0.1,3.5,0.3,0.3,0.06
+Wilson,Diospyros virginiana,Common persimmon,0.1,0.1,3.5,0.3,0.3,0.06
+Wilson,Morus,Mulberry,0.3,0.5,5.2,0.4,1.2,0.12
+Wilson,Morus,Mulberry,0.3,0.5,5.2,0.4,1.2,0.12
+Wilson,Morus,Mulberry,0.3,0.5,5.2,0.4,1.2,0.12
+Wilson,Morus,Mulberry,0.3,0.5,5.2,0.4,1.2,0.12
+Wilson,Morus,Mulberry,0.3,0.5,5.2,0.4,1.2,0.12
+Wilson,Amelanchier,Serviceberry,0.3,0.4,2.8,0.2,1.1,0.08
+Wilson,Amelanchier,Serviceberry,0.3,0.4,2.8,0.2,1.1,0.08
+Wilson,Amelanchier,Serviceberry,0.3,0.4,2.8,0.2,1.1,0.08
+Wilson,Liquidambar styraciflua,Sweetgum,0.2,0.3,5,0.4,0.7,0.09
+Wilson,Liquidambar styraciflua,Sweetgum,0.2,0.3,5,0.4,0.7,0.09
+Wilson,Liquidambar styraciflua,Sweetgum,0.2,0.3,5,0.4,0.7,0.09
+Wilson,Asimina triloba,Pawpaw,0.6,0.3,5.9,0.5,0.9,0.11
