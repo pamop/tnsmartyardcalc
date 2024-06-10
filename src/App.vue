@@ -240,7 +240,7 @@ export default {
       this.pyodide.globals.set('area', parseFloat(this.forminfo.area));
       this.pyodide.globals.set('slope_percentage', parseFloat(this.forminfo.slope_percentage));
       this.pyodide.globals.set('slope_length', parseFloat(this.forminfo.slope_length));
-      this.pyodide.globals.set('percentNative', parseFloat(this.forminfo.nativeplants));
+      this.pyodide.globals.set('percentNative', parseFloat(this.forminfo.nativeplants)/100);
 
       // this.pyodide.globals.set('erosion_response', this.erosion_response.value);
 
