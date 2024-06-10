@@ -7,21 +7,19 @@ import os
 
 # for debugging
 # print(os.listdir('/home/pyodide/calculator_utils'))
-# js_var = js.js_var # Actually didn't need to do this explicitly
-print(js_var) # if js_var is set to pyodide in App.vue it will be here!
+# print(js_var) # if js_var is set to pyodide in App.vue it will be here!
 
-# TODO
 # Get user inputs from pyodide in App.vue
-# Zipcode # MAKE SURE TENNESSEE ONLY  TODO
-zipcode = 37212
-# area = float(input("Enter the area of the land in square feet: ")
-area = 400
-#slope_percentage = float(input('what is your slope percentage in a number (ie: 40% = 40):'))
-slope_percentage = 40 / 100
-#slope_length = float(input('whats your slope length in feet:'))
-slope_length = 30
-# percentNative = (float(input('Enter your percent of your yard that is native plants as a number (ie: 40% = 40): '))) / 100
-percentNative = 20 / 100
+# # Zipcode # MAKE SURE TENNESSEE ONLY TODO
+# zipcode = 37212
+# # area = float(input("Enter the area of the land in square feet: ")
+# area = 400
+# #slope_percentage = float(input('what is your slope percentage in a number (ie: 40% = 40):'))
+# slope_percentage = 40 / 100
+# #slope_length = float(input('whats your slope length in feet:'))
+# slope_length = 30
+# # percentNative = (float(input('Enter your percent of your yard that is native plants as a number (ie: 40% = 40): '))) / 100
+# percentNative = 20 / 100
 
 # Import csvs to dataframes using pandas
 dir_path = '/home/pyodide/calculator_utils' # calculator_utils is a zip unpacked by pyodide into its file system
@@ -70,6 +68,7 @@ beforeVol = (erosion(False)*2204)/90
 afterLB = erosion(True)*2204
 beforeLB = erosion(False)*2204
 
-
-print(f'Your erosion is {afterLB} pounds per year or {afterVol} cubic feet per year but if you did not have native plants,\
-your erosion would be {beforeLB} pounds per year or {beforeVol} cubic feet per year')
+erosion_response = f'Your erosion is {afterLB:.2f} pounds per year or {afterVol:.2f} cubic feet per year, but if you did not have native plants, ' + \
+      f'your erosion would be {beforeLB:.2f} pounds per year or {beforeVol:.2f} cubic feet per year.'
+print(f'Your erosion is {afterLB:.2f} pounds per year or {afterVol:.2f} cubic feet per year, but if you did not have native plants, '\
+      f'your erosion would be {beforeLB:.2f} pounds per year or {beforeVol:.2f} cubic feet per year.')

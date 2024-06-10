@@ -1,137 +1,140 @@
 <script setup>
+// import CalculatorForm from './components/CalculatorForm.vue'
 import { get, set } from "https://unpkg.com/idb-keyval@5.0.2/dist/esm/index.js";
-import { ref, reactive } from 'vue';
+import { ref, reactive, computed, onMounted, watch } from 'vue'
+
 </script>
 
 <template>
   <div class="font-sans container mx-auto py-4">
-    <h1 class="text-3xl container">
-      Tennessee Smart Yards Calculator
-    </h1>
-    <h1 class="text-2xl container">
-      NOTE: Under construction!
-    </h1>
-    <br>
-    <div container mx-auto px-4>
-      <h2 class="text-2xl">
-        Erosion calculator
-      </h2>
-      <!-- <div>
-        <button @click="runPythonCode">Run Python Code</button>
-      </div> -->
-      <FormKit 
-        type="form"
-        submit-label="Calculate"
-        @submit="runPythonCode"
-        :submit-attrs="{
-          inputClass: 'my-input-class',
-          wrapperClass: 'my-wrapper-class',
-          'data-theme': `dark`,
-          ignore: false
-        }"
-      >
-        <FormKit
-          type="text"
-          name="zipcode"
-          id="zipcode"
-          validation="required|not:Admin"
-          label="Zipcode"
-          v-model="forminfo.zipcode"
-          help="Enter your Tennessee zipcode."
-          placeholder="default_zip"
-        />
-        <FormKit
-          type="number"
-          name="area"
-          id="area"
-          validation="required|not:Admin"
-          label="Area (sq ft)"
-          v-model="forminfo.area"
-          help="Enter the area of your land in square feet."
-          placeholder="default_area"
-        />
-        <FormKit
-          type="number"
-          name="slopepercent"
-          id="slopepercent"
-          step="1"
-          validation="required|not:Admin"
-          label="Slope percentage"
-          v-model="forminfo.slope_percentage"
-          help="Enter your slope percentage in a number (e.g., 40% = 40)."
-          placeholder="default_slope_percentage"
-        />
-        <FormKit
-          type="number"
-          name="slopelength"
-          id="slopelength"
-          step="1"
-          validation="required|not:Admin"
-          label="Slope length (ft)"
-          v-model="forminfo.slope_length"
-          help="Enter the length of your slope in feet."
-          placeholder="default_slope_length"
-        />
-        <FormKit
-          type="number"
-          name="nativeplants"
-          id="nativeplants"
-          step="1"
-          validation="required|not:Admin"
-          label="Percentage of land covered in native plants"
-          v-model="forminfo.nativeplants"
-          help="Enter the percentage of your land that has native plants growing on it."
-          placeholder="default_nativeplants"
-        />
-        <!-- <FormKit
-          type="select"
-          label="Class"
-          name="class"
-          id="class"
-          placeholder="Select a class"
-          :options="['Warrior', 'Mage', 'Assassin']"
-        /> -->
-      </FormKit>
-      <div>
-        {{ erosion_response }}
-      </div>
-    </div>
-    <br>
-    <hr>
-    <br>
-    <div container mx-auto px-4 py-4>
-      <h2 class="text-2xl">
-        Tree information calculator
-      </h2>
-      <!-- <div>
-        <button @click="runPythonCode">Run Python Code</button>
-      </div> -->
-      <FormKit 
-        type="form"
-        submit-label="Submit"
-        @submit="runPythonCode"
-        :submit-attrs="{
-          inputClass: 'my-input-class',
-          wrapperClass: 'my-wrapper-class',
-          'data-theme': `dark`,
-          ignore: false
-        }"
-      >
-        <FormKit
-          type="text"
-          name="zipcode"
-          id="zipcode"
-          validation="required|not:Admin"
-          label="Zipcode"
-          help="Enter your Tennessee zipcode"
-          placeholder="37235"
-        />
-      </FormKit>
-      <div>
-        Result from calculation:
-      </div>
+  <h1 class="text-3xl container">
+    Tennessee Smart Yards Calculator
+  </h1>
+  <h1 class="text-2xl container">
+    NOTE: Under construction!
+  </h1>
+  <br>
+  <div container mx-auto px-4>
+    <h2 class="text-2xl">
+      Erosion calculator
+    </h2>
+  <!-- <div>
+    <button @click="runPythonCode">Run Python Code</button>
+  </div> -->
+  <FormKit 
+    type="form"
+    submit-label="Calculate"
+    @submit = "runPythonCode"
+    :submit-attrs="{
+      inputClass: 'my-input-class',
+      wrapperClass: 'my-wrapper-class',
+      'data-theme': `dark`,
+      ignore: false
+    }"
+  >
+    <FormKit
+      type="text"
+      name="zipcode"
+      id="zipcode"
+      validation="required|not:Admin"
+      label="Zipcode"
+      v-model="forminfo.zipcode"
+      help="Enter your Tennessee zipcode."
+      placeholder="default_zip"
+    />
+    <FormKit
+      type="number"
+      name="area"
+      id="area"
+      validation="required|not:Admin"
+      label="Area (sq ft)"
+      v-model="forminfo.area"
+      help="Enter the area of your land in square feet."
+      placeholder="default_area"
+    />
+    <FormKit
+      type="number"
+      name="slopepercent"
+      id="slopepercent"
+      step="1"
+      validation="required|not:Admin"
+      label="Slope percentage"
+      v-model="forminfo.slope_percentage"
+      help="Enter your slope percentage in a number (e.g., 40% = 40)."
+      placeholder="default_slope_percentage"
+    />
+    <FormKit
+      type="number"
+      name="slopelength"
+      id="slopelength"
+      step="1"
+      validation="required|not:Admin"
+      label="Slope length (ft)"
+      v-model="forminfo.slope_length"
+      help="Enter the length of your slope in feet."
+      placeholder="default_slope_length"
+    />
+    <FormKit
+      type="number"
+      name="nativeplants"
+      id="nativeplants"
+      step="1"
+      validation="required|not:Admin"
+      label="Percentage of land covered in native plants"
+      v-model="forminfo.nativeplants"
+      help="Enter the percentage of your land that has native plants growing on it."
+      placeholder="default_nativeplants"
+    />
+    <!-- <FormKit
+      type="select"
+      label="Class"
+      name="class"
+      id="class"
+      placeholder="Select a class"
+      :options="['Warrior', 'Mage', 'Assassin']"
+    /> -->
+    </FormKit>
+    <div>
+      Result from calculation: {{this.erosion_response}}
     </div>
   </div>
+  <br>
+  <hr>
+  <br>
+  <div container mx-auto px-4 py-4>
+    <h2 class="text-2xl">
+      Tree information calculator
+    </h2>
+  <!-- <div>
+    <button @click="runPythonCode">Run Python Code</button>
+  </div> -->
+  <FormKit 
+    type="form"
+    submit-label="Submit"
+    @submit = "runPythonCode"
+    :submit-attrs="{
+      inputClass: 'my-input-class',
+      wrapperClass: 'my-wrapper-class',
+      'data-theme': `dark`,
+      ignore: false
+    }"
+    >
+    <FormKit
+      type="text"
+      name="zipcode"
+      id="zipcode"
+      validation="required|not:Admin"
+      label="Zipcode"
+      help="Enter your Tennessee zipcode"
+      placeholder="37235"
+    />
+    </FormKit>
+    <div>
+      Result from calculation:
+    </div>
+  </div>
+  </div>
+
 </template>
 
 <script>
@@ -142,20 +145,20 @@ export default {
       pyodide: null,
       jsVariable: 'Hello from JavaScript!',
 
-      erosion_response: ref(""),
+      erosion_response = ref(""),
 
-      default_zip: 37235,
-      default_area: 2500,
-      default_slope_percentage: 40,
-      default_slope_length: 300,
-      default_nativeplants: 20,
+      default_zip = 37235,
+      default_area = 2500,
+      default_slope_percentage = 40,
+      default_slope_length = 300,
+      default_nativeplants = 20,
 
-      forminfo: reactive({
-        zipcode: 37235,
-        area: 2500,
-        slope_percentage: 40,
-        slope_length: 300,
-        nativeplants: 20
+      forminfo = reactive({
+        zipcode: default_zip,
+        area: default_area,
+        slope_percentage: default_slope_percentage,
+        slope_length: default_slope_length,
+        nativeplants: default_nativeplants
       })
     };
   },
@@ -242,17 +245,12 @@ export default {
       this.pyodide.globals.set('slope_length', this.forminfo.slope_length);
       this.pyodide.globals.set('percentNative', this.forminfo.nativeplants);
 
-      // this.pyodide.globals.set('erosion_response', this.erosion_response.value);
-
-
       // Run the Python code
       try {
         // await this.pyodide.runPythonAsync(pythonCode);
         // await this.pyodide.runPythonAsync(pythonCode);
         await this.pyodide.runPythonAsync(this.pyscript);
-        // console.log(this.pyodide.globals.get('erosion_response').toJs());
-        this.erosion_response = this.pyodide.globals.get('erosion_response');
-
+        // console.log(this.pyodide.globals.get('result').toJs());
       } catch (error) {
         console.error('Error running Python code:', error);
       }
@@ -261,7 +259,6 @@ export default {
 };
 
 </script>
-
 
 <style scoped>
 header {
