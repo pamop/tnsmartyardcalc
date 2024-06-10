@@ -1,0 +1,797 @@
+"zip","type","decommissioned","primary_city","acceptable_cities","unacceptable_cities","state","county","timezone","area_codes","world_region","country","latitude","longitude","irs_estimated_population"
+37010,"STANDARD",0,"Adams","","","TN","Montgomery County","America/Chicago","270, 364, 615, 629, 931",NA,"US",36.58,-87.06,5680
+37011,"PO BOX",0,"Antioch","","","TN","Davidson County","America/Chicago","615",NA,"US",36.04,-86.64,1107
+37012,"STANDARD",0,"Alexandria","","","TN","DeKalb County","America/Chicago","615, 629",NA,"US",36.07,-86.03,2110
+37013,"STANDARD",0,"Antioch","Cane Ridge","","TN","Davidson County","America/Chicago","615, 629",NA,"US",36.04,-86.64,85580
+37014,"STANDARD",0,"Arrington","","Triune","TN","Williamson County","America/Chicago","615, 629",NA,"US",35.87,-86.63,2800
+37015,"STANDARD",0,"Ashland City","","","TN","Cheatham County","America/Chicago","615, 629, 931",NA,"US",36.27,-87.05,16950
+37016,"STANDARD",0,"Auburntown","","","TN","Cannon County","America/Chicago","615, 629",NA,"US",35.94,-86.09,830
+37018,"STANDARD",0,"Beechgrove","","","TN","Coffee County","America/Chicago","615, 629, 931",NA,"US",35.64,-86.2,1970
+37019,"STANDARD",0,"Belfast","","","TN","Marshall County","America/Chicago","931",NA,"US",35.4,-86.71,850
+37020,"STANDARD",0,"Bell Buckle","","","TN","Bedford County","America/Chicago","615, 629, 931",NA,"US",35.59,-86.35,5100
+37022,"STANDARD",0,"Bethpage","Rock Bridge","","TN","Sumner County","America/Chicago","615, 629",NA,"US",36.5,-86.3,5750
+37023,"STANDARD",0,"Big Rock","","","TN","Stewart County","America/Chicago","931",NA,"US",36.59,-87.78,1550
+37024,"PO BOX",0,"Brentwood","","","TN","Williamson County","America/Chicago","615",NA,"US",35.99,-86.78,888
+37025,"STANDARD",0,"Bon Aqua","","","TN","Hickman County","America/Chicago","615, 629, 931",NA,"US",35.94,-87.34,5980
+37026,"STANDARD",0,"Bradyville","","","TN","Cannon County","America/Chicago","615, 629, 931",NA,"US",35.69,-86.1,2130
+37027,"STANDARD",0,"Brentwood","","Forest Hills","TN","Williamson County","America/Chicago","615, 629",NA,"US",35.99,-86.78,60810
+37028,"STANDARD",0,"Bumpus Mills","","","TN","Stewart County","America/Chicago","270, 364, 931",NA,"US",36.62,-87.85,580
+37029,"STANDARD",0,"Burns","","","TN","Dickson County","America/Chicago","615, 629",NA,"US",36.05,-87.31,6340
+37030,"STANDARD",0,"Carthage","Defeated, S Carthage, So Carthage, South Carthage","Mc Clures Bend","TN","Smith County","America/Chicago","615, 629, 931",NA,"US",36.25,-85.94,6310
+37031,"STANDARD",0,"Castalian Springs","Castalin Spgs","Castalian Spg","TN","Sumner County","America/Chicago","615, 629",NA,"US",36.38,-86.31,4160
+37032,"STANDARD",0,"Cedar Hill","","","TN","Robertson County","America/Chicago","615, 629, 931",NA,"US",36.55,-87,4540
+37033,"STANDARD",0,"Centerville","Pleasantville","Aetna, Coble, Fairfield, Grinders, Shipps Bend","TN","Hickman County","America/Chicago","931",NA,"US",35.79,-87.44,6410
+37034,"STANDARD",0,"Chapel Hill","","","TN","Marshall County","America/Chicago","615, 629, 931",NA,"US",35.62,-86.69,8150
+37035,"STANDARD",0,"Chapmansboro","","","TN","Cheatham County","America/Chicago","615, 629, 931",NA,"US",36.37,-87.11,3510
+37036,"STANDARD",0,"Charlotte","","","TN","Dickson County","America/Chicago","615, 629, 931",NA,"US",36.18,-87.34,5740
+37037,"STANDARD",0,"Christiana","","","TN","Rutherford County","America/Chicago","615, 629, 931",NA,"US",35.7,-86.34,9250
+37040,"STANDARD",0,"Clarksville","","","TN","Montgomery County","America/Chicago","270, 364, 931",NA,"US",36.56,-87.34,52100
+37041,"PO BOX",0,"Clarksville","","","TN","Montgomery County","America/Chicago","931",NA,"US",36.56,-87.34,439
+37042,"STANDARD",0,"Clarksville","","Sango","TN","Montgomery County","America/Chicago","270, 364, 931",NA,"US",36.57,-87.42,78080
+37043,"STANDARD",0,"Clarksville","","Fredonia, Hickory Point, Hilldale","TN","Montgomery County","America/Chicago","270, 364, 615, 629, 931",NA,"US",36.49,-87.24,51970
+37044,"UNIQUE",0,"Clarksville","","Austin Peay St Univ","TN","Montgomery County","America/Chicago","931, 615",NA,"US",36.56,-87.34,45
+37046,"STANDARD",0,"College Grove","","Allisona, Bethesda","TN","Williamson County","America/Chicago","615, 629, 931",NA,"US",35.77,-86.74,6690
+37047,"STANDARD",0,"Cornersville","","","TN","Marshall County","America/Chicago","931",NA,"US",35.35,-86.84,2290
+37048,"STANDARD",0,"Cottontown","Walnut Grove","","TN","Sumner County","America/Chicago","615, 629",NA,"US",36.48,-86.59,6260
+37049,"STANDARD",0,"Cross Plains","","","TN","Robertson County","America/Chicago","615, 629",NA,"US",36.54,-86.68,3610
+37050,"STANDARD",0,"Cumberland City","Cumberlnd Cty","","TN","Stewart County","America/Chicago","931",NA,"US",36.38,-87.64,1510
+37051,"STANDARD",0,"Cumberland Furnace","Cmbrlnd Frnce, Slayden","","TN","Dickson County","America/Chicago","615, 629, 931",NA,"US",36.3,-87.4,3510
+37052,"STANDARD",0,"Cunningham","","","TN","Montgomery County","America/Chicago","615, 629, 931",NA,"US",36.37,-87.43,2620
+37055,"STANDARD",0,"Dickson","","","TN","Dickson County","America/Chicago","615, 629, 931",NA,"US",36.07,-87.37,25330
+37056,"PO BOX",0,"Dickson","","","TN","Dickson County","America/Chicago","615",NA,"US",36.07,-87.37,898
+37057,"STANDARD",0,"Dixon Springs","","","TN","Macon County","America/Chicago","615, 629",NA,"US",36.42,-86.03,870
+37058,"STANDARD",0,"Dover","","Fort Donelson National Milit","TN","Stewart County","America/Chicago","731, 931",NA,"US",36.48,-87.84,6230
+37059,"STANDARD",0,"Dowelltown","","","TN","DeKalb County","America/Chicago","615, 629",NA,"US",36.01,-85.94,1400
+37060,"STANDARD",0,"Eagleville","","","TN","Rutherford County","America/Chicago","615, 629, 931",NA,"US",35.74,-86.65,2950
+37061,"STANDARD",0,"Erin","","","TN","Houston County","America/Chicago","931",NA,"US",36.31,-87.7,4230
+37062,"STANDARD",0,"Fairview","","","TN","Williamson County","America/Chicago","615, 629, 931",NA,"US",35.97,-87.12,12090
+37063,"PO BOX",0,"Fosterville","","","TN","Rutherford County","America/Chicago","615",NA,"US",35.65,-86.4,0
+37064,"STANDARD",0,"Franklin","","Kingfield, Peytonsville, Rudderville","TN","Williamson County","America/Chicago","615, 629, 931",NA,"US",35.88,-86.95,60020
+37065,"PO BOX",0,"Franklin","","","TN","Williamson County","America/Chicago","615",NA,"US",35.92,-86.84,625
+37066,"STANDARD",0,"Gallatin","","","TN","Sumner County","America/Chicago","615, 629",NA,"US",36.37,-86.45,55600
+37067,"STANDARD",0,"Franklin","","","TN","Williamson County","America/Chicago","615, 629",NA,"US",35.92,-86.84,29830
+37068,"PO BOX",0,"Franklin","","","TN","Williamson County","America/Chicago","615",NA,"US",35.92,-86.84,922
+37069,"STANDARD",0,"Franklin","","","TN","Williamson County","America/Chicago","615, 629",NA,"US",35.99,-86.9,20240
+37070,"PO BOX",0,"Goodlettsville","Goodlettsvlle","Goodlettsvl, Goodlettsvle","TN","Davidson County","America/Chicago","615",NA,"US",36.33,-86.7,794
+37071,"PO BOX",0,"Gladeville","","","TN","Wilson County","America/Chicago","615",NA,"US",36.08,-86.4,113
+37072,"STANDARD",0,"Goodlettsville","Goodlettsvlle","Millersville","TN","Davidson County","America/Chicago","615, 629",NA,"US",36.33,-86.7,28970
+37073,"STANDARD",0,"Greenbrier","","","TN","Robertson County","America/Chicago","615, 629",NA,"US",36.42,-86.8,13930
+37074,"STANDARD",0,"Hartsville","","","TN","Trousdale County","America/Chicago","615, 629",NA,"US",36.39,-86.15,7390
+37075,"STANDARD",0,"Hendersonville","Hendersonvlle","","TN","Sumner County","America/Chicago","615, 629",NA,"US",36.29,-86.6,66440
+37076,"STANDARD",0,"Hermitage","","","TN","Davidson County","America/Chicago","615, 629",NA,"US",36.13,-86.58,34530
+37077,"PO BOX",0,"Hendersonville","Hendersonvlle","","TN","Sumner County","America/Chicago","615",NA,"US",36.29,-86.6,875
+37078,"STANDARD",0,"Hurricane Mills","Hurricne Mlls","","TN","Humphreys County","America/Chicago","931",NA,"US",35.94,-87.76,550
+37079,"STANDARD",0,"Indian Mound","","","TN","Stewart County","America/Chicago","931",NA,"US",36.47,-87.66,2450
+37080,"STANDARD",0,"Joelton","","","TN","Davidson County","America/Chicago","615, 629",NA,"US",36.33,-86.91,6700
+37082,"STANDARD",0,"Kingston Springs","Kingston Spgs","","TN","Cheatham County","America/Chicago","615, 629",NA,"US",36.09,-87.1,5760
+37083,"STANDARD",0,"Lafayette","","La Fayette","TN","Macon County","America/Chicago","270, 364, 615, 629",NA,"US",36.52,-86.03,13580
+37085,"STANDARD",0,"Lascassas","","","TN","Rutherford County","America/Chicago","615, 629",NA,"US",35.94,-86.29,5270
+37086,"STANDARD",0,"La Vergne","","","TN","Rutherford County","America/Chicago","615, 629",NA,"US",35.99,-86.57,34950
+37087,"STANDARD",0,"Lebanon","","","TN","Wilson County","America/Chicago","615, 629",NA,"US",36.2,-86.32,47980
+37088,"PO BOX",0,"Lebanon","","","TN","Wilson County","America/Chicago","615",NA,"US",36.2,-86.32,1385
+37089,"UNIQUE",0,"La Vergne","","Ingram Entertainment Group","TN","Rutherford County","America/Chicago","615",NA,"US",35.99,-86.57,0
+37090,"STANDARD",0,"Lebanon","","","TN","Wilson County","America/Chicago","615, 629",NA,"US",36.11,-86.3,18490
+37091,"STANDARD",0,"Lewisburg","","","TN","Marshall County","America/Chicago","931",NA,"US",35.44,-86.78,19900
+37095,"STANDARD",0,"Liberty","Gassaway","","TN","DeKalb County","America/Chicago","615, 629, 931",NA,"US",36,-85.98,1650
+37096,"STANDARD",0,"Linden","Flatwoods","","TN","Perry County","America/Chicago","731, 931",NA,"US",35.61,-87.84,4790
+37097,"STANDARD",0,"Lobelville","","","TN","Perry County","America/Chicago","731, 931",NA,"US",35.75,-87.79,1750
+37098,"STANDARD",0,"Lyles","Wrigley","","TN","Hickman County","America/Chicago","931",NA,"US",35.87,-87.32,4730
+37101,"STANDARD",0,"Mc Ewen","","Mcewen","TN","Humphreys County","America/Chicago","615, 629, 931",NA,"US",36.1,-87.63,5880
+37110,"STANDARD",0,"Mcminnville","Centertown, Mc Minnville","","TN","Warren County","America/Chicago","423, 615, 629, 931",NA,"US",35.68,-85.77,27580
+37111,"PO BOX",0,"Mcminnville","Mc Minnville","Mc Minnvl, Mc Minnvle","TN","Warren County","America/Chicago","931",NA,"US",35.68,-85.77,995
+37115,"STANDARD",0,"Madison","","","TN","Davidson County","America/Chicago","615, 629",NA,"US",36.25,-86.69,31160
+37116,"PO BOX",0,"Madison","","","TN","Davidson County","America/Chicago","615",NA,"US",36.25,-86.69,785
+37118,"STANDARD",0,"Milton","","","TN","Rutherford County","America/Chicago","615, 629",NA,"US",35.92,-86.17,1390
+37119,"PO BOX",0,"Mitchellville","","","TN","Sumner County","America/Chicago","615",NA,"US",36.63,-86.53,25
+37121,"PO BOX",0,"Mount Juliet","","Mt Juliet","TN","Wilson County","America/Chicago","615",NA,"US",36.2,-86.52,652
+37122,"STANDARD",0,"Mount Juliet","Mt Juliet","","TN","Wilson County","America/Chicago","615, 629",NA,"US",36.2,-86.52,63390
+37127,"STANDARD",0,"Murfreesboro","","Mboro, Murfreesbr","TN","Rutherford County","America/Chicago","615, 629",NA,"US",35.78,-86.33,18520
+37128,"STANDARD",0,"Murfreesboro","","Mboro, Murfreesbr","TN","Rutherford County","America/Chicago","615, 629",NA,"US",35.78,-86.49,67950
+37129,"STANDARD",0,"Murfreesboro","","Mboro, Murfreesbr","TN","Rutherford County","America/Chicago","615, 629",NA,"US",35.93,-86.44,57520
+37130,"STANDARD",0,"Murfreesboro","","Mboro, Murfreesbr","TN","Rutherford County","America/Chicago","615, 629",NA,"US",35.85,-86.39,47230
+37131,"UNIQUE",0,"Murfreesboro","","Mboro, Murfreesbr, State Farm Ins Co","TN","Rutherford County","America/Chicago","615",NA,"US",35.85,-86.39,0
+37132,"UNIQUE",0,"Murfreesboro","","Mboro, Middle Tenn State Univ, Murfreesbr","TN","Rutherford County","America/Chicago","615, 629",NA,"US",35.85,-86.36,195
+37133,"PO BOX",0,"Murfreesboro","","Mboro, Murfreesbr","TN","Rutherford County","America/Chicago","615",NA,"US",35.85,-86.39,1223
+37134,"STANDARD",0,"New Johnsonville","Denver, New Johsonvle","","TN","Humphreys County","America/Chicago","731, 931",NA,"US",36.01,-87.95,2840
+37135,"STANDARD",0,"Nolensville","","","TN","Williamson County","America/Chicago","615, 629",NA,"US",35.94,-86.64,22490
+37136,"PO BOX",0,"Norene","","","TN","Wilson County","America/Chicago","615",NA,"US",36.11,-86.29,0
+37137,"STANDARD",0,"Nunnelly","","","TN","Hickman County","America/Chicago","931",NA,"US",35.89,-87.52,2480
+37138,"STANDARD",0,"Old Hickory","Lakewood","","TN","Davidson County","America/Chicago","615, 629",NA,"US",36.22,-86.61,21300
+37140,"STANDARD",0,"Only","","","TN","Hickman County","America/Chicago","931",NA,"US",35.87,-87.65,390
+37141,"STANDARD",0,"Orlinda","","","TN","Robertson County","America/Chicago","270, 364, 615, 629",NA,"US",36.6,-86.67,1200
+37142,"STANDARD",0,"Palmyra","","","TN","Montgomery County","America/Chicago","931",NA,"US",36.41,-87.5,1850
+37143,"STANDARD",0,"Pegram","","","TN","Cheatham County","America/Chicago","615, 629",NA,"US",36.1,-87.05,3710
+37144,"STANDARD",0,"Petersburg","","","TN","Lincoln County","America/Chicago","931",NA,"US",35.31,-86.63,2870
+37145,"STANDARD",0,"Pleasant Shade","Pleasant Shde","","TN","Smith County","America/Chicago","615, 629, 931",NA,"US",36.38,-85.91,2210
+37146,"STANDARD",0,"Pleasant View","","","TN","Cheatham County","America/Chicago","615, 629",NA,"US",36.37,-87.04,7730
+37148,"STANDARD",0,"Portland","","","TN","Sumner County","America/Chicago","270, 364, 615, 629",NA,"US",36.58,-86.51,23140
+37149,"STANDARD",0,"Readyville","","","TN","Rutherford County","America/Chicago","615, 629",NA,"US",35.8,-86.19,2380
+37150,"STANDARD",0,"Red Boiling Springs","Red Blng Spgs","","TN","Macon County","America/Chicago","270, 364, 615, 629, 931",NA,"US",36.53,-85.85,3910
+37151,"STANDARD",0,"Riddleton","","","TN","Smith County","America/Chicago","615, 629",NA,"US",36.34,-86.03,490
+37152,"PO BOX",0,"Ridgetop","","","TN","Robertson County","America/Chicago","615",NA,"US",36.39,-86.77,433
+37153,"STANDARD",0,"Rockvale","","","TN","Rutherford County","America/Chicago","615, 629, 931",NA,"US",35.75,-86.55,5570
+37160,"STANDARD",0,"Shelbyville","Royal","","TN","Bedford County","America/Chicago","615, 629, 931",NA,"US",35.49,-86.44,31260
+37161,"UNIQUE",0,"Shelbyville","","National Pen Company","TN","Bedford County","America/Chicago","931",NA,"US",35.49,-86.44,0
+37162,"PO BOX",0,"Shelbyville","","","TN","Bedford County","America/Chicago","931",NA,"US",35.49,-86.44,895
+37165,"PO BOX",0,"Slayden","","","TN","Dickson County","America/Chicago","615, 629",NA,"US",36.29,-87.48,131
+37166,"STANDARD",0,"Smithville","","","TN","DeKalb County","America/Chicago","615, 629, 931",NA,"US",35.95,-85.82,12720
+37167,"STANDARD",0,"Smyrna","","","TN","Rutherford County","America/Chicago","615, 629",NA,"US",35.98,-86.51,59050
+37171,"STANDARD",0,"Southside","","","TN","Montgomery County","America/Chicago","615, 629, 931",NA,"US",36.36,-87.3,1100
+37172,"STANDARD",0,"Springfield","Coopertown","","TN","Robertson County","America/Chicago","270, 364, 615, 629",NA,"US",36.49,-86.87,28890
+37174,"STANDARD",0,"Spring Hill","","","TN","Williamson County","America/Chicago","615, 629, 931",NA,"US",35.74,-86.92,49180
+37175,"STANDARD",0,"Stewart","","","TN","Houston County","America/Chicago","731, 931",NA,"US",36.32,-87.89,830
+37178,"STANDARD",0,"Tennessee Ridge","Tennessee Rdg","Tenn Ridge, Tn Ridge","TN","Houston County","America/Chicago","931",NA,"US",36.31,-87.76,1990
+37179,"STANDARD",0,"Thompsons Station","Thompsons Stn","","TN","Williamson County","America/Chicago","615, 629, 931",NA,"US",35.82,-87.01,17460
+37180,"STANDARD",0,"Unionville","","","TN","Bedford County","America/Chicago","615, 629, 931",NA,"US",35.62,-86.59,3130
+37181,"STANDARD",0,"Vanleer","","","TN","Dickson County","America/Chicago","615, 629, 931",NA,"US",36.23,-87.44,1330
+37183,"STANDARD",0,"Wartrace","","","TN","Bedford County","America/Chicago","931",NA,"US",35.52,-86.33,3160
+37184,"STANDARD",0,"Watertown","","","TN","Wilson County","America/Chicago","615, 629",NA,"US",36.09,-86.13,5830
+37185,"STANDARD",0,"Waverly","","","TN","Humphreys County","America/Chicago","731, 931",NA,"US",36.09,-87.78,7340
+37186,"STANDARD",0,"Westmoreland","","","TN","Sumner County","America/Chicago","270, 364, 615, 629",NA,"US",36.56,-86.24,8750
+37187,"STANDARD",0,"White Bluff","","","TN","Dickson County","America/Chicago","615, 629",NA,"US",36.1,-87.21,6800
+37188,"STANDARD",0,"White House","","","TN","Robertson County","America/Chicago","615, 629",NA,"US",36.46,-86.66,16650
+37189,"STANDARD",0,"Whites Creek","","","TN","Davidson County","America/Chicago","615, 629",NA,"US",36.28,-86.83,3410
+37190,"STANDARD",0,"Woodbury","","","TN","Cannon County","America/Chicago","615, 629, 931",NA,"US",35.82,-86.07,7660
+37191,"STANDARD",0,"Woodlawn","","","TN","Montgomery County","America/Chicago","931",NA,"US",36.5,-87.54,3880
+37201,"STANDARD",0,"Nashville","","","TN","Davidson County","America/Chicago","615, 629",NA,"US",36.17,-86.78,1290
+37202,"PO BOX",0,"Nashville","","","TN","Davidson County","America/Chicago","615",NA,"US",36.17,-86.78,567
+37203,"STANDARD",0,"Nashville","","","TN","Davidson County","America/Chicago","615, 629",NA,"US",36.15,-86.79,15490
+37204,"STANDARD",0,"Nashville","Berry Hill, Melrose","","TN","Davidson County","America/Chicago","615, 629",NA,"US",36.11,-86.77,12400
+37205,"STANDARD",0,"Nashville","Belle Meade","","TN","Davidson County","America/Chicago","615, 629",NA,"US",36.11,-86.87,22340
+37206,"STANDARD",0,"Nashville","","","TN","Davidson County","America/Chicago","615, 629",NA,"US",36.18,-86.73,23610
+37207,"STANDARD",0,"Nashville","","Northeast","TN","Davidson County","America/Chicago","615, 629",NA,"US",36.23,-86.78,34470
+37208,"STANDARD",0,"Nashville","","","TN","Davidson County","America/Chicago","615, 629",NA,"US",36.18,-86.81,14290
+37209,"STANDARD",0,"Nashville","","","TN","Davidson County","America/Chicago","615, 629",NA,"US",36.19,-86.95,32620
+37210,"STANDARD",0,"Nashville","","","TN","Davidson County","America/Chicago","615, 629",NA,"US",36.15,-86.73,12470
+37211,"STANDARD",0,"Nashville","","Woodbine","TN","Davidson County","America/Chicago","615, 629",NA,"US",36.07,-86.72,62950
+37212,"STANDARD",0,"Nashville","","","TN","Davidson County","America/Chicago","615, 629",NA,"US",36.13,-86.8,10580
+37213,"STANDARD",0,"Nashville","","","TN","Davidson County","America/Chicago","615, 629",NA,"US",36.17,-86.77,116
+37214,"STANDARD",0,"Nashville","","Donelson","TN","Davidson County","America/Chicago","615, 629",NA,"US",36.16,-86.67,27070
+37215,"STANDARD",0,"Nashville","Forest Hills","","TN","Davidson County","America/Chicago","615, 629",NA,"US",36.08,-86.83,21590
+37216,"STANDARD",0,"Nashville","","Jere Baxter","TN","Davidson County","America/Chicago","615, 629",NA,"US",36.22,-86.73,16020
+37217,"STANDARD",0,"Nashville","","","TN","Davidson County","America/Chicago","615, 629",NA,"US",36.11,-86.66,26140
+37218,"STANDARD",0,"Nashville","","","TN","Davidson County","America/Chicago","615, 629",NA,"US",36.16,-86.89,12300
+37219,"STANDARD",0,"Nashville","","Nashvle","TN","Davidson County","America/Chicago","615, 629",NA,"US",36.17,-86.78,1600
+37220,"STANDARD",0,"Nashville","Oak Hill","Forest Hills","TN","Davidson County","America/Chicago","615, 629",NA,"US",36.07,-86.79,6620
+37221,"STANDARD",0,"Nashville","Bellevue","","TN","Davidson County","America/Chicago","615, 629",NA,"US",36.05,-86.97,38330
+37222,"PO BOX",0,"Nashville","","","TN","Davidson County","America/Chicago","615",NA,"US",36.17,-86.78,648
+37224,"PO BOX",0,"Nashville","","Nashvl, Nashvle","TN","Davidson County","America/Chicago","615",NA,"US",36.17,-86.78,320
+37227,"PO BOX",0,"Nashville","","Nashvl, Nashvle","TN","Davidson County","America/Chicago","615",NA,"US",36.17,-86.78,0
+37228,"STANDARD",0,"Nashville","","","TN","Davidson County","America/Chicago","615, 629",NA,"US",36.2,-86.8,1890
+37229,"PO BOX",0,"Nashville","","","TN","Davidson County","America/Chicago","615",NA,"US",36.17,-86.78,505
+37230,"PO BOX",0,"Nashville","","","TN","Davidson County","America/Chicago","615",NA,"US",36.17,-86.78,20
+37232,"UNIQUE",0,"Nashville","","Vanderbilt Hospital","TN","Davidson County","America/Chicago","615, 629",NA,"US",36.14,-86.8,0
+37234,"UNIQUE",0,"Nashville","","Lifeway Christian Resources","TN","Davidson County","America/Chicago","615",NA,"US",36.17,-86.78,0
+37235,"UNIQUE",0,"Nashville","","Vanderbilt University","TN","Davidson County","America/Chicago","615",NA,"US",36.17,-86.78,156
+37236,"UNIQUE",0,"Nashville","","Baptist Hospital","TN","Davidson County","America/Chicago","615",NA,"US",36.17,-86.78,0
+37237,"UNIQUE",1,"Nashville","","Amsouth Bank","TN","Davidson County","America/Chicago","615",NA,"US",36.16,-86.78,10
+37238,"STANDARD",0,"Nashville","","","TN","Davidson County","America/Chicago","615, 629",NA,"US",36.17,-86.78,0
+37240,"UNIQUE",0,"Nashville","","Vanderbilt University","TN","Davidson County","America/Chicago","615",NA,"US",36.14,-86.81,0
+37241,"UNIQUE",0,"Nashville","","Regions Bank","TN","Davidson County","America/Chicago","615",NA,"US",36.17,-86.78,0
+37242,"UNIQUE",0,"Nashville","","Tn Dept Revenue","TN","Davidson County","America/Chicago","615",NA,"US",36.17,-86.78,0
+37243,"UNIQUE",0,"Nashville","","Nashvl, Nashvle, Tn State Government","TN","Davidson County","America/Chicago","615",NA,"US",36.17,-86.78,34
+37244,"PO BOX",0,"Nashville","","","TN","Davidson County","America/Chicago","615",NA,"US",36.17,-86.78,0
+37245,"STANDARD",1,"Nashville","Nashvl, Nashvle, Tn Dept Of Employment Sec","","TN","Davidson County","America/Chicago","615",NA,"US",36.16,-86.78,0
+37246,"UNIQUE",0,"Nashville","","Nashville Elec Serv","TN","Davidson County","America/Chicago","615",NA,"US",36.16,-86.79,0
+37247,"STANDARD",1,"Nashville","Tn Dept Of Health Environ, Nashvl, Nashvle","","TN","Davidson County","America/Chicago","615",NA,"US",36.16,-86.78,0
+37248,"STANDARD",1,"Nashville","Tn Dept Of Human Svc, Nashvle, Nashvl","","TN","Davidson County","America/Chicago","615",NA,"US",36.16,-86.78,0
+37249,"STANDARD",1,"Nashville","Nashvl, Nashvle, Tn Dept Of Safety","","TN","Davidson County","America/Chicago","615",NA,"US",36.16,-86.78,0
+37250,"UNIQUE",0,"Nashville","","American General","TN","Davidson County","America/Chicago","615",NA,"US",36.17,-86.78,0
+37301,"STANDARD",0,"Altamont","","","TN","Grundy County","America/Chicago","931",NA,"US",35.42,-85.72,1570
+37302,"STANDARD",0,"Apison","","","TN","Hamilton County","America/New_York","423, 706, 762",NA,"US",35.01,-85,4950
+37303,"STANDARD",0,"Athens","","","TN","McMinn County","America/New_York","423",NA,"US",35.45,-84.6,21800
+37304,"STANDARD",0,"Bakewell","Sale Creek","","TN","Hamilton County","America/New_York","423",NA,"US",35.39,-85.11,0
+37305,"STANDARD",0,"Beersheba Springs","Beershba Spgs","","TN","Grundy County","America/Chicago","931",NA,"US",35.45,-85.67,570
+37306,"STANDARD",0,"Belvidere","","","TN","Franklin County","America/Chicago","256, 931, 938",NA,"US",35.12,-86.18,2400
+37307,"STANDARD",0,"Benton","","","TN","Polk County","America/New_York","423",NA,"US",35.17,-84.65,4340
+37308,"STANDARD",0,"Birchwood","","","TN","Hamilton County","America/New_York","423",NA,"US",35.36,-84.99,2640
+37309,"STANDARD",0,"Calhoun","","","TN","McMinn County","America/New_York","423",NA,"US",35.29,-84.74,1950
+37310,"STANDARD",0,"Charleston","","","TN","Bradley County","America/New_York","423",NA,"US",35.28,-84.76,4040
+37311,"STANDARD",0,"Cleveland","","Cleveld","TN","Bradley County","America/New_York","423, 706, 762",NA,"US",35.17,-84.86,21840
+37312,"STANDARD",0,"Cleveland","","Cleveld","TN","Bradley County","America/New_York","423",NA,"US",35.23,-84.88,32870
+37313,"STANDARD",0,"Coalmont","","","TN","Grundy County","America/Chicago","931",NA,"US",35.38,-85.7,1100
+37314,"PO BOX",0,"Coker Creek","","","TN","Monroe County","America/New_York","423",NA,"US",35.26,-84.3,70
+37315,"PO BOX",0,"Collegedale","","","TN","Hamilton County","America/New_York","423",NA,"US",35.05,-85.05,2155
+37316,"PO BOX",0,"Conasauga","","","TN","Polk County","America/New_York","423",NA,"US",35,-84.73,55
+37317,"STANDARD",0,"Copperhill","Postelle","","TN","Polk County","America/New_York","423, 706, 762, 828",NA,"US",34.99,-84.37,2050
+37318,"STANDARD",0,"Cowan","","","TN","Franklin County","America/Chicago","931",NA,"US",35.16,-86.01,1650
+37320,"PO BOX",0,"Cleveland","","Cleveld","TN","Bradley County","America/New_York","423",NA,"US",35.17,-84.86,2252
+37321,"STANDARD",0,"Dayton","","","TN","Rhea County","America/New_York","423",NA,"US",35.49,-85.01,16840
+37322,"STANDARD",0,"Decatur","","","TN","Meigs County","America/New_York","423",NA,"US",35.52,-84.79,7550
+37323,"STANDARD",0,"Cleveland","","Cleveld, Clevelnd","TN","Bradley County","America/New_York","423, 706, 762",NA,"US",35.1,-84.82,28520
+37324,"STANDARD",0,"Decherd","","","TN","Franklin County","America/Chicago","931",NA,"US",35.2,-86.08,4430
+37325,"STANDARD",0,"Delano","","","TN","Polk County","America/New_York","423",NA,"US",35.25,-84.62,1600
+37326,"PO BOX",0,"Ducktown","","","TN","Polk County","America/New_York","423",NA,"US",35.03,-84.38,818
+37327,"STANDARD",0,"Dunlap","","","TN","Sequatchie County","America/Chicago","423, 931",NA,"US",35.37,-85.38,10810
+37328,"STANDARD",0,"Elora","","","TN","Lincoln County","America/Chicago","256, 931, 938",NA,"US",35.01,-86.35,1310
+37329,"STANDARD",0,"Englewood","","","TN","McMinn County","America/New_York","423",NA,"US",35.42,-84.48,4880
+37330,"STANDARD",0,"Estill Springs","Estill Spgs","","TN","Franklin County","America/Chicago","931",NA,"US",35.26,-86.13,6340
+37331,"STANDARD",0,"Etowah","","","TN","McMinn County","America/New_York","423",NA,"US",35.33,-84.52,6590
+37332,"STANDARD",0,"Evensville","","","TN","Rhea County","America/New_York","423",NA,"US",35.56,-84.95,2400
+37333,"STANDARD",0,"Farner","","","TN","Polk County","America/New_York","423, 828",NA,"US",35.14,-84.32,440
+37334,"STANDARD",0,"Fayetteville","","","TN","Lincoln County","America/Chicago","256, 931, 938",NA,"US",35.14,-86.56,20470
+37335,"STANDARD",0,"Flintville","","","TN","Lincoln County","America/Chicago","256, 931, 938",NA,"US",35.04,-86.45,2420
+37336,"STANDARD",0,"Georgetown","","","TN","Bradley County","America/New_York","423",NA,"US",35.3,-84.91,4140
+37337,"STANDARD",0,"Grandview","","Grand View","TN","Rhea County","America/New_York","423, 865, 931",NA,"US",35.74,-84.83,1240
+37338,"STANDARD",0,"Graysville","","","TN","Rhea County","America/Chicago","423",NA,"US",35.43,-85.22,2850
+37339,"STANDARD",0,"Gruetli Laager","Gruetli Laagr","Gruetli, Laager","TN","Grundy County","America/Chicago","423, 931",NA,"US",35.38,-85.63,1560
+37340,"STANDARD",0,"Guild","","","TN","Marion County","America/Chicago","423, 706, 762",NA,"US",35.03,-85.52,530
+37341,"STANDARD",0,"Harrison","","","TN","Hamilton County","America/New_York","423",NA,"US",35.12,-85.14,12910
+37342,"STANDARD",0,"Hillsboro","","","TN","Coffee County","America/Chicago","931",NA,"US",35.36,-85.95,3510
+37343,"STANDARD",0,"Hixson","","","TN","Hamilton County","America/New_York","423",NA,"US",35.16,-85.2,41150
+37345,"STANDARD",0,"Huntland","","","TN","Franklin County","America/Chicago","256, 931, 938",NA,"US",35.05,-86.26,2030
+37347,"STANDARD",0,"Jasper","Kimball","","TN","Marion County","America/Chicago","423, 931",NA,"US",35.05,-85.62,7570
+37348,"STANDARD",0,"Kelso","","","TN","Lincoln County","America/Chicago","931",NA,"US",35.12,-86.46,1050
+37349,"PO BOX",0,"Manchester","","","TN","Coffee County","America/Chicago","931",NA,"US",35.46,-86.08,971
+37350,"STANDARD",0,"Lookout Mountain","Lookout Mtn","","TN","Hamilton County","America/New_York","423, 706, 762",NA,"US",34.99,-85.35,2160
+37351,"STANDARD",0,"Lupton City","","","TN","Hamilton County","America/New_York","423",NA,"US",35.1,-85.26,310
+37352,"STANDARD",0,"Lynchburg","","","TN","Moore County","America/Chicago","931",NA,"US",35.28,-86.35,2940
+37353,"STANDARD",0,"Mc Donald","","","TN","Bradley County","America/New_York","423",NA,"US",35.08,-84.98,4640
+37354,"STANDARD",0,"Madisonville","","","TN","Monroe County","America/New_York","423",NA,"US",35.52,-84.35,14730
+37355,"STANDARD",0,"Manchester","","","TN","Coffee County","America/Chicago","615, 629, 931",NA,"US",35.46,-86.08,24500
+37356,"STANDARD",0,"Monteagle","","","TN","Grundy County","America/Chicago","423, 931",NA,"US",35.24,-85.84,2310
+37357,"STANDARD",0,"Morrison","","","TN","Warren County","America/Chicago","615, 629, 931",NA,"US",35.6,-85.91,5270
+37359,"STANDARD",0,"Mulberry","","","TN","Lincoln County","America/Chicago","931",NA,"US",35.2,-86.4,600
+37360,"STANDARD",0,"Normandy","","","TN","Coffee County","America/Chicago","931",NA,"US",35.45,-86.25,1590
+37361,"STANDARD",0,"Ocoee","","","TN","Polk County","America/New_York","423",NA,"US",35.1,-84.7,1430
+37362,"STANDARD",0,"Old Fort","","","TN","Polk County","America/New_York","423, 706, 762",NA,"US",35.04,-84.64,3020
+37363,"STANDARD",0,"Ooltewah","College Dale","","TN","Hamilton County","America/New_York","423, 706, 762",NA,"US",35.06,-85.09,38350
+37364,"PO BOX",0,"Cleveland","","","TN","Bradley County","America/New_York","423",NA,"US",35.17,-84.86,508
+37365,"STANDARD",0,"Palmer","","","TN","Grundy County","America/Chicago","423, 931",NA,"US",35.35,-85.56,1110
+37366,"STANDARD",0,"Pelham","","","TN","Grundy County","America/Chicago","931",NA,"US",35.32,-85.78,880
+37367,"STANDARD",0,"Pikeville","","","TN","Bledsoe County","America/Chicago","423, 931",NA,"US",35.6,-85.19,8140
+37369,"STANDARD",0,"Reliance","","","TN","Polk County","America/New_York","423",NA,"US",35.21,-84.46,730
+37370,"STANDARD",0,"Riceville","","","TN","McMinn County","America/New_York","423",NA,"US",35.38,-84.69,4320
+37371,"PO BOX",0,"Athens","","","TN","Mcminn County","America/New_York","423",NA,"US",35.45,-84.6,1239
+37373,"STANDARD",0,"Sale Creek","Bakewell","","TN","Hamilton County","America/New_York","423",NA,"US",35.38,-85.1,3010
+37374,"STANDARD",0,"Sequatchie","","","TN","Marion County","America/Chicago","423, 931",NA,"US",35.19,-85.66,1480
+37375,"STANDARD",0,"Sewanee","Saint Andrews","","TN","Franklin County","America/Chicago","423, 931",NA,"US",35.2,-85.92,2030
+37376,"STANDARD",0,"Sherwood","","","TN","Franklin County","America/Chicago","256, 423, 931, 938",NA,"US",35.06,-85.95,310
+37377,"STANDARD",0,"Signal Mountain","Signal Mtn, Walden","","TN","Hamilton County","America/New_York","423",NA,"US",35.13,-85.34,17000
+37378,"PO BOX",0,"Smartt","","","TN","Warren County","America/Chicago","931",NA,"US",35.63,-85.84,208
+37379,"STANDARD",0,"Soddy Daisy","Lakesite","","TN","Hamilton County","America/New_York","423",NA,"US",35.26,-85.17,25790
+37380,"STANDARD",0,"South Pittsburg","New Hope, Orme, S Pittsburg","","TN","Marion County","America/Chicago","256, 423, 706, 762, 931, 938",NA,"US",35.01,-85.71,5480
+37381,"STANDARD",0,"Spring City","Watts Bar Dam","","TN","Rhea County","America/New_York","423, 865, 931",NA,"US",35.68,-84.86,7770
+37382,"PO BOX",0,"Summitville","","","TN","Coffee County","America/Chicago","931",NA,"US",35.54,-85.97,327
+37383,"UNIQUE",0,"Sewanee","","University Of The South","TN","Franklin County","America/Chicago","931",NA,"US",35.21,-85.91,218
+37384,"PO BOX",0,"Soddy Daisy","","","TN","Hamilton County","America/New_York","423",NA,"US",35.26,-85.17,1172
+37385,"STANDARD",0,"Tellico Plains","Tellico Plns","","TN","Monroe County","America/New_York","423, 828",NA,"US",35.36,-84.29,6740
+37387,"STANDARD",0,"Tracy City","","","TN","Grundy County","America/Chicago","423, 931",NA,"US",35.25,-85.75,3420
+37388,"STANDARD",0,"Tullahoma","Dickel","","TN","Coffee County","America/Chicago","931",NA,"US",35.37,-86.2,23520
+37389,"STANDARD",0,"Arnold AFB","Tullahoma","Arnold Air Force Base","TN","Coffee County","America/Chicago","931",NA,"US",35.37,-86.14,0
+37391,"STANDARD",0,"Turtletown","","","TN","Polk County","America/New_York","423, 828",NA,"US",35.12,-84.35,1150
+37394,"PO BOX",0,"Viola","","","TN","Warren County","America/Chicago","931",NA,"US",35.54,-85.86,229
+37396,"STANDARD",0,"Whiteside","","","TN","Marion County","America/Chicago","423, 706, 762",NA,"US",35.01,-85.5,270
+37397,"STANDARD",0,"Whitwell","Powells Crossroads, Powells Xroad","","TN","Marion County","America/Chicago","423, 931",NA,"US",35.2,-85.51,8100
+37398,"STANDARD",0,"Winchester","","","TN","Franklin County","America/Chicago","931",NA,"US",35.18,-86.1,13770
+37401,"PO BOX",0,"Chattanooga","","","TN","Hamilton County","America/New_York","423",NA,"US",35.06,-85.25,510
+37402,"STANDARD",0,"Chattanooga","","","TN","Hamilton County","America/New_York","423",NA,"US",35.04,-85.32,2670
+37403,"STANDARD",0,"Chattanooga","","","TN","Hamilton County","America/New_York","423",NA,"US",35.05,-85.29,1840
+37404,"STANDARD",0,"Chattanooga","","","TN","Hamilton County","America/New_York","423, 706, 762",NA,"US",35.03,-85.27,10470
+37405,"STANDARD",0,"Chattanooga","","","TN","Hamilton County","America/Chicago","423",NA,"US",35.13,-85.38,15210
+37406,"STANDARD",0,"Chattanooga","","","TN","Hamilton County","America/New_York","423",NA,"US",35.06,-85.25,10710
+37407,"STANDARD",0,"Chattanooga","","","TN","Hamilton County","America/New_York","423, 706, 762",NA,"US",35,-85.29,7000
+37408,"STANDARD",0,"Chattanooga","","","TN","Hamilton County","America/New_York","423",NA,"US",35.03,-85.31,2760
+37409,"STANDARD",0,"Chattanooga","","","TN","Hamilton County","America/New_York","423, 706, 762",NA,"US",35.01,-85.34,2720
+37410,"STANDARD",0,"Chattanooga","","","TN","Hamilton County","America/New_York","423, 706, 762",NA,"US",35,-85.31,3140
+37411,"STANDARD",0,"Chattanooga","Ridgeside","","TN","Hamilton County","America/New_York","423",NA,"US",35.03,-85.23,15170
+37412,"STANDARD",0,"Chattanooga","East Ridge","","TN","Hamilton County","America/New_York","423, 706, 762",NA,"US",35,-85.23,19040
+37414,"PO BOX",0,"Chattanooga","","Chatt, Chatta","TN","Hamilton County","America/New_York","423",NA,"US",35.06,-85.25,691
+37415,"STANDARD",0,"Chattanooga","Red Bank","","TN","Hamilton County","America/New_York","423",NA,"US",35.12,-85.28,20420
+37416,"STANDARD",0,"Chattanooga","","","TN","Hamilton County","America/New_York","423",NA,"US",35.1,-85.18,13260
+37419,"STANDARD",0,"Chattanooga","","","TN","Hamilton County","America/New_York","423, 706, 762",NA,"US",35.04,-85.4,5840
+37421,"STANDARD",0,"Chattanooga","","","TN","Hamilton County","America/New_York","423, 706, 762",NA,"US",35.03,-85.15,45570
+37422,"PO BOX",0,"Chattanooga","","","TN","Hamilton County","America/New_York","423",NA,"US",35.06,-85.25,698
+37424,"PO BOX",0,"Chattanooga","","Chatt, Chatta, Chickamauga","TN","Hamilton County","America/New_York","423",NA,"US",35.06,-85.25,657
+37450,"STANDARD",0,"Chattanooga","","","TN","Hamilton County","America/New_York","423",NA,"US",35.05,-85.31,22
+37501,"UNIQUE",0,"Memphis","","Internal Revenue","TN","Shelby County","America/Chicago","901",NA,"US",35.1,-90,0
+37544,"UNIQUE",0,"Memphis","","Internal Revenue","TN","Shelby County","America/Chicago","901",NA,"US",35.15,-90.05,0
+37601,"STANDARD",0,"Johnson City","","JC","TN","Washington County","America/New_York","423",NA,"US",36.33,-82.36,29350
+37602,"PO BOX",0,"Johnson City","","JC","TN","Washington County","America/New_York","423",NA,"US",36.33,-82.36,1105
+37604,"STANDARD",0,"Johnson City","","JC","TN","Washington County","America/New_York","423",NA,"US",36.3,-82.38,28120
+37605,"PO BOX",0,"Johnson City","","JC","TN","Washington County","America/New_York","423",NA,"US",36.33,-82.36,734
+37614,"PO BOX",0,"Johnson City","","East Tn State Univ, Etsu, JC","TN","Washington County","America/New_York","423",NA,"US",36.3,-82.37,287
+37615,"STANDARD",0,"Johnson City","Gray","JC","TN","Washington County","America/New_York","423",NA,"US",36.4,-82.46,20310
+37616,"STANDARD",0,"Afton","","","TN","Greene County","America/New_York","423",NA,"US",36.23,-82.75,4270
+37617,"STANDARD",0,"Blountville","","","TN","Sullivan County","America/New_York","276, 423",NA,"US",36.53,-82.32,12270
+37618,"STANDARD",0,"Bluff City","","","TN","Sullivan County","America/New_York","423",NA,"US",36.46,-82.27,10940
+37620,"STANDARD",0,"Bristol","","","TN","Sullivan County","America/New_York","276, 423",NA,"US",36.56,-82.19,31840
+37621,"PO BOX",0,"Bristol","","","TN","Sullivan County","America/New_York","423",NA,"US",36.56,-82.19,859
+37625,"PO BOX",0,"Bristol","","","TN","Sullivan County","America/New_York","423",NA,"US",36.56,-82.19,246
+37640,"STANDARD",0,"Butler","","","TN","Johnson County","America/New_York","423, 828",NA,"US",36.31,-82,2940
+37641,"STANDARD",0,"Chuckey","","Chucky","TN","Greene County","America/New_York","423, 828",NA,"US",36.24,-82.71,7640
+37642,"STANDARD",0,"Church Hill","","","TN","Hawkins County","America/New_York","276, 423",NA,"US",36.52,-82.71,12790
+37643,"STANDARD",0,"Elizabethton","","","TN","Carter County","America/New_York","423",NA,"US",36.33,-82.23,26290
+37644,"PO BOX",0,"Elizabethton","","","TN","Carter County","America/New_York","423",NA,"US",36.33,-82.23,1082
+37645,"STANDARD",0,"Mount Carmel","Church Hill, Mt Carmel","","TN","Hawkins County","America/New_York","423",NA,"US",36.56,-82.65,4840
+37650,"STANDARD",0,"Erwin","","","TN","Unicoi County","America/New_York","423, 828",NA,"US",36.14,-82.41,9670
+37656,"STANDARD",0,"Fall Branch","","","TN","Washington County","America/New_York","423",NA,"US",36.41,-82.62,3290
+37657,"STANDARD",0,"Flag Pond","","","TN","Unicoi County","America/New_York","423, 828",NA,"US",36.01,-82.56,630
+37658,"STANDARD",0,"Hampton","","","TN","Carter County","America/New_York","423",NA,"US",36.28,-82.17,3300
+37659,"STANDARD",0,"Jonesborough","","Jonesboro","TN","Washington County","America/New_York","423",NA,"US",36.29,-82.47,26360
+37660,"STANDARD",0,"Kingsport","","","TN","Sullivan County","America/New_York","276, 423",NA,"US",36.52,-82.55,32270
+37662,"PO BOX",0,"Kingsport","","","TN","Sullivan County","America/New_York","423",NA,"US",36.52,-82.55,825
+37663,"STANDARD",0,"Kingsport","Colonial Heights, Colonial Hgts","","TN","Sullivan County","America/New_York","423",NA,"US",36.46,-82.49,13630
+37664,"STANDARD",0,"Kingsport","","","TN","Sullivan County","America/New_York","423",NA,"US",36.52,-82.5,25180
+37665,"STANDARD",0,"Kingsport","","","TN","Sullivan County","America/New_York","276, 423",NA,"US",36.58,-82.57,4050
+37669,"UNIQUE",0,"Kingsport","","Kingsport Book","TN","Sullivan County","America/New_York","423",NA,"US",36.52,-82.55,0
+37680,"STANDARD",0,"Laurel Bloomery","Laurel Blmry","","TN","Johnson County","America/New_York","276, 336, 423, 743",NA,"US",36.58,-81.73,470
+37681,"STANDARD",0,"Limestone","","","TN","Washington County","America/New_York","423",NA,"US",36.22,-82.63,5430
+37682,"PO BOX",0,"Milligan College","Milligan, Milligan Coll","","TN","Carter County","America/New_York","423",NA,"US",36.3,-82.29,415
+37683,"STANDARD",0,"Mountain City","","","TN","Johnson County","America/New_York","336, 423, 743, 828",NA,"US",36.47,-81.8,8800
+37684,"PO BOX",0,"Mountain Home","Mtn Home","","TN","Washington County","America/New_York","423",NA,"US",36.3,-82.36,426
+37686,"STANDARD",0,"Piney Flats","","","TN","Sullivan County","America/New_York","423",NA,"US",36.44,-82.34,7900
+37687,"STANDARD",0,"Roan Mountain","","","TN","Carter County","America/New_York","423, 828",NA,"US",36.18,-82.07,3580
+37688,"STANDARD",0,"Shady Valley","","","TN","Johnson County","America/New_York","276, 423",NA,"US",36.51,-81.92,790
+37690,"STANDARD",0,"Telford","","","TN","Washington County","America/New_York","423",NA,"US",36.24,-82.54,3900
+37691,"STANDARD",0,"Trade","","","TN","Johnson County","America/New_York","336, 423, 743, 828",NA,"US",36.34,-81.74,700
+37692,"STANDARD",0,"Unicoi","","","TN","Unicoi County","America/New_York","423, 828",NA,"US",36.19,-82.35,3930
+37694,"STANDARD",0,"Watauga","","","TN","Carter County","America/New_York","423",NA,"US",36.36,-82.29,1550
+37699,"UNIQUE",0,"Piney Flats","","Home Shopping Network","TN","Sullivan County","America/New_York","423",NA,"US",36.44,-82.34,0
+37701,"STANDARD",0,"Alcoa","","","TN","Blount County","America/New_York","865",NA,"US",35.79,-83.97,7800
+37705,"STANDARD",0,"Andersonville","","","TN","Anderson County","America/New_York","423, 865",NA,"US",36.2,-84.04,4670
+37707,"PO BOX",0,"Arthur","","","TN","Claiborne County","America/New_York","423",NA,"US",36.54,-83.67,327
+37708,"STANDARD",0,"Bean Station","","Tate Springs","TN","Grainger County","America/New_York","423, 865",NA,"US",36.34,-83.28,5790
+37709,"STANDARD",0,"Blaine","","","TN","Grainger County","America/New_York","865",NA,"US",36.14,-83.69,3550
+37710,"STANDARD",0,"Briceville","Devonia","","TN","Anderson County","America/New_York","423, 865",NA,"US",36.16,-84.3,730
+37711,"STANDARD",0,"Bulls Gap","","","TN","Hawkins County","America/New_York","423",NA,"US",36.26,-83.07,4230
+37713,"STANDARD",0,"Bybee","","","TN","Cocke County","America/New_York","423",NA,"US",36.04,-83.18,1180
+37714,"STANDARD",0,"Caryville","","","TN","Campbell County","America/New_York","423, 865",NA,"US",36.26,-84.3,3540
+37715,"STANDARD",0,"Clairfield","","","TN","Claiborne County","America/New_York","423, 606",NA,"US",36.54,-83.95,570
+37716,"STANDARD",0,"Clinton","","","TN","Anderson County","America/New_York","865",NA,"US",36.09,-84.13,22380
+37717,"PO BOX",0,"Clinton","","","TN","Anderson County","America/New_York","865",NA,"US",36.09,-84.13,835
+37719,"PO BOX",0,"Coalfield","","","TN","Morgan County","America/New_York","865",NA,"US",36.02,-84.43,532
+37721,"STANDARD",0,"Corryton","","","TN","Knox County","America/New_York","865",NA,"US",36.12,-83.8,12700
+37722,"STANDARD",0,"Cosby","","","TN","Cocke County","America/New_York","423, 828, 865",NA,"US",35.81,-83.25,5080
+37723,"STANDARD",0,"Crab Orchard","","","TN","Cumberland County","America/Chicago","423, 865, 931",NA,"US",35.9,-84.88,860
+37724,"STANDARD",0,"Cumberland Gap","Cumb Gap, Cumberland Gp","","TN","Claiborne County","America/New_York","276, 423, 606",NA,"US",36.55,-83.71,1710
+37725,"STANDARD",0,"Dandridge","","","TN","Jefferson County","America/New_York","423, 865",NA,"US",36.02,-83.41,16430
+37726,"STANDARD",0,"Deer Lodge","","","TN","Morgan County","America/New_York","423, 931",NA,"US",36.21,-84.83,1640
+37727,"STANDARD",0,"Del Rio","","","TN","Cocke County","America/New_York","423, 828",NA,"US",35.91,-83.02,1730
+37729,"STANDARD",0,"Duff","La Follette","","TN","Campbell County","America/New_York","423",NA,"US",36.52,-84.03,960
+37730,"PO BOX",0,"Eagan","","","TN","Claiborne County","America/New_York","423",NA,"US",36.57,-83.97,131
+37731,"STANDARD",0,"Eidson","","","TN","Hawkins County","America/New_York","276, 423, 865",NA,"US",36.5,-83.08,550
+37732,"PO BOX",0,"Elgin","","","TN","Scott County","America/New_York","423",NA,"US",36.33,-84.63,277
+37733,"PO BOX",0,"Rugby","Elgin","","TN","Morgan County","America/New_York","423",NA,"US",36.36,-84.7,40
+37737,"STANDARD",0,"Friendsville","","","TN","Blount County","America/New_York","865",NA,"US",35.75,-84.13,5970
+37738,"STANDARD",0,"Gatlinburg","","","TN","Sevier County","America/New_York","423, 828, 865",NA,"US",35.72,-83.49,4930
+37742,"STANDARD",0,"Greenback","","","TN","Loudon County","America/New_York","423, 865",NA,"US",35.65,-84.17,5810
+37743,"STANDARD",0,"Greeneville","Tusculum Coll","Baileyton","TN","Greene County","America/New_York","423, 828",NA,"US",36.07,-82.86,20810
+37744,"PO BOX",0,"Greeneville","","","TN","Greene County","America/New_York","423",NA,"US",36.16,-82.81,957
+37745,"STANDARD",0,"Greeneville","Tusculum","Baileyton","TN","Greene County","America/New_York","423",NA,"US",36.16,-82.81,15290
+37748,"STANDARD",0,"Harriman","","Emory Gap, Midtown","TN","Roane County","America/New_York","423, 865",NA,"US",35.93,-84.56,14580
+37752,"STANDARD",0,"Harrogate","","","TN","Claiborne County","America/New_York","276, 423",NA,"US",36.56,-83.54,4710
+37753,"STANDARD",0,"Hartford","","","TN","Cocke County","America/New_York","423, 828",NA,"US",35.81,-83.14,660
+37754,"STANDARD",0,"Heiskell","","","TN","Anderson County","America/New_York","865",NA,"US",36.12,-84.04,4280
+37755,"STANDARD",0,"Helenwood","","New River","TN","Scott County","America/New_York","423",NA,"US",36.43,-84.56,2660
+37756,"STANDARD",0,"Huntsville","Winona","Norma","TN","Scott County","America/New_York","423",NA,"US",36.41,-84.48,2250
+37757,"STANDARD",0,"Jacksboro","","","TN","Campbell County","America/New_York","423, 865",NA,"US",36.33,-84.19,8210
+37760,"STANDARD",0,"Jefferson City","Jefferson Cty","Jeff City","TN","Jefferson County","America/New_York","865",NA,"US",36.11,-83.48,10730
+37762,"STANDARD",0,"Jellico","","","TN","Campbell County","America/New_York","423, 606",NA,"US",36.57,-84.12,2140
+37763,"STANDARD",0,"Kingston","","","TN","Roane County","America/New_York","423, 865",NA,"US",35.87,-84.51,14250
+37764,"STANDARD",0,"Kodak","","","TN","Sevier County","America/New_York","865",NA,"US",35.97,-83.62,10290
+37765,"STANDARD",0,"Kyles Ford","","","TN","Hancock County","America/New_York","276, 423, 865",NA,"US",36.57,-83.06,350
+37766,"STANDARD",0,"La Follette","Morley","Lafollette","TN","Campbell County","America/New_York","423, 865",NA,"US",36.37,-84.12,13640
+37769,"STANDARD",0,"Rocky Top","Lake City","","TN","Anderson County","America/New_York","423, 865",NA,"US",36.22,-84.15,4910
+37770,"STANDARD",0,"Lancing","","","TN","Morgan County","America/New_York","423, 865, 931",NA,"US",36.15,-84.69,2210
+37771,"STANDARD",0,"Lenoir City","","","TN","Loudon County","America/New_York","865",NA,"US",35.8,-84.27,15230
+37772,"STANDARD",0,"Lenoir City","","","TN","Loudon County","America/New_York","865",NA,"US",35.79,-84.22,12970
+37773,"PO BOX",0,"Lone Mountain","","","TN","Claiborne County","America/New_York","423",NA,"US",36.38,-83.58,28
+37774,"STANDARD",0,"Loudon","","","TN","Loudon County","America/New_York","423, 865",NA,"US",35.73,-84.35,20320
+37777,"STANDARD",0,"Louisville","","Mcghee Tyson Ang Base","TN","Blount County","America/New_York","865",NA,"US",35.82,-84.04,11310
+37778,"PO BOX",0,"Lowland","","","TN","Hamblen County","America/New_York","423",NA,"US",36.15,-83.2,0
+37779,"STANDARD",0,"Luttrell","Plainview","","TN","Union County","America/New_York","865",NA,"US",36.2,-83.74,3130
+37801,"STANDARD",0,"Maryville","","","TN","Blount County","America/New_York","423, 865",NA,"US",35.66,-84.09,26530
+37802,"PO BOX",0,"Maryville","","","TN","Blount County","America/New_York","865",NA,"US",35.74,-83.97,1744
+37803,"STANDARD",0,"Maryville","","","TN","Blount County","America/New_York","865",NA,"US",35.74,-83.97,31060
+37804,"STANDARD",0,"Maryville","","","TN","Blount County","America/New_York","865",NA,"US",35.79,-83.89,23090
+37806,"STANDARD",0,"Mascot","","","TN","Knox County","America/New_York","865",NA,"US",36.08,-83.73,2950
+37807,"STANDARD",0,"Maynardville","","","TN","Union County","America/New_York","423, 865",NA,"US",36.24,-83.8,8910
+37809,"STANDARD",0,"Midway","","","TN","Greene County","America/New_York","423",NA,"US",36.16,-83.04,1820
+37810,"STANDARD",0,"Mohawk","","","TN","Greene County","America/New_York","423",NA,"US",36.18,-83.12,1610
+37811,"STANDARD",0,"Mooresburg","","","TN","Hawkins County","America/New_York","423, 865",NA,"US",36.34,-83.22,2940
+37813,"STANDARD",0,"Morristown","","","TN","Hamblen County","America/New_York","423, 865",NA,"US",36.21,-83.29,14550
+37814,"STANDARD",0,"Morristown","","","TN","Hamblen County","America/New_York","423, 865",NA,"US",36.23,-83.34,28000
+37815,"PO BOX",0,"Morristown","","","TN","Hamblen County","America/New_York","423",NA,"US",36.21,-83.29,662
+37816,"PO BOX",0,"Morristown","","","TN","Hamblen County","America/New_York","423",NA,"US",36.21,-83.29,402
+37818,"STANDARD",0,"Mosheim","","","TN","Greene County","America/New_York","423",NA,"US",36.19,-82.95,4360
+37819,"STANDARD",0,"Newcomb","","","TN","Campbell County","America/New_York","423, 606",NA,"US",36.54,-84.2,400
+37820,"STANDARD",0,"New Market","","","TN","Jefferson County","America/New_York","865",NA,"US",36.09,-83.55,7130
+37821,"STANDARD",0,"Newport","Mt Sterling","","TN","Cocke County","America/New_York","423, 865",NA,"US",35.96,-83.19,18210
+37822,"PO BOX",0,"Newport","","","TN","Cocke County","America/New_York","423",NA,"US",35.96,-83.19,1178
+37824,"PO BOX",0,"New Tazewell","","","TN","Claiborne County","America/New_York","423",NA,"US",36.43,-83.6,2101
+37825,"STANDARD",0,"New Tazewell","","","TN","Claiborne County","America/New_York","423, 865",NA,"US",36.43,-83.6,6170
+37826,"STANDARD",0,"Niota","","","TN","McMinn County","America/New_York","423",NA,"US",35.51,-84.54,4020
+37828,"PO BOX",0,"Norris","","","TN","Anderson County","America/New_York","865",NA,"US",36.21,-84.06,1589
+37829,"STANDARD",0,"Oakdale","","","TN","Morgan County","America/New_York","423, 865",NA,"US",36.01,-84.64,1520
+37830,"STANDARD",0,"Oak Ridge","","","TN","Anderson County","America/New_York","865",NA,"US",35.96,-84.29,28800
+37831,"PO BOX",0,"Oak Ridge","","","TN","Anderson County","America/New_York","865",NA,"US",35.96,-84.29,857
+37840,"STANDARD",0,"Oliver Springs","Oliver Spgs","","TN","Roane County","America/New_York","423, 865",NA,"US",36.03,-84.32,7830
+37841,"STANDARD",0,"Oneida","","","TN","Scott County","America/New_York","423, 606, 931",NA,"US",36.5,-84.51,7870
+37843,"STANDARD",0,"Parrottsville","","","TN","Cocke County","America/New_York","423",NA,"US",36,-83.09,3290
+37845,"PO BOX",0,"Petros","","","TN","Morgan County","America/New_York","423, 865",NA,"US",36.09,-84.44,532
+37846,"STANDARD",0,"Philadelphia","","","TN","Loudon County","America/New_York","423, 865",NA,"US",35.67,-84.4,4350
+37847,"STANDARD",0,"Pioneer","","","TN","Scott County","America/New_York","423",NA,"US",36.46,-84.29,2070
+37848,"STANDARD",0,"Powder Springs","Powder Spgs","","TN","Grainger County","America/New_York","865",NA,"US",36.24,-83.66,250
+37849,"STANDARD",0,"Powell","","","TN","Knox County","America/New_York","865",NA,"US",36.03,-84.02,25030
+37851,"PO BOX",0,"Pruden","","","TN","Claiborne County","America/New_York","423, 606",NA,"US",36.57,-83.79,42
+37852,"STANDARD",0,"Robbins","","Glen Mary","TN","Scott County","America/New_York","423, 931",NA,"US",36.32,-84.57,1980
+37853,"STANDARD",0,"Rockford","","","TN","Blount County","America/New_York","865",NA,"US",35.82,-83.93,3210
+37854,"STANDARD",0,"Rockwood","Ozone","Westel","TN","Roane County","America/New_York","423, 865, 931",NA,"US",35.87,-84.67,10480
+37857,"STANDARD",0,"Rogersville","","","TN","Hawkins County","America/New_York","423",NA,"US",36.4,-83,16970
+37860,"STANDARD",0,"Russellville","","","TN","Hamblen County","America/New_York","423",NA,"US",36.25,-83.19,3790
+37861,"STANDARD",0,"Rutledge","","","TN","Grainger County","America/New_York","423, 865",NA,"US",36.27,-83.52,7220
+37862,"STANDARD",0,"Sevierville","Pigeon Forge","","TN","Sevier County","America/New_York","865",NA,"US",35.78,-83.61,19070
+37863,"STANDARD",0,"Pigeon Forge","Sevierville","","TN","Sevier County","America/New_York","865",NA,"US",35.79,-83.55,5720
+37864,"PO BOX",0,"Sevierville","Pigeon Forge","","TN","Sevier County","America/New_York","865",NA,"US",35.89,-83.57,2197
+37865,"STANDARD",0,"Seymour","","","TN","Sevier County","America/New_York","865",NA,"US",35.87,-83.77,21370
+37866,"STANDARD",0,"Sharps Chapel","","","TN","Union County","America/New_York","423, 865",NA,"US",36.34,-83.8,1740
+37867,"PO BOX",0,"Shawanee","","","TN","Claiborne County","America/New_York","423",NA,"US",36.57,-83.55,90
+37868,"PO BOX",0,"Pigeon Forge","Sevierville","","TN","Sevier County","America/New_York","865",NA,"US",35.79,-83.55,1206
+37869,"STANDARD",0,"Sneedville","","","TN","Hancock County","America/New_York","276, 423, 865",NA,"US",36.53,-83.21,3800
+37870,"STANDARD",0,"Speedwell","","","TN","Claiborne County","America/New_York","423, 865",NA,"US",36.47,-83.81,3330
+37871,"STANDARD",0,"Strawberry Plains","Straw Plains","","TN","Jefferson County","America/New_York","865",NA,"US",36.06,-83.68,8340
+37872,"STANDARD",0,"Sunbright","","Burrville","TN","Morgan County","America/New_York","423, 931",NA,"US",36.24,-84.67,1840
+37873,"STANDARD",0,"Surgoinsville","","","TN","Hawkins County","America/New_York","276, 423",NA,"US",36.47,-82.85,3410
+37874,"STANDARD",0,"Sweetwater","","","TN","Monroe County","America/New_York","423, 865",NA,"US",35.6,-84.46,13380
+37876,"STANDARD",0,"Sevierville","Pigeon Forge, Pittman Center, Pittman Ctr","","TN","Sevier County","America/New_York","423, 865",NA,"US",35.89,-83.57,27990
+37877,"STANDARD",0,"Talbott","","","TN","Hamblen County","America/New_York","423, 865",NA,"US",36.14,-83.4,8030
+37878,"STANDARD",0,"Tallassee","","Happy Valley","TN","Blount County","America/New_York","423, 865",NA,"US",35.6,-83.98,380
+37879,"STANDARD",0,"Tazewell","","","TN","Claiborne County","America/New_York","276, 423, 865",NA,"US",36.45,-83.57,8310
+37880,"STANDARD",0,"Ten Mile","","","TN","Meigs County","America/New_York","423, 865",NA,"US",35.66,-84.66,3220
+37881,"STANDARD",0,"Thorn Hill","Treadway","","TN","Grainger County","America/New_York","423, 865",NA,"US",36.35,-83.41,1820
+37882,"STANDARD",0,"Townsend","","","TN","Blount County","America/New_York","423, 828, 865",NA,"US",35.67,-83.75,2740
+37885,"STANDARD",0,"Vonore","","","TN","Monroe County","America/New_York","423, 828, 865",NA,"US",35.59,-84.23,5390
+37886,"STANDARD",0,"Walland","","","TN","Blount County","America/New_York","865",NA,"US",35.72,-83.81,3940
+37887,"STANDARD",0,"Wartburg","","","TN","Morgan County","America/New_York","423, 865, 931",NA,"US",36.1,-84.58,4450
+37888,"STANDARD",0,"Washburn","","","TN","Grainger County","America/New_York","423, 865",NA,"US",36.31,-83.59,2270
+37890,"STANDARD",0,"White Pine","Baneberry","","TN","Jefferson County","America/New_York","423, 865",NA,"US",36.09,-83.29,6280
+37891,"STANDARD",0,"Whitesburg","","","TN","Hamblen County","America/New_York","423",NA,"US",36.29,-83.13,3050
+37892,"STANDARD",0,"Winfield","","","TN","Scott County","America/New_York","423, 606",NA,"US",36.56,-84.45,1560
+37901,"PO BOX",0,"Knoxville","","Knox","TN","Knox County","America/New_York","865",NA,"US",35.97,-83.94,488
+37902,"STANDARD",0,"Knoxville","","","TN","Knox County","America/New_York","865",NA,"US",35.96,-83.92,1470
+37909,"STANDARD",0,"Knoxville","","","TN","Knox County","America/New_York","865",NA,"US",35.95,-84.02,13110
+37912,"STANDARD",0,"Knoxville","","","TN","Knox County","America/New_York","865",NA,"US",36.01,-83.98,18780
+37914,"STANDARD",0,"Knoxville","","","TN","Knox County","America/New_York","865",NA,"US",35.98,-83.8,17480
+37915,"STANDARD",0,"Knoxville","","","TN","Knox County","America/New_York","865",NA,"US",35.97,-83.9,3760
+37916,"STANDARD",0,"Knoxville","","","TN","Knox County","America/New_York","865",NA,"US",35.95,-83.93,1010
+37917,"STANDARD",0,"Knoxville","","","TN","Knox County","America/New_York","865",NA,"US",36,-83.91,18300
+37918,"STANDARD",0,"Knoxville","","","TN","Knox County","America/New_York","865",NA,"US",36.06,-83.92,39730
+37919,"STANDARD",0,"Knoxville","","","TN","Knox County","America/New_York","865",NA,"US",35.91,-84,26410
+37920,"STANDARD",0,"Knoxville","Kimberlin Heights, Kimberlin Hgt","","TN","Knox County","America/New_York","865",NA,"US",35.91,-83.87,32350
+37921,"STANDARD",0,"Knoxville","","","TN","Knox County","America/New_York","865",NA,"US",35.97,-83.94,24000
+37922,"STANDARD",0,"Knoxville","Concord, Concord Farr, Concord Farragut","","TN","Knox County","America/New_York","865",NA,"US",35.86,-84.1,39220
+37923,"STANDARD",0,"Knoxville","","","TN","Knox County","America/New_York","865",NA,"US",35.93,-84.08,26860
+37924,"STANDARD",0,"Knoxville","","","TN","Knox County","America/New_York","865",NA,"US",36.03,-83.8,11800
+37927,"PO BOX",0,"Knoxville","","","TN","Knox County","America/New_York","865",NA,"US",35.97,-83.94,612
+37928,"PO BOX",0,"Knoxville","","","TN","Knox County","America/New_York","865",NA,"US",35.97,-83.94,565
+37929,"STANDARD",0,"Knoxville","","Plaza Tower","TN","Knox County","America/New_York","865",NA,"US",35.96,-83.92,0
+37930,"PO BOX",0,"Knoxville","","","TN","Knox County","America/New_York","865",NA,"US",35.97,-83.94,906
+37931,"STANDARD",0,"Knoxville","","","TN","Knox County","America/New_York","865",NA,"US",35.98,-84.13,29530
+37932,"STANDARD",0,"Knoxville","","","TN","Knox County","America/New_York","865",NA,"US",35.92,-84.2,22510
+37933,"PO BOX",0,"Knoxville","Farragut","Concord Farragut","TN","Knox County","America/New_York","865",NA,"US",35.97,-83.94,750
+37934,"STANDARD",0,"Farragut","Concord, Knoxville","Concord Farr, Concord Farragut, Knox, Knx, Kville","TN","Knox County","America/New_York","865",NA,"US",35.87,-84.17,27040
+37938,"STANDARD",0,"Knoxville","","","TN","Knox County","America/New_York","865",NA,"US",36.12,-83.94,17900
+37939,"PO BOX",0,"Knoxville","","","TN","Knox County","America/New_York","865",NA,"US",35.97,-83.94,491
+37940,"PO BOX",0,"Knoxville","","","TN","Knox County","America/New_York","865",NA,"US",35.97,-83.94,654
+37950,"PO BOX",0,"Knoxville","","","TN","Knox County","America/New_York","865",NA,"US",35.97,-83.94,1031
+37990,"UNIQUE",1,"Knoxville","","The Mail Box","TN","Knox County","America/New_York","865",NA,"US",35.86,-84.12,0
+37995,"UNIQUE",0,"Knoxville","","First Tenn National Bank","TN","Knox County","America/New_York","865",NA,"US",35.97,-83.94,36
+37996,"UNIQUE",0,"Knoxville","","University Of Tenn","TN","Knox County","America/New_York","865",NA,"US",35.97,-83.94,90
+37997,"UNIQUE",0,"Knoxville","","Suntrust Bank","TN","Knox County","America/New_York","865",NA,"US",35.97,-83.94,0
+37998,"UNIQUE",0,"Knoxville","","Johnson Bible College","TN","Knox County","America/New_York","865",NA,"US",35.97,-83.94,344
+38001,"STANDARD",0,"Alamo","","","TN","Crockett County","America/Chicago","731",NA,"US",35.78,-89.11,3770
+38002,"STANDARD",0,"Arlington","Bartlett, Lakeland","","TN","Shelby County","America/Chicago","901",NA,"US",35.28,-89.66,43430
+38004,"STANDARD",0,"Atoka","","Crosstown","TN","Tipton County","America/Chicago","901",NA,"US",35.44,-89.77,11370
+38006,"STANDARD",0,"Bells","","","TN","Crockett County","America/Chicago","731",NA,"US",35.71,-89.08,4650
+38007,"PO BOX",0,"Bogota","","","TN","Dyer County","America/Chicago","731",NA,"US",36.16,-89.44,157
+38008,"STANDARD",0,"Bolivar","","","TN","Hardeman County","America/Chicago","731",NA,"US",35.26,-88.99,7720
+38010,"PO BOX",0,"Braden","","","TN","Fayette County","America/Chicago","901",NA,"US",35.36,-89.57,18
+38011,"STANDARD",0,"Brighton","","","TN","Tipton County","America/Chicago","901",NA,"US",35.47,-89.73,8610
+38012,"STANDARD",0,"Brownsville","","","TN","Haywood County","America/Chicago","731, 901",NA,"US",35.59,-89.25,11770
+38014,"PO BOX",0,"Brunswick","","","TN","Shelby County","America/Chicago","901",NA,"US",35.28,-89.72,173
+38015,"STANDARD",0,"Burlison","Gilt Edge","Randolph","TN","Tipton County","America/Chicago","731, 901",NA,"US",35.55,-89.78,2340
+38016,"STANDARD",0,"Cordova","","","TN","Shelby County","America/Chicago","901",NA,"US",35.18,-89.76,41840
+38017,"STANDARD",0,"Collierville","Fisherville, Piperton","","TN","Shelby County","America/Chicago","662, 901",NA,"US",35.05,-89.67,54840
+38018,"STANDARD",0,"Cordova","","","TN","Shelby County","America/Chicago","901",NA,"US",35.15,-89.75,33050
+38019,"STANDARD",0,"Covington","Garland","","TN","Tipton County","America/Chicago","731, 901",NA,"US",35.56,-89.64,12660
+38021,"PO BOX",0,"Crockett Mills","Crockett Mls","","TN","Crockett County","America/Chicago","731",NA,"US",35.87,-89.18,180
+38023,"STANDARD",0,"Drummonds","","","TN","Tipton County","America/Chicago","731, 870, 901",NA,"US",35.46,-89.94,4870
+38024,"STANDARD",0,"Dyersburg","","","TN","Dyer County","America/Chicago","731",NA,"US",36.03,-89.38,21730
+38025,"PO BOX",0,"Dyersburg","","","TN","Dyer County","America/Chicago","731",NA,"US",36.03,-89.38,924
+38027,"PO BOX",0,"Collierville","","Colliervl, Colliervle, Fisherville, Piperton","TN","Shelby County","America/Chicago","901",NA,"US",35.05,-89.67,694
+38028,"STANDARD",0,"Eads","","","TN","Fayette County","America/Chicago","901",NA,"US",35.2,-89.66,7180
+38029,"PO BOX",0,"Ellendale","","","TN","Shelby County","America/Chicago","901",NA,"US",35.24,-89.82,445
+38030,"STANDARD",0,"Finley","","","TN","Dyer County","America/Chicago","573, 731, 870",NA,"US",35.98,-89.58,660
+38034,"STANDARD",0,"Friendship","","","TN","Crockett County","America/Chicago","731",NA,"US",35.91,-89.24,2420
+38036,"PO BOX",0,"Gallaway","","","TN","Fayette County","America/Chicago","901",NA,"US",35.33,-89.62,407
+38037,"STANDARD",0,"Gates","","","TN","Lauderdale County","America/Chicago","731",NA,"US",35.83,-89.4,1380
+38039,"STANDARD",0,"Grand Junction","Grand Jct","","TN","Hardeman County","America/Chicago","662, 731, 901",NA,"US",35.04,-89.18,1600
+38040,"STANDARD",0,"Halls","","","TN","Lauderdale County","America/Chicago","731, 870",NA,"US",35.88,-89.4,4030
+38041,"STANDARD",0,"Henning","Fort Pillow","","TN","Lauderdale County","America/Chicago","731, 870, 901",NA,"US",35.67,-89.57,2020
+38042,"STANDARD",0,"Hickory Valley","Hickory Vly","","TN","Hardeman County","America/Chicago","731, 901",NA,"US",35.15,-89.12,560
+38044,"STANDARD",0,"Hornsby","","","TN","Hardeman County","America/Chicago","731",NA,"US",35.22,-88.83,640
+38045,"PO BOX",0,"Laconia","","","TN","Fayette County","America/Chicago","901",NA,"US",35.31,-89.23,28
+38046,"PO BOX",0,"La Grange","","","TN","Fayette County","America/Chicago","901",NA,"US",35.05,-89.24,205
+38047,"STANDARD",0,"Lenox","","","TN","Dyer County","America/Chicago","731",NA,"US",36.09,-89.5,119
+38048,"PO BOX",0,"Macon","","","TN","Fayette County","America/Chicago","901",NA,"US",35.17,-89.54,107
+38049,"STANDARD",0,"Mason","","","TN","Tipton County","America/Chicago","731, 901",NA,"US",35.41,-89.53,3540
+38050,"PO BOX",0,"Maury City","","","TN","Crockett County","America/Chicago","731",NA,"US",35.82,-89.23,785
+38052,"STANDARD",0,"Middleton","","","TN","Hardeman County","America/Chicago","662, 731",NA,"US",35.06,-88.89,3220
+38053,"STANDARD",0,"Millington","","Barretville, Cloverdale, Cuba, Dixonville, East Acres, Kerrville, Locke, Lucy, Quito, Rosemark, Wilkinsville, Woodstock","TN","Shelby County","America/Chicago","870, 901",NA,"US",35.33,-89.88,24020
+38054,"PO BOX",0,"Millington","","Naval Hospital","TN","Shelby County","America/Chicago","901",NA,"US",35.34,-89.87,200
+38055,"UNIQUE",0,"Millington","","Naval Personel Commnd","TN","Shelby County","America/Chicago","901",NA,"US",35.33,-89.88,0
+38057,"STANDARD",0,"Moscow","","","TN","Fayette County","America/Chicago","662, 901",NA,"US",35.06,-89.39,3250
+38058,"STANDARD",0,"Munford","","","TN","Tipton County","America/Chicago","901",NA,"US",35.44,-89.8,10190
+38059,"STANDARD",0,"Newbern","","","TN","Dyer County","America/Chicago","731",NA,"US",36.11,-89.26,6880
+38060,"STANDARD",0,"Oakland","Somerville","","TN","Fayette County","America/Chicago","901",NA,"US",35.22,-89.51,11480
+38061,"STANDARD",0,"Pocahontas","","Essary Springs","TN","Hardeman County","America/Chicago","662, 731",NA,"US",35.05,-88.81,710
+38063,"STANDARD",0,"Ripley","","","TN","Lauderdale County","America/Chicago","731, 870",NA,"US",35.74,-89.53,12470
+38066,"STANDARD",0,"Rossville","","","TN","Fayette County","America/Chicago","662, 901",NA,"US",35.04,-89.54,3190
+38067,"STANDARD",0,"Saulsbury","","","TN","Hardeman County","America/Chicago","662, 731",NA,"US",35.04,-89.08,1030
+38068,"STANDARD",0,"Somerville","Mason","","TN","Fayette County","America/Chicago","731, 901",NA,"US",35.23,-89.35,9240
+38069,"STANDARD",0,"Stanton","","","TN","Haywood County","America/Chicago","731, 901",NA,"US",35.46,-89.4,2060
+38070,"PO BOX",0,"Tigrett","","","TN","Dyer County","America/Chicago","731",NA,"US",35.94,-89.25,167
+38071,"PO BOX",0,"Tipton","","","TN","Tipton County","America/Chicago","901",NA,"US",35.46,-89.97,171
+38075,"STANDARD",0,"Whiteville","Somerville","","TN","Hardeman County","America/Chicago","731, 901",NA,"US",35.32,-89.14,3310
+38076,"STANDARD",0,"Williston","Moscow, Oakland, Rossville","","TN","Fayette County","America/Chicago","901",NA,"US",35.14,-89.44,780
+38077,"PO BOX",0,"Wynnburg","","","TN","Lake County","America/Chicago","731",NA,"US",36.33,-89.47,95
+38079,"STANDARD",0,"Tiptonville","","","TN","Lake County","America/Chicago","270, 364, 573, 731",NA,"US",36.37,-89.47,2300
+38080,"STANDARD",0,"Ridgely","Miston","","TN","Lake County","America/Chicago","573, 731",NA,"US",36.26,-89.48,1910
+38083,"PO BOX",0,"Millington","","Millingtn","TN","Shelby County","America/Chicago","901",NA,"US",35.33,-89.88,628
+38088,"PO BOX",0,"Cordova","","","TN","Shelby County","America/Chicago","901",NA,"US",35.15,-89.75,1002
+38101,"PO BOX",0,"Memphis","","","TN","Shelby County","America/Chicago","901",NA,"US",35.1,-90,847
+38103,"STANDARD",0,"Memphis","","","TN","Shelby County","America/Chicago","870, 901",NA,"US",35.15,-90.05,9240
+38104,"STANDARD",0,"Memphis","","Mem, Mphs","TN","Shelby County","America/Chicago","901",NA,"US",35.13,-90,16130
+38105,"STANDARD",0,"Memphis","","Mem, Mphs","TN","Shelby County","America/Chicago","901",NA,"US",35.15,-90.03,3740
+38106,"STANDARD",0,"Memphis","","Mem, Mphs","TN","Shelby County","America/Chicago","901",NA,"US",35.1,-90.04,17930
+38107,"STANDARD",0,"Memphis","","Mem, Mphs","TN","Shelby County","America/Chicago","901",NA,"US",35.17,-90.02,12460
+38108,"STANDARD",0,"Memphis","","Mem, Mphs","TN","Shelby County","America/Chicago","901",NA,"US",35.18,-89.97,13170
+38109,"STANDARD",0,"Memphis","","Mem, Mphs","TN","Shelby County","America/Chicago","662, 901",NA,"US",35.04,-90.16,38250
+38110,"UNIQUE",1,"Memphis","","Mem, I R S, Mphs","TN","Shelby County","America/Chicago","901",NA,"US",35.05,-89.94,0
+38111,"STANDARD",0,"Memphis","","Mem, Mphs","TN","Shelby County","America/Chicago","901",NA,"US",35.11,-89.94,30590
+38112,"STANDARD",0,"Memphis","","Mem, Mphs","TN","Shelby County","America/Chicago","901",NA,"US",35.15,-89.98,12130
+38113,"PO BOX",0,"Memphis","","Mem, Mphs","TN","Shelby County","America/Chicago","870, 901",NA,"US",35.1,-90.14,103
+38114,"STANDARD",0,"Memphis","","Mem, Mphs","TN","Shelby County","America/Chicago","901",NA,"US",35.1,-90,19310
+38115,"STANDARD",0,"Memphis","Hickory Hill","Mem, Mphs","TN","Shelby County","America/Chicago","901",NA,"US",35.05,-89.86,31990
+38116,"STANDARD",0,"Memphis","","Mem, Mphs","TN","Shelby County","America/Chicago","662, 901",NA,"US",35.03,-90.01,33980
+38117,"STANDARD",0,"Memphis","","Mem, Mphs","TN","Shelby County","America/Chicago","901",NA,"US",35.12,-89.91,24290
+38118,"STANDARD",0,"Memphis","","Mem, Mphs","TN","Shelby County","America/Chicago","901",NA,"US",35.03,-89.93,34220
+38119,"STANDARD",0,"Memphis","","Mem, Mphs","TN","Shelby County","America/Chicago","901",NA,"US",35.08,-89.85,20670
+38120,"STANDARD",0,"Memphis","","Mem, Mphs","TN","Shelby County","America/Chicago","901",NA,"US",35.12,-89.85,13270
+38122,"STANDARD",0,"Memphis","","Mem, Mphs","TN","Shelby County","America/Chicago","901",NA,"US",35.16,-89.92,20530
+38124,"PO BOX",0,"Memphis","","Mem, Mphs","TN","Shelby County","America/Chicago","901",NA,"US",35.1,-90,254
+38125,"STANDARD",0,"Memphis","Hickory Hill","Mem, Mphs","TN","Shelby County","America/Chicago","662, 901",NA,"US",35.03,-89.79,37900
+38126,"STANDARD",0,"Memphis","","Mem, Mphs","TN","Shelby County","America/Chicago","901",NA,"US",35.13,-90.04,4640
+38127,"STANDARD",0,"Memphis","","Mem, Mphs","TN","Shelby County","America/Chicago","901",NA,"US",35.24,-90.02,36040
+38128,"STANDARD",0,"Memphis","","Mem, Mphs","TN","Shelby County","America/Chicago","901",NA,"US",35.22,-89.93,37260
+38130,"PO BOX",0,"Memphis","","Mem, Mphs","TN","Shelby County","America/Chicago","901",NA,"US",35.1,-90,681
+38131,"STANDARD",0,"Memphis","","","TN","Shelby County","America/Chicago","901",NA,"US",35.07,-89.99,0
+38132,"STANDARD",0,"Memphis","","Mem, Mphs","TN","Shelby County","America/Chicago","901",NA,"US",35.07,-89.99,67
+38133,"STANDARD",0,"Memphis","Bartlett","Mem, Mphs","TN","Shelby County","America/Chicago","901",NA,"US",35.21,-89.79,20800
+38134,"STANDARD",0,"Memphis","Bartlett","Mem, Mphs","TN","Shelby County","America/Chicago","901",NA,"US",35.17,-89.86,32940
+38135,"STANDARD",0,"Memphis","Bartlett","Mem, Mphs","TN","Shelby County","America/Chicago","901",NA,"US",35.24,-89.85,27680
+38136,"UNIQUE",0,"Memphis","","Mem, Memphis Networks Dist Ctr, Mphs","TN","Shelby County","America/Chicago","901",NA,"US",35.1,-90,0
+38137,"STANDARD",0,"Memphis","","Mem, Mphs","TN","Shelby County","America/Chicago","901",NA,"US",35.1,-90,42
+38138,"STANDARD",0,"Germantown","Memphis","Mem, Mphs","TN","Shelby County","America/Chicago","901",NA,"US",35.08,-89.79,25260
+38139,"STANDARD",0,"Germantown","Memphis","Mem, Mphs","TN","Shelby County","America/Chicago","901",NA,"US",35.08,-89.76,16980
+38141,"STANDARD",0,"Memphis","","Mem, Mphs","TN","Shelby County","America/Chicago","662, 901",NA,"US",35.02,-89.86,20760
+38142,"UNIQUE",1,"Memphis","","Mphs, Credit Card Service Center, Mem","TN","Shelby County","America/Chicago","901",NA,"US",35.14,-90.04,0
+38145,"UNIQUE",0,"Memphis","","Mem, Memphis Light Gas And Water, Mphs","TN","Shelby County","America/Chicago","901",NA,"US",35.1,-90,0
+38147,"UNIQUE",1,"Memphis","","Mem, Mphs, Regions Bank","TN","Shelby County","America/Chicago","901",NA,"US",35.1,-90,0
+38148,"UNIQUE",0,"Memphis","","First Tenn National Bank, Mem, Mphs","TN","Shelby County","America/Chicago","901",NA,"US",35.1,-90,0
+38150,"UNIQUE",0,"Memphis","","Mem, Mphs, Suntrust Bank","TN","Shelby County","America/Chicago","901",NA,"US",35.1,-90,0
+38151,"UNIQUE",0,"Memphis","","Mem, Mphs, Schering Plough Inc","TN","Shelby County","America/Chicago","901",NA,"US",35.1,-90,0
+38152,"UNIQUE",0,"Memphis","","Mem, Mphs, University Of Memphis","TN","Shelby County","America/Chicago","901",NA,"US",35.12,-89.94,140
+38157,"STANDARD",0,"Memphis","","","TN","Shelby County","America/Chicago","901",NA,"US",35.1,-90,23
+38159,"UNIQUE",0,"Memphis","","Regions Bank","TN","Shelby County","America/Chicago","901",NA,"US",35.1,-90,0
+38161,"UNIQUE",0,"Memphis","","Us Postal Inspect Srvc","TN","Shelby County","America/Chicago","901",NA,"US",35.1,-90,0
+38163,"UNIQUE",0,"Memphis","","Univ Of Tn, University Of Tn","TN","Shelby County","America/Chicago","901",NA,"US",35.1,-90,18
+38165,"UNIQUE",1,"Memphis","","Memphis Rcsc","TN","Shelby County","America/Chicago","901",NA,"US",35.14,-90.04,0
+38166,"UNIQUE",0,"Memphis","","Eastern Area","TN","Shelby County","America/Chicago","901",NA,"US",35.1,-90,0
+38167,"PO BOX",0,"Memphis","","","TN","Shelby County","America/Chicago","901",NA,"US",35.1,-90,596
+38168,"PO BOX",0,"Memphis","","Mem, Mphs","TN","Shelby County","America/Chicago","901",NA,"US",35.1,-90,614
+38173,"PO BOX",0,"Memphis","","Mem","TN","Shelby County","America/Chicago","901",NA,"US",35.1,-90,314
+38174,"PO BOX",0,"Memphis","","Mem, Mphs","TN","Shelby County","America/Chicago","901",NA,"US",35.1,-90,544
+38175,"PO BOX",0,"Memphis","","","TN","Shelby County","America/Chicago","901",NA,"US",35.1,-90,1142
+38177,"PO BOX",0,"Memphis","","","TN","Shelby County","America/Chicago","901",NA,"US",35.1,-90,284
+38181,"PO BOX",0,"Memphis","","Mem, Mphs","TN","Shelby County","America/Chicago","901",NA,"US",35.1,-90,1033
+38182,"PO BOX",0,"Memphis","","Mem, Mphs","TN","Shelby County","America/Chicago","901",NA,"US",35.1,-90,128
+38183,"PO BOX",0,"Germantown","","","TN","Shelby County","America/Chicago","901",NA,"US",35.08,-89.79,910
+38184,"PO BOX",0,"Memphis","Bartlett","Mem, Mphs","TN","Shelby County","America/Chicago","901",NA,"US",35.1,-90,857
+38186,"PO BOX",0,"Memphis","","","TN","Shelby County","America/Chicago","901",NA,"US",35.1,-90,708
+38187,"PO BOX",0,"Memphis","","Mem, Mphs","TN","Shelby County","America/Chicago","901",NA,"US",35.1,-90,556
+38188,"UNIQUE",0,"Memphis","","Natl Customer Support Ctr","TN","Shelby County","America/Chicago","901",NA,"US",35.1,-90,0
+38190,"PO BOX",0,"Memphis","","","TN","Shelby County","America/Chicago","901",NA,"US",35.1,-90,657
+38193,"UNIQUE",0,"Memphis","","Sharp Electronic Manufac","TN","Shelby County","America/Chicago","901",NA,"US",35.1,-90,0
+38194,"UNIQUE",0,"Memphis","","Federal Express","TN","Shelby County","America/Chicago","901",NA,"US",35.1,-90,0
+38197,"UNIQUE",0,"Memphis","","International Paper Co","TN","Shelby County","America/Chicago","901",NA,"US",35.1,-90,45
+38201,"STANDARD",0,"Mc Kenzie","","","TN","Carroll County","America/Chicago","731",NA,"US",36.13,-88.51,7770
+38220,"STANDARD",0,"Atwood","","","TN","Carroll County","America/Chicago","731",NA,"US",35.97,-88.67,1530
+38221,"STANDARD",0,"Big Sandy","","","TN","Benton County","America/Chicago","731, 931",NA,"US",36.23,-88.08,2560
+38222,"STANDARD",0,"Buchanan","","","TN","Henry County","America/Chicago","270, 364, 731, 931",NA,"US",36.42,-88.17,2490
+38223,"PO BOX",0,"Como","","","TN","Henry County","America/Chicago","731",NA,"US",36.28,-88.5,62
+38224,"STANDARD",0,"Cottage Grove","","","TN","Henry County","America/Chicago","270, 364, 731",NA,"US",36.37,-88.47,860
+38225,"STANDARD",0,"Dresden","","","TN","Weakley County","America/Chicago","731",NA,"US",36.27,-88.69,4760
+38226,"STANDARD",0,"Dukedom","","","TN","Weakley County","America/Chicago","270, 364, 731",NA,"US",36.47,-88.66,270
+38227,"STANDARD",1,"Elbridge","","","TN","","America/Chicago","731",NA,"US",36.26,-89.32,0
+38229,"STANDARD",0,"Gleason","","","TN","Weakley County","America/Chicago","731",NA,"US",36.21,-88.61,2320
+38230,"STANDARD",0,"Greenfield","","","TN","Weakley County","America/Chicago","731",NA,"US",36.15,-88.8,2860
+38231,"STANDARD",0,"Henry","","","TN","Henry County","America/Chicago","731",NA,"US",36.2,-88.41,1450
+38232,"STANDARD",0,"Hornbeak","","","TN","Obion County","America/Chicago","731",NA,"US",36.33,-89.29,1560
+38233,"STANDARD",0,"Kenton","","Masonhall","TN","Gibson County","America/Chicago","731",NA,"US",36.19,-89.01,2150
+38235,"PO BOX",0,"Mc Lemoresville","Mc Lemoresvle","Mclemoresville","TN","Carroll County","America/Chicago","731",NA,"US",35.99,-88.58,304
+38236,"STANDARD",0,"Mansfield","","","TN","Henry County","America/Chicago","731",NA,"US",36.18,-88.28,550
+38237,"STANDARD",0,"Martin","","","TN","Weakley County","America/Chicago","270, 364, 731",NA,"US",36.34,-88.85,11430
+38238,"UNIQUE",0,"Martin","","University Of Tn","TN","Weakley County","America/Chicago","731",NA,"US",36.34,-88.85,37
+38240,"STANDARD",0,"Obion","","","TN","Obion County","America/Chicago","731",NA,"US",36.26,-89.19,1620
+38241,"STANDARD",0,"Palmersville","","","TN","Weakley County","America/Chicago","270, 364, 731",NA,"US",36.41,-88.58,560
+38242,"STANDARD",0,"Paris","","","TN","Henry County","America/Chicago","731",NA,"US",36.3,-88.3,16870
+38251,"STANDARD",0,"Puryear","","","TN","Henry County","America/Chicago","270, 364, 731",NA,"US",36.44,-88.33,2450
+38253,"STANDARD",0,"Rives","","","TN","Obion County","America/Chicago","731",NA,"US",36.35,-89.04,880
+38254,"PO BOX",0,"Samburg","","","TN","Obion County","America/Chicago","731",NA,"US",36.37,-89.35,190
+38255,"STANDARD",0,"Sharon","","","TN","Weakley County","America/Chicago","731",NA,"US",36.23,-88.82,1770
+38256,"STANDARD",0,"Springville","","","TN","Henry County","America/Chicago","731, 931",NA,"US",36.25,-88.15,2840
+38257,"STANDARD",0,"South Fulton","","","TN","Obion County","America/Chicago","270, 364, 731",NA,"US",36.49,-88.88,3600
+38258,"STANDARD",0,"Trezevant","","","TN","Carroll County","America/Chicago","731",NA,"US",36.01,-88.62,1180
+38259,"STANDARD",0,"Trimble","","","TN","Dyer County","America/Chicago","731",NA,"US",36.2,-89.18,640
+38260,"STANDARD",0,"Troy","","","TN","Obion County","America/Chicago","731",NA,"US",36.33,-89.16,3410
+38261,"STANDARD",0,"Union City","","","TN","Obion County","America/Chicago","270, 364, 731",NA,"US",36.42,-89.05,13640
+38271,"PO BOX",0,"Woodland Mills","Woodland Mls","","TN","Obion County","America/Chicago","731",NA,"US",36.47,-89.11,142
+38281,"PO BOX",0,"Union City","","Union Cty, Union Cy","TN","Obion County","America/Chicago","731",NA,"US",36.42,-89.05,724
+38301,"STANDARD",0,"Jackson","","","TN","Madison County","America/Chicago","731",NA,"US",35.63,-88.82,25950
+38302,"PO BOX",0,"Jackson","","","TN","Madison County","America/Chicago","731",NA,"US",35.63,-88.82,792
+38303,"PO BOX",0,"Jackson","","","TN","Madison County","America/Chicago","731",NA,"US",35.63,-88.82,253
+38305,"STANDARD",0,"Jackson","","","TN","Madison County","America/Chicago","731",NA,"US",35.7,-88.77,46670
+38308,"PO BOX",0,"Jackson","","","TN","Madison County","America/Chicago","731",NA,"US",35.63,-88.82,560
+38310,"STANDARD",0,"Adamsville","","","TN","McNairy County","America/Chicago","731",NA,"US",35.23,-88.38,5110
+38311,"STANDARD",0,"Bath Springs","","","TN","Decatur County","America/Chicago","731, 931",NA,"US",35.44,-88.1,770
+38313,"STANDARD",0,"Beech Bluff","","","TN","Madison County","America/Chicago","731",NA,"US",35.6,-88.63,2850
+38314,"PO BOX",0,"Jackson","","Bemis","TN","Madison County","America/Chicago","731",NA,"US",35.63,-88.82,48
+38315,"STANDARD",0,"Bethel Springs","Bethel Spgs","","TN","McNairy County","America/Chicago","731",NA,"US",35.23,-88.6,2960
+38316,"STANDARD",0,"Bradford","","","TN","Gibson County","America/Chicago","731",NA,"US",36.07,-88.81,2380
+38317,"STANDARD",0,"Bruceton","","","TN","Carroll County","America/Chicago","731",NA,"US",36.03,-88.24,1890
+38318,"STANDARD",0,"Buena Vista","","","TN","Carroll County","America/Chicago","731",NA,"US",35.98,-88.28,370
+38320,"STANDARD",0,"Camden","","","TN","Benton County","America/Chicago","731, 931",NA,"US",36.06,-88.1,8850
+38321,"STANDARD",0,"Cedar Grove","","","TN","Carroll County","America/Chicago","731",NA,"US",35.81,-88.6,2240
+38324,"PO BOX",0,"Clarksburg","","","TN","Carroll County","America/Chicago","731",NA,"US",35.87,-88.38,190
+38326,"STANDARD",0,"Counce","","","TN","Hardin County","America/Chicago","256, 662, 731, 938",NA,"US",35.03,-88.29,2240
+38327,"STANDARD",0,"Crump","","","TN","Hardin County","America/Chicago","731",NA,"US",35.23,-88.32,420
+38328,"STANDARD",0,"Darden","","","TN","Henderson County","America/Chicago","731",NA,"US",35.63,-88.23,730
+38329,"STANDARD",0,"Decaturville","","","TN","Decatur County","America/Chicago","731, 931",NA,"US",35.58,-88.11,2810
+38330,"STANDARD",0,"Dyer","","","TN","Gibson County","America/Chicago","731",NA,"US",36.07,-88.99,3370
+38331,"PO BOX",0,"Eaton","","","TN","Gibson County","America/Chicago","731",NA,"US",35.96,-89.13,16
+38332,"STANDARD",0,"Enville","","","TN","Chester County","America/Chicago","731",NA,"US",35.38,-88.42,910
+38333,"STANDARD",0,"Eva","","","TN","Benton County","America/Chicago","731, 931",NA,"US",36.11,-87.99,370
+38334,"STANDARD",0,"Finger","","","TN","McNairy County","America/Chicago","731",NA,"US",35.35,-88.61,1630
+38336,"PO BOX",0,"Fruitvale","","","TN","Crockett County","America/Chicago","731",NA,"US",35.72,-89.06,0
+38337,"STANDARD",0,"Gadsden","","","TN","Crockett County","America/Chicago","731",NA,"US",35.79,-89.01,1170
+38338,"PO BOX",0,"Gibson","","","TN","Gibson County","America/Chicago","731",NA,"US",35.87,-88.85,352
+38339,"STANDARD",0,"Guys","","","TN","McNairy County","America/Chicago","662, 731",NA,"US",35.05,-88.52,630
+38340,"STANDARD",0,"Henderson","","","TN","Chester County","America/Chicago","731",NA,"US",35.44,-88.64,10400
+38341,"STANDARD",0,"Holladay","","","TN","Benton County","America/Chicago","731, 931",NA,"US",35.89,-88.07,1860
+38342,"STANDARD",0,"Hollow Rock","","","TN","Carroll County","America/Chicago","731",NA,"US",36.03,-88.27,1150
+38343,"STANDARD",0,"Humboldt","Three Way","","TN","Gibson County","America/Chicago","731",NA,"US",35.82,-88.9,13290
+38344,"STANDARD",0,"Huntingdon","","Leach","TN","Carroll County","America/Chicago","731",NA,"US",36,-88.41,7610
+38345,"STANDARD",0,"Huron","","","TN","Henderson County","America/Chicago","731",NA,"US",35.58,-88.5,1790
+38346,"PO BOX",0,"Idlewild","","","TN","Gibson County","America/Chicago","731",NA,"US",35.98,-88.77,67
+38347,"STANDARD",0,"Jacks Creek","","","TN","Chester County","America/Chicago","731",NA,"US",35.48,-88.5,380
+38348,"STANDARD",0,"Lavinia","","","TN","Carroll County","America/Chicago","731",NA,"US",35.86,-88.64,730
+38351,"STANDARD",0,"Lexington","","","TN","Henderson County","America/Chicago","731",NA,"US",35.65,-88.39,15300
+38352,"STANDARD",0,"Luray","","","TN","Chester County","America/Chicago","731",NA,"US",35.53,-88.53,540
+38355,"STANDARD",0,"Medina","","","TN","Gibson County","America/Chicago","731",NA,"US",35.8,-88.77,7310
+38356,"STANDARD",0,"Medon","","","TN","Madison County","America/Chicago","731",NA,"US",35.45,-88.86,1980
+38357,"STANDARD",0,"Michie","","","TN","McNairy County","America/Chicago","662, 731",NA,"US",35.06,-88.42,2340
+38358,"STANDARD",0,"Milan","","Milan Army Ammunition Plant","TN","Gibson County","America/Chicago","731",NA,"US",35.91,-88.75,10520
+38359,"STANDARD",0,"Milledgeville","","","TN","McNairy County","America/Chicago","731",NA,"US",35.37,-88.36,260
+38361,"STANDARD",0,"Morris Chapel","","","TN","Hardin County","America/Chicago","731",NA,"US",35.31,-88.35,840
+38362,"STANDARD",0,"Oakfield","","","TN","Madison County","America/Chicago","731",NA,"US",35.73,-88.78,1200
+38363,"STANDARD",0,"Parsons","","","TN","Decatur County","America/Chicago","731, 931",NA,"US",35.65,-88.12,4420
+38365,"PO BOX",0,"Pickwick Dam","","","TN","Hardin County","America/Chicago","731",NA,"US",35.06,-88.24,245
+38366,"STANDARD",0,"Pinson","","","TN","Madison County","America/Chicago","731",NA,"US",35.47,-88.73,1980
+38367,"STANDARD",0,"Ramer","Eastview","","TN","McNairy County","America/Chicago","662, 731",NA,"US",35.07,-88.61,2110
+38368,"STANDARD",0,"Reagan","","","TN","Henderson County","America/Chicago","731",NA,"US",35.51,-88.35,1660
+38369,"STANDARD",0,"Rutherford","","","TN","Gibson County","America/Chicago","731",NA,"US",36.12,-88.99,1550
+38370,"STANDARD",0,"Saltillo","","","TN","Hardin County","America/Chicago","731",NA,"US",35.37,-88.21,530
+38371,"STANDARD",0,"Sardis","","","TN","Henderson County","America/Chicago","731",NA,"US",35.44,-88.29,1060
+38372,"STANDARD",0,"Savannah","","","TN","Hardin County","America/Chicago","256, 731, 931, 938",NA,"US",35.22,-88.23,14420
+38374,"STANDARD",0,"Scotts Hill","","","TN","Henderson County","America/Chicago","731",NA,"US",35.51,-88.23,1630
+38375,"STANDARD",0,"Selmer","","Lawton","TN","McNairy County","America/Chicago","731",NA,"US",35.17,-88.59,7290
+38376,"STANDARD",0,"Shiloh","","","TN","Hardin County","America/Chicago","731",NA,"US",35.11,-88.36,230
+38377,"PO BOX",0,"Silerton","","","TN","Hardeman County","America/Chicago","731",NA,"US",35.34,-88.8,0
+38378,"PO BOX",0,"Spring Creek","","","TN","Madison County","America/Chicago","731",NA,"US",35.76,-88.68,107
+38379,"STANDARD",0,"Stantonville","","","TN","McNairy County","America/Chicago","731",NA,"US",35.15,-88.42,1090
+38380,"STANDARD",0,"Sugar Tree","","","TN","Decatur County","America/Chicago","731, 931",NA,"US",35.79,-88.02,430
+38381,"STANDARD",0,"Toone","","","TN","Hardeman County","America/Chicago","731",NA,"US",35.35,-88.95,1200
+38382,"STANDARD",0,"Trenton","","","TN","Gibson County","America/Chicago","731",NA,"US",35.97,-88.93,7540
+38387,"STANDARD",0,"Westport","","","TN","Carroll County","America/Chicago","731",NA,"US",35.88,-88.29,330
+38388,"STANDARD",0,"Wildersville","Parker Crossroads, Parker Xroads","","TN","Henderson County","America/Chicago","731",NA,"US",35.78,-88.36,1370
+38389,"PO BOX",0,"Yorkville","","","TN","Gibson County","America/Chicago","731",NA,"US",36.1,-89.12,163
+38390,"STANDARD",0,"Yuma","","","TN","Carroll County","America/Chicago","731",NA,"US",35.86,-88.37,750
+38391,"STANDARD",0,"Denmark","","","TN","Madison County","America/Chicago","731",NA,"US",35.54,-88.97,1060
+38392,"STANDARD",0,"Mercer","","","TN","Madison County","America/Chicago","731",NA,"US",35.48,-89.03,620
+38393,"PO BOX",0,"Chewalla","","","TN","McNairy County","America/Chicago","731",NA,"US",35.02,-88.67,0
+38401,"STANDARD",0,"Columbia","","","TN","Maury County","America/Chicago","615, 629, 931",NA,"US",35.62,-87.04,56060
+38402,"PO BOX",0,"Columbia","","","TN","Maury County","America/Chicago","931",NA,"US",35.62,-87.04,1092
+38425,"STANDARD",0,"Clifton","","","TN","Wayne County","America/Chicago","731, 931",NA,"US",35.38,-87.99,1890
+38449,"STANDARD",0,"Ardmore","","Dellrose","TN","Giles County","America/Chicago","256, 931, 938",NA,"US",35.04,-86.82,2710
+38450,"STANDARD",0,"Collinwood","","","TN","Wayne County","America/Chicago","731, 931",NA,"US",35.17,-87.74,1950
+38451,"STANDARD",0,"Culleoka","","","TN","Maury County","America/Chicago","931",NA,"US",35.46,-86.99,5070
+38452,"STANDARD",0,"Cypress Inn","","","TN","Wayne County","America/Chicago","256, 931, 938",NA,"US",35.05,-87.79,750
+38453,"STANDARD",0,"Dellrose","","","TN","Lincoln County","America/Chicago","931",NA,"US",35.11,-86.8,440
+38454,"STANDARD",0,"Duck River","","","TN","Hickman County","America/Chicago","931",NA,"US",35.71,-87.35,940
+38455,"PO BOX",0,"Elkton","","","TN","Giles County","America/Chicago","931",NA,"US",35.06,-86.89,428
+38456,"STANDARD",0,"Ethridge","","","TN","Lawrence County","America/Chicago","931",NA,"US",35.32,-87.3,3060
+38457,"STANDARD",0,"Five Points","","","TN","Lawrence County","America/Chicago","256, 931, 938",NA,"US",35.03,-87.28,660
+38459,"STANDARD",0,"Frankewing","","","TN","Lincoln County","America/Chicago","931",NA,"US",35.19,-86.8,370
+38460,"STANDARD",0,"Goodspring","","","TN","Giles County","America/Chicago","931",NA,"US",35.12,-87.14,1230
+38461,"STANDARD",0,"Hampshire","","","TN","Maury County","America/Chicago","931",NA,"US",35.58,-87.35,1380
+38462,"STANDARD",0,"Hohenwald","Kimmins","","TN","Lewis County","America/Chicago","931",NA,"US",35.55,-87.55,8960
+38463,"STANDARD",0,"Iron City","","","TN","Wayne County","America/Chicago","256, 931, 938",NA,"US",35.02,-87.58,2250
+38464,"STANDARD",0,"Lawrenceburg","","","TN","Lawrence County","America/Chicago","931",NA,"US",35.24,-87.33,19570
+38468,"STANDARD",0,"Leoma","","","TN","Lawrence County","America/Chicago","931",NA,"US",35.12,-87.3,4900
+38469,"STANDARD",0,"Loretto","","","TN","Lawrence County","America/Chicago","256, 931, 938",NA,"US",35.08,-87.43,3620
+38471,"STANDARD",0,"Lutts","","","TN","Wayne County","America/Chicago","256, 731, 931, 938",NA,"US",35.11,-87.9,380
+38472,"STANDARD",0,"Lynnville","","","TN","Giles County","America/Chicago","931",NA,"US",35.37,-87,2520
+38473,"STANDARD",0,"Minor Hill","","","TN","Giles County","America/Chicago","256, 931, 938",NA,"US",35.03,-87.17,950
+38474,"STANDARD",0,"Mount Pleasant","Mt Pleasant","","TN","Maury County","America/Chicago","931",NA,"US",35.55,-87.19,7280
+38475,"STANDARD",0,"Olivehill","","","TN","Hardin County","America/Chicago","731, 931",NA,"US",35.26,-88.04,620
+38476,"STANDARD",0,"Primm Springs","","","TN","Williamson County","America/Chicago","615, 629, 931",NA,"US",35.8,-87.25,1180
+38477,"STANDARD",0,"Prospect","","","TN","Giles County","America/Chicago","256, 931, 938",NA,"US",35.05,-87,2210
+38478,"STANDARD",0,"Pulaski","","","TN","Giles County","America/Chicago","931",NA,"US",35.19,-87.03,14860
+38481,"STANDARD",0,"Saint Joseph","","St Joseph","TN","Lawrence County","America/Chicago","256, 931, 938",NA,"US",35.03,-87.49,820
+38482,"STANDARD",0,"Santa Fe","","","TN","Maury County","America/Chicago","615, 629, 931",NA,"US",35.75,-87.16,1690
+38483,"STANDARD",0,"Summertown","","","TN","Lawrence County","America/Chicago","931",NA,"US",35.43,-87.33,5370
+38485,"STANDARD",0,"Waynesboro","","","TN","Wayne County","America/Chicago","731, 931",NA,"US",35.32,-87.75,5020
+38486,"STANDARD",0,"Westpoint","","","TN","Lawrence County","America/Chicago","931",NA,"US",35.15,-87.53,900
+38487,"STANDARD",0,"Williamsport","","","TN","Maury County","America/Chicago","931",NA,"US",35.72,-87.23,1010
+38488,"STANDARD",0,"Taft","","","TN","Lincoln County","America/Chicago","256, 931, 938",NA,"US",35.05,-86.68,2170
+38501,"STANDARD",0,"Cookeville","Algood","","TN","Putnam County","America/Chicago","931",NA,"US",36.15,-85.5,30840
+38502,"PO BOX",0,"Cookeville","","","TN","Putnam County","America/Chicago","931",NA,"US",36.15,-85.5,1019
+38503,"PO BOX",0,"Cookeville","","","TN","Putnam County","America/Chicago","931",NA,"US",36.16,-85.51,1395
+38504,"STANDARD",0,"Allardt","","","TN","Fentress County","America/Chicago","423, 931",NA,"US",36.39,-84.74,1090
+38505,"UNIQUE",0,"Cookeville","","Tennessee Tech Univ","TN","Putnam County","America/Chicago","931",NA,"US",36.17,-85.51,71
+38506,"STANDARD",0,"Cookeville","","Cookevl, Cookevle","TN","Putnam County","America/Chicago","931",NA,"US",36.19,-85.43,26930
+38541,"STANDARD",0,"Allons","","","TN","Overton County","America/Chicago","606, 931",NA,"US",36.51,-85.32,1390
+38542,"STANDARD",0,"Allred","","","TN","Overton County","America/Chicago","931",NA,"US",36.32,-85.2,31
+38543,"STANDARD",0,"Alpine","","","TN","Overton County","America/Chicago","931",NA,"US",36.36,-85.14,480
+38544,"STANDARD",0,"Baxter","","","TN","Putnam County","America/Chicago","615, 629, 931",NA,"US",36.15,-85.63,6770
+38545,"STANDARD",0,"Bloomington Springs","Blmngton Spgs","","TN","Jackson County","America/Chicago","931",NA,"US",36.22,-85.66,1170
+38547,"STANDARD",0,"Brush Creek","","","TN","Smith County","America/Chicago","615, 629",NA,"US",36.11,-86.01,1990
+38548,"STANDARD",0,"Buffalo Valley","Buffalo Vly","","TN","Putnam County","America/Chicago","615, 629, 931",NA,"US",36.18,-85.75,750
+38549,"STANDARD",0,"Byrdstown","","","TN","Pickett County","America/Chicago","606, 931",NA,"US",36.57,-85.13,3100
+38550,"PO BOX",0,"Campaign","","","TN","Warren County","America/Chicago","931",NA,"US",35.77,-85.63,56
+38551,"STANDARD",0,"Celina","","","TN","Clay County","America/Chicago","270, 364, 606, 931",NA,"US",36.54,-85.5,3230
+38552,"STANDARD",0,"Chestnut Mound","Chestnut Mnd","","TN","Smith County","America/Chicago","615, 629, 931",NA,"US",36.22,-85.81,340
+38553,"STANDARD",0,"Clarkrange","","","TN","Fentress County","America/Chicago","931",NA,"US",36.21,-84.96,2200
+38554,"STANDARD",0,"Crawford","","","TN","Overton County","America/Chicago","931",NA,"US",36.24,-85.18,760
+38555,"STANDARD",0,"Crossville","Fairfield Glade, Fairfld Glde","Fairfield","TN","Cumberland County","America/Chicago","865, 931",NA,"US",35.95,-85.03,16190
+38556,"STANDARD",0,"Jamestown","","","TN","Fentress County","America/Chicago","423, 931",NA,"US",36.43,-84.93,9990
+38557,"PO BOX",0,"Crossville","","","TN","Cumberland County","America/Chicago","931",NA,"US",35.95,-85.03,1851
+38558,"STANDARD",0,"Crossville","","Crossvl, Crossvle, Fairfield, Fairfield Glade, Fairfld Glade","TN","Cumberland County","America/Chicago","865, 931",NA,"US",36.01,-84.87,8870
+38559,"STANDARD",0,"Doyle","","","TN","White County","America/Chicago","931",NA,"US",35.85,-85.51,1070
+38560,"STANDARD",0,"Elmwood","","","TN","Smith County","America/Chicago","615, 629, 931",NA,"US",36.24,-85.88,1230
+38562,"STANDARD",0,"Gainesboro","","","TN","Jackson County","America/Chicago","615, 629, 931",NA,"US",36.36,-85.65,4950
+38563,"STANDARD",0,"Gordonsville","","New Middleton","TN","Smith County","America/Chicago","615, 629",NA,"US",36.18,-85.93,2450
+38564,"STANDARD",0,"Granville","","","TN","Jackson County","America/Chicago","615, 629, 931",NA,"US",36.27,-85.74,500
+38565,"STANDARD",0,"Grimsley","","","TN","Fentress County","America/Chicago","931",NA,"US",36.25,-85.03,1080
+38567,"STANDARD",0,"Hickman","","","TN","Smith County","America/Chicago","615, 629",NA,"US",36.1,-85.9,830
+38568,"STANDARD",0,"Hilham","","","TN","Overton County","America/Chicago","931",NA,"US",36.44,-85.47,1880
+38569,"STANDARD",0,"Lancaster","","","TN","Smith County","America/Chicago","615, 629, 931",NA,"US",36.09,-85.85,340
+38570,"STANDARD",0,"Livingston","","","TN","Overton County","America/Chicago","931",NA,"US",36.38,-85.32,8190
+38571,"STANDARD",0,"Crossville","","","TN","Cumberland County","America/Chicago","423, 865, 931",NA,"US",36.05,-85.01,12070
+38572,"STANDARD",0,"Crossville","","","TN","Cumberland County","America/Chicago","423, 931",NA,"US",35.85,-85.13,10910
+38573,"STANDARD",0,"Monroe","","","TN","Overton County","America/Chicago","931",NA,"US",36.45,-85.2,1840
+38574,"STANDARD",0,"Monterey","","","TN","Putnam County","America/Chicago","931",NA,"US",36.13,-85.24,7440
+38575,"STANDARD",0,"Moss","","","TN","Clay County","America/Chicago","270, 364, 615, 629, 931",NA,"US",36.59,-85.68,890
+38577,"STANDARD",0,"Pall Mall","","","TN","Pickett County","America/Chicago","423, 606, 931",NA,"US",36.56,-84.95,900
+38578,"PO BOX",0,"Pleasant Hill","","","TN","Cumberland County","America/Chicago","931",NA,"US",35.98,-85.2,698
+38579,"STANDARD",0,"Quebeck","","","TN","White County","America/Chicago","931",NA,"US",35.84,-85.55,860
+38580,"STANDARD",0,"Rickman","","","TN","Overton County","America/Chicago","931",NA,"US",36.29,-85.3,1920
+38581,"STANDARD",0,"Rock Island","Bone Cave","","TN","Warren County","America/Chicago","423, 615, 629, 931",NA,"US",35.71,-85.6,3680
+38582,"STANDARD",0,"Silver Point","","","TN","Putnam County","America/Chicago","615, 629, 931",NA,"US",36.09,-85.76,1250
+38583,"STANDARD",0,"Sparta","Ravenscroft","Riverwatch","TN","White County","America/Chicago","615, 629, 931",NA,"US",35.93,-85.47,21570
+38585,"STANDARD",0,"Spencer","","","TN","Van Buren County","America/Chicago","423, 931",NA,"US",35.74,-85.45,3550
+38587,"STANDARD",0,"Walling","","","TN","White County","America/Chicago","615, 629, 931",NA,"US",35.85,-85.62,1270
+38588,"STANDARD",0,"Whitleyville","","","TN","Jackson County","America/Chicago","615, 629, 931",NA,"US",36.48,-85.7,890
+38589,"STANDARD",0,"Wilder","","","TN","Fentress County","America/Chicago","931",NA,"US",36.26,-85.08,220

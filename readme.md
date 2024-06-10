@@ -1,1 +1,59 @@
-# Tennessee Smart Yards calculator web app
+# tnsmartyardcalc
+
+## references and links
+[Deploying a vite-vue3 app in github pages](https://mkay11.medium.com/how-to-deploy-your-vite-vue-3-application-in-github-pages-2023-2b842f50576a)
+
+To build and deploy:
+
+```sh
+npm run deploy
+```
+
+Visit site:
+[https://pamop.github.io/tnsmartyardcalc/](https://pamop.github.io/tnsmartyardcalc/)
+
+
+
+## zip code database from:
+https://www.unitedstateszipcodes.org/zip-code-database/
+
+## Installing pyodide for github pages use with vue/vite
+after running npm install pyodide, follow the following guide: 
+[guide](https://pyodide.org/en/stable/usage/working-with-bundlers.html)
+also note issue [here](https://github.com/pyodide/pyodide/issues/4815)
+also used guidance from chatgpt to use cdn rather than npm 
+phew
+
+# From vue
+
+## Recommended IDE Setup
+
+[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+
+## Customize configuration
+
+See [Vite Configuration Reference](https://vitejs.dev/config/).
+
+## Project Setup
+
+```sh
+npm install
+```
+
+### Compile and Hot-Reload for Development
+
+```sh
+npm run dev
+```
+
+### Compile and Minify for Production
+
+```sh
+npm run build
+```
+
+### Lint with [ESLint](https://eslint.org/)
+
+```sh
+npm run lint
+```
