@@ -61,7 +61,7 @@ else:
 
 LS = find_intersecting_length(slope_percentage, slope_length)
 K = 0.295
-R = 190 # TODO: Get r factor from getRfactor.py
+R = zipdf.loc[zipdf['zip']==zipcode,'rfactor'].values[0] # e.g. 200
 cFactorNative = 0.05
 cFactorGrass = 0.1
 
